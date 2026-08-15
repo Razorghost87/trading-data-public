@@ -1,6 +1,6 @@
 # Trading Digest — 2026-08-15
 
-_Generated 2026-08-15 20:53 SGT (2026-08-15T12:53:53.097Z)_
+_Generated 2026-08-15 21:08 SGT (2026-08-15T13:08:33.372Z)_
 
 ## MACRO — 🟢 RISK-ON  ·  rate overlay: NEUTRAL
 
@@ -9,17 +9,15 @@ _Generated 2026-08-15 20:53 SGT (2026-08-15T12:53:53.097Z)_
 | HY OAS | 2.71% (2wk Δ -13bps) |
 | Curve 10y–2y | 0.51 |
 | 10y / 2y | 4.63% (Δ-5) / 4.15% (Δ-8) |
-| VIX / term ratio | 14.25 (VIX3M 20.5, 0.694) |
-| Breadth >50/200MA | 68.6% / 72.4% (net new-highs 83) |
+| VIX / term ratio | 14.25 (VIX3M 18.5, 0.772) |
+| Breadth >50/200MA | 69.9% / 72.2% (net new-highs 66) |
 | SPY / QQQ vs ATH | -0.2% / -2.0% |
-
-> ℹ️ FRED via keyless fallback (FRED_KEY not set)
 ## REGIME — basket rotation
 
 | Basket | 5d | 20d | Perf.W | Perf.1M | Δ5d |
 |---|--:|--:|--:|--:|--:|
-| space | 1 | 4 | +16.6% | +13.5% | ▲1 |
-| memory | 2 | 6 | +16.4% | -2.4% | ▼1 |
+| space | 1 | 4 | +16.6% | +13.5% | – |
+| memory | 2 | 6 | +16.4% | -2.4% | – |
 | energy | 3 | 3 | +14.2% | +13.6% | – |
 | defense | 4 | 2 | +6.5% | +17.7% | – |
 | gold | 5 | 1 | +2.8% | +18.5% | – |
@@ -37,11 +35,11 @@ _Generated 2026-08-15 20:53 SGT (2026-08-15T12:53:53.097Z)_
 
 _No new S2/S3 transitions today._
 
-**Still active (unchanged):** `AEM`(S2), `NEM`(S2), `WTW`(S2), `ADBE`(S3A), `CRM`(S3A), `FDS`(S3A), `GDDY`(S3A), `GPN`(S3A), `HPQ`(S3A), `INTU`(S3A), `PAYX`(S3A), `PTC`(S3A), `ABNB`(S3D), `AMZN`(S3D), `PLTR`(S3D), `SMCI`(S3D), `ZBRA`(S3D)
+**Still active (unchanged):** `ZBRA`(S2), `ALB`(S3A), `AMD`(S3A), `FOX`(S3A), `FOXA`(S3A), `GLW`(S3A), `ABNB`(S3D), `PLTR`(S3D), `SMCI`(S3D)
 
-**Active verticals (S1):** `MNST`, `MRNA`, `SNDK`, `TPR`, `TTD`, `VEEV`, `WDAY`
+**Active verticals (S1):** `WDC`
 
-_Universe: S1 7 · S2 3 · S3A 9 · S3B 0 · S3C 0 · S3D 5_
+_Universe: S1 1 · S2 1 · S3A 5 · S3B 0 · S3C 0 · S3D 3_
 
 ## MOVERS
 
@@ -92,19 +90,19 @@ _Universe: S1 7 · S2 3 · S3A 9 · S3B 0 · S3C 0 · S3D 5_
 
 ## FUNNEL CANDIDATES — P5 / P14 (mechanical only; feed the state layer)
 
-- **P5** `DDOG` — spike 35.8%, pullback 12.5%, RSI 49.6, vol 0.68
-- **P5** `GEV` — spike 35.5%, pullback 10.7%, RSI 54.7, vol 0.62
-- **P5** `VTR` — spike 27.2%, pullback 10.2%, RSI 45.63, vol 0.66
+- **P5** `AMD` — spike 29.8%, pullback 11.5%, RSI 53.73, vol 0.88
+- **P5** `CMG` — spike 36.7%, pullback 13%, RSI 49.4, vol 0.75
+- **P5** `DDOG` — spike 35.8%, pullback 11.3%, RSI 50.78, vol 0.83
 
 ---
 
 ### Data freshness
 
-- regime: 2026-08-15 20:53 SGT
-- states: 2026-08-14 12:29 SGT
-- movers: 2026-08-15 20:53 SGT
-- candidates: 2026-08-14 12:29 SGT
-- ohlcv: 2026-08-14 12:29 SGT (511 upd / 0 fail)
+- regime: 2026-08-15 21:06 SGT
+- states: 2026-08-15 21:08 SGT
+- movers: 2026-08-15 21:06 SGT
+- candidates: 2026-08-15 21:08 SGT
+- ohlcv: 2026-08-15 21:08 SGT (511 upd / 0 fail)
 
 **Skipped/degraded:** none
 
