@@ -1,6 +1,6 @@
-# Trading Digest — 2026-08-15
+# Trading Digest — 2026-08-17
 
-_Generated 2026-08-15 21:08 SGT (2026-08-15T13:08:33.372Z)_
+_Generated 2026-08-17 07:35 SGT (2026-08-16T23:35:32.959Z)_
 
 ## MACRO — 🟢 RISK-ON  ·  rate overlay: NEUTRAL
 
@@ -9,7 +9,7 @@ _Generated 2026-08-15 21:08 SGT (2026-08-15T13:08:33.372Z)_
 | HY OAS | 2.71% (2wk Δ -13bps) |
 | Curve 10y–2y | 0.51 |
 | 10y / 2y | 4.63% (Δ-5) / 4.15% (Δ-8) |
-| VIX / term ratio | 14.25 (VIX3M 18.5, 0.772) |
+| VIX / term ratio | 14.25 (VIX3M 20.5, 0.694) |
 | Breadth >50/200MA | 69.9% / 72.2% (net new-highs 66) |
 | SPY / QQQ vs ATH | -0.2% / -2.0% |
 ## REGIME — basket rotation
@@ -29,7 +29,7 @@ _Generated 2026-08-15 21:08 SGT (2026-08-15T13:08:33.372Z)_
 
 ## EVENTS — next 14 days
 
-- **T-5** · 2026-08-20 · `SPCX` lockup_tranche — ~7% tranche unlock
+- **T-3** · 2026-08-20 · `SPCX` lockup_tranche — ~7% tranche unlock
 
 ## 🎯 STATE SIGNALS — S2/S3 transitions today
 
@@ -98,11 +98,11 @@ _Universe: S1 1 · S2 1 · S3A 5 · S3B 0 · S3C 0 · S3D 3_
 
 ### Data freshness
 
-- regime: 2026-08-15 21:06 SGT
-- states: 2026-08-15 21:08 SGT
-- movers: 2026-08-15 21:06 SGT
-- candidates: 2026-08-15 21:08 SGT
-- ohlcv: 2026-08-15 21:08 SGT (511 upd / 0 fail)
+- regime: 2026-08-17 07:33 SGT
+- states: 2026-08-17 07:35 SGT
+- movers: 2026-08-17 07:33 SGT
+- candidates: 2026-08-17 07:35 SGT
+- ohlcv: 2026-08-17 07:35 SGT (511 upd / 0 fail)
 
 **Skipped/degraded:** none
 
