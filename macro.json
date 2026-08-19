@@ -1,54 +1,54 @@
 {
   "generated": {
-    "iso": "2026-08-18T23:34:03.904Z",
-    "sgt": "2026-08-19 07:34 SGT"
+    "iso": "2026-08-19T23:34:48.484Z",
+    "sgt": "2026-08-20 07:34 SGT"
   },
-  "posture": "RISK_ON",
+  "posture": "TRANSITION",
   "rate_overlay": "NEUTRAL",
   "inputs": {
     "credit": {
-      "hy_oas_pct": 2.7,
-      "hy_oas_2wk_delta_bps": -8
+      "hy_oas_pct": 2.75,
+      "hy_oas_2wk_delta_bps": 2
     },
     "rates": {
       "dgs2": 4.19,
-      "dgs10": 4.72,
-      "dfii10": 2.44,
-      "curve_slope_10y2y": 0.52,
-      "dgs2_2wk_delta_bps": -6,
-      "dgs10_2wk_delta_bps": 2,
+      "dgs10": 4.71,
+      "dfii10": 2.41,
+      "curve_slope_10y2y": 0.46,
+      "dgs2_2wk_delta_bps": -1,
+      "dgs10_2wk_delta_bps": 8,
       "dfii10_2wk_delta_bps": 1
     },
     "vol": {
-      "vix": 15.84000015258789,
-      "vix3m": 19.270000457763672,
-      "vix_term_ratio": 0.822
+      "vix": 14.890000343322754,
+      "vix3m": 18.56999969482422,
+      "vix_term_ratio": 0.802
     },
     "fx_energy": {
-      "dxy": 99.64399719238281,
-      "brent": 91.37999725341797
+      "dxy": 98.76799774169922,
+      "brent": 91.72000122070312
     },
     "equity": {
       "spy": {
-        "close": 767.45,
+        "close": 769.06,
         "above_20ma": true,
         "above_50ma": true,
         "above_200ma": true,
-        "pct_from_ath": -1.3
+        "pct_from_ath": -1.1
       },
       "qqq": {
-        "close": 717.51,
+        "close": 716.08,
         "above_20ma": true,
         "above_50ma": true,
         "above_200ma": true,
-        "pct_from_ath": -3.8
+        "pct_from_ath": -4
       }
     },
     "breadth": {
       "universe": 508,
-      "breadth_50ma_pct": 62.2,
-      "breadth_200ma_pct": 68.3,
-      "net_new_20d_highs": 37
+      "breadth_50ma_pct": 59.6,
+      "breadth_200ma_pct": 67.9,
+      "net_new_20d_highs": 21
     }
   },
   "logic": {
