@@ -1,0 +1,324 @@
+{
+  "generated": {
+    "iso": "2026-08-21T12:16:03.135Z",
+    "sgt": "2026-08-21 20:16 SGT"
+  },
+  "eval_date": "2026-08-20",
+  "posture": "RISK_ON",
+  "count": 9,
+  "ranked_by": "theme_rank_5d asc, then signal strength",
+  "cards": [
+    {
+      "ticker": "SPCE",
+      "signal": {
+        "state": "S2_CONFIRMED_BREAK",
+        "evidence": {
+          "broke_low": 3.12,
+          "close": 3.08,
+          "vertical_at": "2026-08-07"
+        }
+      },
+      "theme": {
+        "name": "space",
+        "rank_5d": 5,
+        "rank_20d": 3,
+        "notch": 0
+      },
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "short",
+        "entry_ref": 3.08,
+        "stop": 3.47,
+        "target": 2.37,
+        "rr_underlying": 1.82
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 27
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "MRNA",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-08-19",
+          "event_low": 114.46,
+          "gap_pct": 84.3,
+          "day": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 133.32,
+        "stop": 114.46,
+        "target": 176.66,
+        "rr_underlying": 2.3
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 2687.7
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "EL",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-08-19",
+          "event_low": 93.5,
+          "gap_pct": 11.2,
+          "day": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 96.15,
+        "stop": 93.5,
+        "target": 99.82,
+        "rr_underlying": 1.38
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 274.9
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "SMCI",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-08-12",
+          "event_low": 33.94,
+          "gap_pct": 10.7,
+          "day": 7
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 36.5,
+        "stop": 33.94,
+        "target": 42.31,
+        "rr_underlying": 2.27
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 1880.5
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "MRK",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-08-19",
+          "event_low": 144.9,
+          "gap_pct": 8.7,
+          "day": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 148.99,
+        "stop": 144.9,
+        "target": 153.5,
+        "rr_underlying": 1.1
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 1364.6
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "ABNB",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-08-07",
+          "event_low": 163.45,
+          "gap_pct": 8.6,
+          "day": 10
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 185,
+        "stop": 163.45,
+        "target": 189.2,
+        "rr_underlying": 0.19
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 909.5
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "TPR",
+      "signal": {
+        "state": "S2_CONFIRMED_BREAK",
+        "evidence": {
+          "broke_low": 130.99,
+          "close": 129.82,
+          "vertical_at": "2026-08-13"
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "short",
+        "entry_ref": 129.82,
+        "stop": 164.8,
+        "target": 126.14,
+        "rr_underlying": 0.11
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 435.3
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "LYB",
+      "signal": {
+        "state": "S3A_BASE_IGNITION",
+        "evidence": {
+          "runup_pct": 29.5,
+          "ign_chg": 3.1,
+          "ign_vol_mult": 1.75
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 68.1,
+        "stop": 60.66,
+        "target": 68.99,
+        "rr_underlying": 0.12
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 287.2
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "STLD",
+      "signal": {
+        "state": "S3C_QUALITY_OVERSOLD",
+        "evidence": {
+          "rsi": 29.61,
+          "note": "strict P14 (retagged S3C)",
+          "close": 219,
+          "lower_bb": 231.44,
+          "ma200": 205.79,
+          "vol_ratio_50d": 1.8,
+          "pct_from_52w_high": 24.2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 219,
+        "stop": 218.02,
+        "target": 273.36,
+        "rr_underlying": 55.47
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 295
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    }
+  ],
+  "filtered_out": 1
+}

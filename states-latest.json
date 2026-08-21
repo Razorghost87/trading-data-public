@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-08-20T23:39:57.152Z",
-    "sgt": "2026-08-21 07:39 SGT"
+    "iso": "2026-08-21T12:16:03.072Z",
+    "sgt": "2026-08-21 20:16 SGT"
   },
   "eval_date": "2026-08-20",
   "counts": {
@@ -135,22 +135,22 @@
   ],
   "state_changes": [
     {
-      "ticker": "AEM",
+      "ticker": "ADBE",
       "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "AEM",
+      "from": "S2_CONFIRMED_BREAK",
       "to": "S1_VERTICAL"
     },
     {
-      "ticker": "BLDR",
-      "from": "S3A_BASE_IGNITION",
+      "ticker": "AMZN",
+      "from": "S3D_DRIFT",
       "to": "S4"
     },
     {
-      "ticker": "CRL",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "CTSH",
+      "ticker": "CRM",
       "from": "S3A_BASE_IGNITION",
       "to": "S4"
     },
@@ -160,7 +160,27 @@
       "to": "S3D_DRIFT"
     },
     {
-      "ticker": "FICO",
+      "ticker": "FDS",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "GDDY",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "GPN",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "HPQ",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "INTU",
       "from": "S3A_BASE_IGNITION",
       "to": "S4"
     },
@@ -170,8 +190,13 @@
       "to": "S3A_BASE_IGNITION"
     },
     {
+      "ticker": "MNST",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
       "ticker": "MRK",
-      "from": "S3A_BASE_IGNITION",
+      "from": "S4",
       "to": "S3D_DRIFT"
     },
     {
@@ -181,12 +206,27 @@
     },
     {
       "ticker": "NEM",
+      "from": "S2_CONFIRMED_BREAK",
+      "to": "S4"
+    },
+    {
+      "ticker": "PAYX",
       "from": "S3A_BASE_IGNITION",
       "to": "S4"
     },
     {
-      "ticker": "NKE",
-      "from": "S3B_FLUSH_RECLAIM",
+      "ticker": "PLTR",
+      "from": "S3D_DRIFT",
+      "to": "S4"
+    },
+    {
+      "ticker": "PTC",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "SNDK",
+      "from": "S1_VERTICAL",
       "to": "S4"
     },
     {
@@ -206,17 +246,32 @@
     },
     {
       "ticker": "TPR",
-      "from": "S4",
+      "from": "S1_VERTICAL",
       "to": "S2_CONFIRMED_BREAK"
     },
     {
-      "ticker": "TSLA",
-      "from": "S3A_BASE_IGNITION",
+      "ticker": "TTD",
+      "from": "S1_VERTICAL",
       "to": "S4"
     },
     {
       "ticker": "VEEV",
-      "from": "S3A_BASE_IGNITION",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "WDAY",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "WTW",
+      "from": "S2_CONFIRMED_BREAK",
+      "to": "S4"
+    },
+    {
+      "ticker": "ZBRA",
+      "from": "S3D_DRIFT",
       "to": "S4"
     }
   ],

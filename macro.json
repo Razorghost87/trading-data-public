@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-08-20T23:37:41.955Z",
-    "sgt": "2026-08-21 07:37 SGT"
+    "iso": "2026-08-21T12:13:47.240Z",
+    "sgt": "2026-08-21 20:13 SGT"
   },
   "posture": "RISK_ON",
   "rate_overlay": "NEUTRAL",
@@ -20,13 +20,13 @@
       "dfii10_2wk_delta_bps": -6
     },
     "vol": {
-      "vix": 16.010000228881836,
-      "vix3m": 19.059999465942383,
-      "vix_term_ratio": 0.84
+      "vix": 15.449999809265137,
+      "vix3m": 20.540000915527344,
+      "vix_term_ratio": 0.752
     },
     "fx_energy": {
-      "dxy": 98.84100341796875,
-      "brent": 93.31999969482422
+      "dxy": 98.66200256347656,
+      "brent": 94
     },
     "equity": {
       "spy": {
@@ -46,9 +46,9 @@
     },
     "breadth": {
       "universe": 508,
-      "breadth_50ma_pct": 59.6,
-      "breadth_200ma_pct": 72,
-      "net_new_20d_highs": 64
+      "breadth_50ma_pct": 53.9,
+      "breadth_200ma_pct": 70.5,
+      "net_new_20d_highs": 13
     }
   },
   "logic": {
