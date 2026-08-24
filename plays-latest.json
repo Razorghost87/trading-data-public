@@ -1,35 +1,39 @@
 {
   "generated": {
-    "iso": "2026-08-23T23:36:18.613Z",
-    "sgt": "2026-08-24 07:36 SGT"
+    "iso": "2026-08-24T23:35:52.076Z",
+    "sgt": "2026-08-25 07:35 SGT"
   },
-  "eval_date": "2026-08-21",
+  "eval_date": "2026-08-24",
   "posture": "TRANSITION",
-  "count": 8,
+  "count": 10,
   "ranked_by": "theme_rank_5d asc, then signal strength",
   "cards": [
     {
-      "ticker": "MRNA",
+      "ticker": "SNDK",
       "signal": {
-        "state": "S3D_DRIFT",
+        "state": "S2_CONFIRMED_BREAK",
         "evidence": {
-          "event_date": "2026-08-19",
-          "event_low": 114.46,
-          "gap_pct": 84.3,
-          "day": 3
+          "broke_low": 1570.01,
+          "close": 1493.12,
+          "vertical_at": "2026-08-18"
         }
       },
-      "theme": null,
+      "theme": {
+        "name": "memory",
+        "rank_5d": 8,
+        "rank_20d": 7,
+        "notch": 0
+      },
       "catalyst_tag": null,
       "levels": {
-        "direction": "long",
-        "entry_ref": 145.13,
-        "stop": 114.46,
-        "target": 176.66,
-        "rr_underlying": 1.03
+        "direction": "short",
+        "entry_ref": 1493.12,
+        "stop": 1827.99,
+        "target": 998.19,
+        "rr_underlying": 1.48
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 3310.7
+        "avg_dollar_vol_musd": 23162.2
       },
       "engine": {
         "default_tier": "B",
@@ -43,26 +47,61 @@
       }
     },
     {
-      "ticker": "ALB",
+      "ticker": "MRNA",
       "signal": {
-        "state": "S3A_BASE_IGNITION",
+        "state": "S3D_DRIFT",
         "evidence": {
-          "runup_pct": 26.6,
-          "ign_chg": 6.8,
-          "ign_vol_mult": 2.58
+          "event_date": "2026-08-19",
+          "event_low": 114.46,
+          "gap_pct": 84.3,
+          "day": 4
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 143.25,
-        "stop": 127.25,
-        "target": 144.77,
-        "rr_underlying": 0.1
+        "entry_ref": 138.89,
+        "stop": 114.46,
+        "target": 176.66,
+        "rr_underlying": 1.55
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 294.6
+        "avg_dollar_vol_musd": 3515.1
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "EL",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-08-19",
+          "event_low": 93.5,
+          "gap_pct": 11.2,
+          "day": 4
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 104.13,
+        "stop": 93.5,
+        "target": 125.39,
+        "rr_underlying": 2
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 315.2
       },
       "engine": {
         "default_tier": "B",
@@ -83,53 +122,20 @@
           "event_date": "2026-08-12",
           "event_low": 33.94,
           "gap_pct": 10.7,
-          "day": 8
+          "day": 9
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 37.24,
+        "entry_ref": 35.17,
         "stop": 33.94,
         "target": 42.31,
-        "rr_underlying": 1.54
+        "rr_underlying": 5.8
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1873.6
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "TSLA",
-      "signal": {
-        "state": "S3A_BASE_IGNITION",
-        "evidence": {
-          "runup_pct": 42.6,
-          "ign_chg": 5.1,
-          "ign_vol_mult": 2.27
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 362.86,
-        "stop": 324.5,
-        "target": 432.86,
-        "rr_underlying": 1.82
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 11524.8
+        "avg_dollar_vol_musd": 1890.1
       },
       "engine": {
         "default_tier": "B",
@@ -150,20 +156,20 @@
           "event_date": "2026-08-19",
           "event_low": 144.9,
           "gap_pct": 8.7,
-          "day": 3
+          "day": 4
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 152.55,
+        "entry_ref": 150.66,
         "stop": 144.9,
         "target": 154.49,
-        "rr_underlying": 0.25
+        "rr_underlying": 0.66
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1446
+        "avg_dollar_vol_musd": 1513.6
       },
       "engine": {
         "default_tier": "B",
@@ -177,26 +183,61 @@
       }
     },
     {
-      "ticker": "APA",
+      "ticker": "LITE",
       "signal": {
         "state": "S2_CONFIRMED_BREAK",
         "evidence": {
-          "broke_low": 44.2,
-          "close": 43.39,
-          "vertical_at": "2026-08-12"
+          "broke_low": 855.01,
+          "close": 830.17,
+          "vertical_at": "2026-08-17"
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "short",
-        "entry_ref": 43.39,
-        "stop": 45.05,
-        "target": 31.77,
-        "rr_underlying": 7
+        "entry_ref": 830.17,
+        "stop": 999.67,
+        "target": 594.84,
+        "rr_underlying": 1.39
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 237.3
+        "avg_dollar_vol_musd": 4413.7
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "ROST",
+      "signal": {
+        "state": "S3B_FLUSH_RECLAIM",
+        "evidence": {
+          "flush_date": "2026-08-20",
+          "flush_low": 228.05,
+          "flush_vol_mult": 2.3,
+          "reclaim_pct": 5.9,
+          "within_sessions": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 241.52,
+        "stop": 228.05,
+        "target": 257,
+        "rr_underlying": 1.15
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 676.5
       },
       "engine": {
         "default_tier": "B",
@@ -217,20 +258,20 @@
           "event_date": "2026-08-20",
           "event_low": 586.48,
           "gap_pct": 5.3,
-          "day": 2
+          "day": 3
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 647.47,
+        "entry_ref": 648.64,
         "stop": 586.48,
-        "target": 654.28,
-        "rr_underlying": 0.11
+        "target": 660.7,
+        "rr_underlying": 0.19
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 742.7
+        "avg_dollar_vol_musd": 755.1
       },
       "engine": {
         "default_tier": "B",
@@ -244,26 +285,59 @@
       }
     },
     {
-      "ticker": "ORCL",
+      "ticker": "EXPE",
       "signal": {
         "state": "S3A_BASE_IGNITION",
         "evidence": {
-          "runup_pct": 35.9,
-          "ign_chg": 3.1,
-          "ign_vol_mult": 1.29
+          "runup_pct": 32.5,
+          "ign_chg": 5.4,
+          "ign_vol_mult": 1.67
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 146.47,
-        "stop": 134.68,
-        "target": 159.26,
-        "rr_underlying": 1.08
+        "entry_ref": 339.13,
+        "stop": 310.41,
+        "target": 396.56,
+        "rr_underlying": 2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 4067
+        "avg_dollar_vol_musd": 519.3
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "IT",
+      "signal": {
+        "state": "S3A_BASE_IGNITION",
+        "evidence": {
+          "runup_pct": 56.4,
+          "ign_chg": 3.5,
+          "ign_vol_mult": 1.51
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 202.78,
+        "stop": 169.78,
+        "target": 268.77,
+        "rr_underlying": 2
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 289.2
       },
       "engine": {
         "default_tier": "B",
