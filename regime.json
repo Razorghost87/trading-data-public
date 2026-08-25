@@ -1,114 +1,120 @@
 {
   "generated": {
-    "iso": "2026-08-24T23:33:57.787Z",
-    "sgt": "2026-08-25 07:33 SGT"
+    "iso": "2026-08-25T23:36:01.048Z",
+    "sgt": "2026-08-26 07:36 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": -9.85723661841497,
-      "perf_1m_avg": -3.7545561713244093,
+      "perf_w_avg": -8.41776516026914,
+      "perf_1m_avg": -4.536013475374262,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": -8.24648059522579,
-      "perf_1m_avg": -8.94190223144053,
+      "perf_w_avg": -4.376006864833036,
+      "perf_1m_avg": -7.951202919424941,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": -10.561948786687685,
-      "perf_1m_avg": -4.404823281328087,
+      "perf_w_avg": -7.125416630092508,
+      "perf_1m_avg": -3.627765449953709,
       "found": 2,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": -10.04977042497221,
-      "perf_1m_avg": 3.109550717665034,
+      "perf_w_avg": -9.19946739940328,
+      "perf_1m_avg": 1.9515986841103725,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": 10.85208728426773,
-      "perf_1m_avg": -2.4741521215335727,
+      "perf_w_avg": 18.15682244563472,
+      "perf_1m_avg": 3.6865009500231776,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": -5.7648331154664945,
-      "perf_1m_avg": 16.102205020786123,
+      "perf_w_avg": -1.9760645455201011,
+      "perf_1m_avg": 16.794551359871825,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": 1.0405177320032195,
-      "perf_1m_avg": 12.075787304466688,
+      "perf_w_avg": -2.3763398330439394,
+      "perf_1m_avg": 10.057343305550589,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": 10.97617468532759,
-      "perf_1m_avg": 32.45479389481135,
+      "perf_w_avg": 13.259346411905105,
+      "perf_1m_avg": 34.78134130711204,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
-    "gold": 1,
-    "crypto": 2,
-    "energy": 3,
-    "space": 4,
+    "crypto": 1,
+    "gold": 2,
+    "space": 3,
+    "energy": 4,
     "semis": 5,
-    "ai_infra": 6,
-    "defense": 7,
-    "memory": 8
+    "memory": 6,
+    "ai_infra": 7,
+    "defense": 8
   },
   "rank_20d": {
     "gold": 1,
     "space": 2,
     "energy": 3,
-    "defense": 4,
-    "crypto": 5,
-    "ai_infra": 6,
-    "memory": 7,
+    "crypto": 4,
+    "defense": 5,
+    "memory": 6,
+    "ai_infra": 7,
     "semis": 8
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -3.54
+      "rank_5d_delta": -1,
+      "perf_w_delta": 1.44
     },
     "semis": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -2.21
+      "rank_5d_delta": 0,
+      "perf_w_delta": 3.87
     },
     "memory": {
-      "rank_5d_delta": -4,
-      "perf_w_delta": -8.38
+      "rank_5d_delta": 2,
+      "perf_w_delta": 3.44
     },
     "defense": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -1.78
+      "rank_5d_delta": -1,
+      "perf_w_delta": 0.85
     },
     "crypto": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -2.85
+      "rank_5d_delta": 1,
+      "perf_w_delta": 7.3
     },
     "space": {
       "rank_5d_delta": 1,
-      "perf_w_delta": -3.05
+      "perf_w_delta": 3.79
     },
     "energy": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -1.12
+      "rank_5d_delta": -1,
+      "perf_w_delta": -3.42
     },
     "gold": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -0.72
+      "rank_5d_delta": -1,
+      "perf_w_delta": 2.28
     }
   },
-  "rotation_alerts": [],
+  "rotation_alerts": [
+    {
+      "basket": "space",
+      "rank_5d": 3,
+      "note": "entered 5d top-3"
+    }
+  ],
   "rate_overlay": "NEUTRAL",
   "rate_notches": {
     "ai_infra": 0,
