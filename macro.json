@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-08-25T23:35:39.937Z",
-    "sgt": "2026-08-26 07:35 SGT"
+    "iso": "2026-08-26T13:00:33.165Z",
+    "sgt": "2026-08-26 21:00 SGT"
   },
   "posture": "RISK_ON",
   "rate_overlay": "NEUTRAL",
@@ -13,20 +13,20 @@
     "rates": {
       "dgs2": 4.24,
       "dgs10": 4.7,
-      "dfii10": 2.38,
+      "dfii10": null,
       "curve_slope_10y2y": 0.47,
       "dgs2_2wk_delta_bps": -1,
       "dgs10_2wk_delta_bps": -2,
-      "dfii10_2wk_delta_bps": -5
+      "dfii10_2wk_delta_bps": null
     },
     "vol": {
-      "vix": 15.449999809265137,
+      "vix": 15.699999809265137,
       "vix3m": 18.209999084472656,
-      "vix_term_ratio": 0.848
+      "vix_term_ratio": 0.862
     },
     "fx_energy": {
-      "dxy": 98.9020004272461,
-      "brent": 85.87999725341797
+      "dxy": 99.03299713134766,
+      "brent": 85.30000305175781
     },
     "equity": {
       "spy": {
@@ -46,9 +46,9 @@
     },
     "breadth": {
       "universe": 508,
-      "breadth_50ma_pct": 59.3,
-      "breadth_200ma_pct": 72,
-      "net_new_20d_highs": 25
+      "breadth_50ma_pct": 58.3,
+      "breadth_200ma_pct": 70.5,
+      "net_new_20d_highs": 20
     }
   },
   "logic": {

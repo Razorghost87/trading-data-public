@@ -1,6 +1,6 @@
 # Trading Digest — 2026-08-26
 
-_Generated 2026-08-26 07:37 SGT (2026-08-25T23:37:54.924Z)_
+_Generated 2026-08-26 21:02 SGT (2026-08-26T13:02:51.282Z)_
 
 ## 📋 PLAYS — decision-support cards (6)
 
@@ -21,23 +21,23 @@ _Ranked by theme 5d-rank then signal strength · posture RISK_ON · judgment fie
 | HY OAS | 2.69% (2wk Δ -1bps) |
 | Curve 10y–2y | 0.47 |
 | 10y / 2y | 4.7% (Δ-2) / 4.24% (Δ-1) |
-| VIX / term ratio | 15.449999809265137 (VIX3M 18.2, 0.848) |
-| Breadth >50/200MA | 59.3% / 72% (net new-highs 25) |
+| VIX / term ratio | 15.699999809265137 (VIX3M 18.2, 0.862) |
+| Breadth >50/200MA | 58.3% / 70.5% (net new-highs 20) |
 | SPY / QQQ vs ATH | -1.5% / -4.7% |
 ## REGIME — basket rotation
 
 | Basket | 5d | 20d | Perf.W | Perf.1M | Δ5d |
 |---|--:|--:|--:|--:|--:|
-| crypto | 1 | 4 | +18.2% | +3.7% | ▲1 |
-| gold | 2 | 1 | +13.3% | +34.8% | ▼1 |
-| space | 3 | 2 | -2.0% | +16.8% | ▲1 |
-| energy | 4 | 3 | -2.4% | +10.1% | ▼1 |
+| crypto | 1 | 4 | +18.2% | +3.7% | – |
+| gold | 2 | 1 | +13.3% | +34.8% | – |
+| space | 3 | 2 | -2.0% | +16.8% | – |
+| energy | 4 | 3 | -2.4% | +10.1% | – |
 | semis | 5 | 8 | -4.4% | -8.0% | – |
-| memory | 6 | 6 | -7.1% | -3.6% | ▲2 |
-| ai_infra | 7 | 7 | -8.4% | -4.5% | ▼1 |
-| defense | 8 | 5 | -9.2% | +2.0% | ▼1 |
+| memory | 6 | 6 | -7.1% | -3.6% | – |
+| ai_infra | 7 | 7 | -8.4% | -4.5% | – |
+| defense | 8 | 5 | -9.2% | +2.0% | – |
 
-**Rotation alerts:** `space` → 5d top-3
+**Rotation alerts:** none
 
 ## EVENTS — next 14 days
 
@@ -45,9 +45,9 @@ _None in the next 14 days._
 
 ## 🎯 STATE SIGNALS — S2/S3 transitions today
 
-- **S3A ignition** `AMD` — runup +35.2%, ignite +4.9% on 1.32× base vol  _(S4→S3A)_
+_No new S2/S3 transitions today._
 
-**Still active (unchanged):** `ROST`(S3B), `DE`(S3D), `EL`(S3D), `MRK`(S3D), `SMCI`(S3D)
+**Still active (unchanged):** `AMD`(S3A), `ROST`(S3B), `DE`(S3D), `EL`(S3D), `MRK`(S3D), `SMCI`(S3D)
 
 **Active verticals (S1):** `ARE`, `GLXY`, `HOOD`, `MRNA`
 
@@ -60,11 +60,11 @@ _Universe: S1 4 · S2 0 · S3A 1 · S3B 1 · S3C 0 · S3D 4_
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
 | 1 | CRML | +21.4% | 2.76 | Non-Energy Minerals |
-| 2 | REAX | +18.5% | 2.68 | Commercial Services |
+| 2 | REAX | +18.5% | 2.68 | — |
 | 3 | ABCL | +17.8% | 0.97 | Health Technology |
 | 4 | INBX | +16.9% | 1.87 | Health Technology |
-| 5 | STDN | +16.8% | 2.14 | Process Industries |
-| 6 | GENB | +15.0% | 5.20 | Health Technology |
+| 5 | STDN | +16.8% | 2.15 | Process Industries |
+| 6 | GENB | +15.0% | 5.21 | Health Technology |
 | 7 | BLSM | +14.9% | 0.72 | Health Technology |
 | 8 | MEI | +14.4% | 1.44 | Electronic Technology |
 | 9 | MRNA | +14.4% | 1.09 | Health Technology |
@@ -74,7 +74,7 @@ _Universe: S1 4 · S2 0 · S3A 1 · S3B 1 · S3C 0 · S3D 4_
 
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
-| 1 | DKS | -30.7% | 19.24 | Retail Trade |
+| 1 | DKS | -30.7% | 19.26 | Retail Trade |
 | 2 | SCTX | -16.2% | 1.24 | Health Technology |
 | 3 | BBWI | -8.3% | 1.99 | Retail Trade |
 | 4 | REF | -8.0% | 1.51 | Retail Trade |
@@ -90,15 +90,32 @@ _Universe: S1 4 · S2 0 · S3A 1 · S3B 1 · S3C 0 · S3D 4_
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
 | 1 | TWOD | +2.1% | 56.00 | Finance |
-| 2 | DKS | -30.7% | 19.24 | Retail Trade |
+| 2 | DKS | -30.7% | 19.26 | Retail Trade |
 | 3 | CTRN | -6.2% | 5.36 | Retail Trade |
-| 4 | GENB | +15.0% | 5.20 | Health Technology |
+| 4 | GENB | +15.0% | 5.21 | Health Technology |
 | 5 | DY | -7.7% | 4.90 | Industrial Services |
-| 6 | SMTC | +5.5% | 3.50 | Electronic Technology |
+| 6 | SMTC | +5.5% | 3.53 | Electronic Technology |
 | 7 | ZYME | -4.5% | 3.39 | Health Technology |
 | 8 | FDS | -3.0% | 3.06 | Commercial Services |
 | 9 | WSO | -2.7% | 2.84 | Producer Manufacturing |
 | 10 | CRML | +21.4% | 2.76 | Non-Energy Minerals |
+
+## 👥 CROWD — WSB mentions (top 10 by velocity)
+
+| Ticker | Rank | Mentions | Velocity | Sentiment | State | Tag |
+|---|--:|--:|--:|---|---|---|
+| `SMCI` | 35 | 16 | 16× | — | S3D | EARLY |
+| `CIA` | 37 | 14 | 14× | — | — | — |
+| `INTU` | 6 | 68 | 11.33× | Bearish | S4 | EARLY |
+| `MARA` | 53 | 8 | 8× | — | — | — |
+| `CRWD` | 55 | 8 | 8× | Bearish | S4 | EARLY |
+| `DKS` | 3 | 108 | 7.71× | Bullish | — | — |
+| `NKE` | 24 | 21 | 7× | — | S4 | EARLY |
+| `VC` | 62 | 7 | 7× | Bullish | — | — |
+| `BB` | 67 | 6 | 6× | — | — | — |
+| `IBKR` | 69 | 6 | 6× | — | S4 | EARLY |
+
+_Velocity basis: apewisdom 24h fallback (no prior file)._
 
 ## FUNNEL CANDIDATES — P5 / P14 (mechanical only; feed the state layer)
 
@@ -108,11 +125,11 @@ _Universe: S1 4 · S2 0 · S3A 1 · S3B 1 · S3C 0 · S3D 4_
 
 ### Data freshness
 
-- regime: 2026-08-26 07:36 SGT
-- states: 2026-08-26 07:37 SGT
-- movers: 2026-08-26 07:35 SGT
-- candidates: 2026-08-26 07:37 SGT
-- ohlcv: 2026-08-26 07:37 SGT (511 upd / 0 fail)
+- regime: 2026-08-26 21:00 SGT
+- states: 2026-08-26 21:02 SGT
+- movers: 2026-08-26 21:00 SGT
+- candidates: 2026-08-26 21:02 SGT
+- ohlcv: 2026-08-26 21:02 SGT (511 upd / 0 fail)
 
 **Skipped/degraded:** none
 

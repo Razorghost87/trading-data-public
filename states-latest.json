@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-08-25T23:37:54.822Z",
-    "sgt": "2026-08-26 07:37 SGT"
+    "iso": "2026-08-26T13:02:48.142Z",
+    "sgt": "2026-08-26 21:02 SGT"
   },
   "eval_date": "2026-08-25",
   "counts": {
@@ -29,7 +29,7 @@
       "date": "2026-08-25",
       "detail": {
         "move_5d": 21.3,
-        "vol_x_av20": 1.13
+        "vol_x_av20": 1.14
       }
     },
     {
@@ -47,7 +47,7 @@
       "date": "2026-08-25",
       "detail": {
         "move_5d": 152.3,
-        "vol_x_av20": 1.93
+        "vol_x_av20": 1.94
       }
     },
     {
@@ -117,58 +117,7 @@
       }
     }
   ],
-  "state_changes": [
-    {
-      "ticker": "AMD",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "ARE",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "EXPE",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "GLXY",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "HOOD",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "IT",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "LITE",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "MRNA",
-      "from": "S3D_DRIFT",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "SNDK",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "ULTA",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    }
-  ],
+  "state_changes": [],
   "state_map": {
     "A": "S4",
     "AAPL": "S4",

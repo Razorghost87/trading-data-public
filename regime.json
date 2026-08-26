@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-08-25T23:36:01.048Z",
-    "sgt": "2026-08-26 07:36 SGT"
+    "iso": "2026-08-26T13:00:54.276Z",
+    "sgt": "2026-08-26 21:00 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
@@ -76,45 +76,39 @@
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 1.44
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "semis": {
       "rank_5d_delta": 0,
-      "perf_w_delta": 3.87
+      "perf_w_delta": 0
     },
     "memory": {
-      "rank_5d_delta": 2,
-      "perf_w_delta": 3.44
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "defense": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 0.85
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "crypto": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 7.3
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "space": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 3.79
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "energy": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -3.42
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "gold": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 2.28
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     }
   },
-  "rotation_alerts": [
-    {
-      "basket": "space",
-      "rank_5d": 3,
-      "note": "entered 5d top-3"
-    }
-  ],
+  "rotation_alerts": [],
   "rate_overlay": "NEUTRAL",
   "rate_notches": {
     "ai_infra": 0,

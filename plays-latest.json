@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-08-25T23:37:54.878Z",
-    "sgt": "2026-08-26 07:37 SGT"
+    "iso": "2026-08-26T13:02:51.236Z",
+    "sgt": "2026-08-26 21:02 SGT"
   },
   "eval_date": "2026-08-25",
   "posture": "RISK_ON",
@@ -29,7 +29,12 @@
         "rr_underlying": 2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 323
+        "avg_dollar_vol_musd": 323.8
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
       },
       "engine": {
         "default_tier": "B",
@@ -63,7 +68,12 @@
         "rr_underlying": 0.85
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1930.4
+        "avg_dollar_vol_musd": 1930.8
+      },
+      "crowd": {
+        "rank": 35,
+        "velocity": 16,
+        "tag": "EARLY"
       },
       "engine": {
         "default_tier": "B",
@@ -97,7 +107,12 @@
         "rr_underlying": 2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1555.3
+        "avg_dollar_vol_musd": 1556
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
       },
       "engine": {
         "default_tier": "B",
@@ -132,7 +147,12 @@
         "rr_underlying": 1.2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 664.4
+        "avg_dollar_vol_musd": 667.2
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
       },
       "engine": {
         "default_tier": "B",
@@ -168,6 +188,11 @@
       "liquidity": {
         "avg_dollar_vol_musd": 749.7
       },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
@@ -199,7 +224,12 @@
         "rr_underlying": 2.84
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 12023.4
+        "avg_dollar_vol_musd": 12024.3
+      },
+      "crowd": {
+        "rank": 18,
+        "velocity": 2.15,
+        "tag": "EARLY"
       },
       "engine": {
         "default_tier": "B",
