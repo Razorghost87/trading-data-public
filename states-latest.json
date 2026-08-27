@@ -1,123 +1,161 @@
 {
   "generated": {
-    "iso": "2026-08-26T13:02:48.142Z",
-    "sgt": "2026-08-26 21:02 SGT"
+    "iso": "2026-08-27T04:32:46.007Z",
+    "sgt": "2026-08-27 12:32 SGT"
   },
-  "eval_date": "2026-08-25",
+  "eval_date": "2026-08-26",
   "counts": {
-    "S1_VERTICAL": 4,
-    "S2_CONFIRMED_BREAK": 0,
-    "S3A_BASE_IGNITION": 1,
-    "S3B_FLUSH_RECLAIM": 1,
+    "S1_VERTICAL": 0,
+    "S2_CONFIRMED_BREAK": 1,
+    "S3A_BASE_IGNITION": 3,
+    "S3B_FLUSH_RECLAIM": 0,
     "S3C_QUALITY_OVERSOLD": 0,
     "S3D_DRIFT": 4,
-    "S4": 501
+    "S4": 504
   },
   "signals": [
     {
-      "ticker": "ARE",
-      "state": "S1_VERTICAL",
-      "date": "2026-08-25",
+      "ticker": "MNST",
+      "state": "S2_CONFIRMED_BREAK",
+      "date": "2026-08-26",
       "detail": {
-        "move_5d": 15.4,
-        "vol_x_av20": 1.25
+        "broke_low": 48.34,
+        "close": 47.81,
+        "vertical_at": "2026-08-17"
       }
     },
     {
-      "ticker": "GLXY",
-      "state": "S1_VERTICAL",
-      "date": "2026-08-25",
-      "detail": {
-        "move_5d": 21.3,
-        "vol_x_av20": 1.14
-      }
-    },
-    {
-      "ticker": "HOOD",
-      "state": "S1_VERTICAL",
-      "date": "2026-08-25",
-      "detail": {
-        "move_5d": 22.5,
-        "vol_x_av20": 1.23
-      }
-    },
-    {
-      "ticker": "MRNA",
-      "state": "S1_VERTICAL",
-      "date": "2026-08-25",
-      "detail": {
-        "move_5d": 152.3,
-        "vol_x_av20": 1.94
-      }
-    },
-    {
-      "ticker": "AMD",
+      "ticker": "ANET",
       "state": "S3A_BASE_IGNITION",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "detail": {
-        "runup_pct": 35.2,
-        "ign_chg": 4.9,
-        "ign_vol_mult": 1.32
+        "runup_pct": 33.3,
+        "ign_chg": 5.9,
+        "ign_vol_mult": 1.82
       }
     },
     {
-      "ticker": "ROST",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-08-25",
+      "ticker": "CHRW",
+      "state": "S3A_BASE_IGNITION",
+      "date": "2026-08-26",
       "detail": {
-        "flush_date": "2026-08-20",
-        "flush_low": 228.05,
-        "flush_vol_mult": 2.3,
-        "reclaim_pct": 5.8,
-        "within_sessions": 3
+        "runup_pct": 47.9,
+        "ign_chg": 5.6,
+        "ign_vol_mult": 1.93
+      }
+    },
+    {
+      "ticker": "EME",
+      "state": "S3A_BASE_IGNITION",
+      "date": "2026-08-26",
+      "detail": {
+        "runup_pct": 28.3,
+        "ign_chg": 3.2,
+        "ign_vol_mult": 1.42
       }
     },
     {
       "ticker": "DE",
       "state": "S3D_DRIFT",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "detail": {
         "event_date": "2026-08-20",
         "event_low": 586.48,
         "gap_pct": 5.3,
-        "day": 4
+        "day": 5
       }
     },
     {
       "ticker": "EL",
       "state": "S3D_DRIFT",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "detail": {
         "event_date": "2026-08-19",
         "event_low": 93.5,
         "gap_pct": 11.2,
-        "day": 5
+        "day": 6
       }
     },
     {
       "ticker": "MRK",
       "state": "S3D_DRIFT",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "detail": {
         "event_date": "2026-08-19",
         "event_low": 144.9,
         "gap_pct": 8.7,
-        "day": 5
+        "day": 6
       }
     },
     {
-      "ticker": "SMCI",
+      "ticker": "MRNA",
       "state": "S3D_DRIFT",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "detail": {
-        "event_date": "2026-08-12",
-        "event_low": 33.94,
-        "gap_pct": 10.7,
-        "day": 10
+        "event_date": "2026-08-19",
+        "event_low": 114.46,
+        "gap_pct": 84.3,
+        "day": 6
       }
     }
   ],
-  "state_changes": [],
+  "state_changes": [
+    {
+      "ticker": "AMD",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "ANET",
+      "from": "S4",
+      "to": "S3A_BASE_IGNITION"
+    },
+    {
+      "ticker": "ARE",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "CHRW",
+      "from": "S4",
+      "to": "S3A_BASE_IGNITION"
+    },
+    {
+      "ticker": "EME",
+      "from": "S4",
+      "to": "S3A_BASE_IGNITION"
+    },
+    {
+      "ticker": "GLXY",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "HOOD",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "MNST",
+      "from": "S4",
+      "to": "S2_CONFIRMED_BREAK"
+    },
+    {
+      "ticker": "MRNA",
+      "from": "S1_VERTICAL",
+      "to": "S3D_DRIFT"
+    },
+    {
+      "ticker": "ROST",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "SMCI",
+      "from": "S3D_DRIFT",
+      "to": "S4"
+    }
+  ],
   "state_map": {
     "A": "S4",
     "AAPL": "S4",
@@ -146,13 +184,13 @@
     "ALLE": "S4",
     "AMAT": "S4",
     "AMCR": "S4",
-    "AMD": "S3A_BASE_IGNITION",
+    "AMD": "S4",
     "AME": "S4",
     "AMGN": "S4",
     "AMP": "S4",
     "AMT": "S4",
     "AMZN": "S4",
-    "ANET": "S4",
+    "ANET": "S3A_BASE_IGNITION",
     "AON": "S4",
     "AOS": "S4",
     "APA": "S4",
@@ -161,7 +199,7 @@
     "APO": "S4",
     "APP": "S4",
     "APTV": "S4",
-    "ARE": "S1_VERTICAL",
+    "ARE": "S4",
     "ARES": "S4",
     "ATO": "S4",
     "AVB": "S4",
@@ -209,7 +247,7 @@
     "CF": "S4",
     "CFG": "S4",
     "CHD": "S4",
-    "CHRW": "S4",
+    "CHRW": "S3A_BASE_IGNITION",
     "CHTR": "S4",
     "CI": "S4",
     "CIEN": "S4",
@@ -280,7 +318,7 @@
     "EIX": "S4",
     "EL": "S3D_DRIFT",
     "ELV": "S4",
-    "EME": "S4",
+    "EME": "S3A_BASE_IGNITION",
     "EMR": "S4",
     "EOG": "S4",
     "EQIX": "S4",
@@ -293,6 +331,7 @@
     "ETR": "S4",
     "EVRG": "S4",
     "EW": "S4",
+    "EWY": "S4",
     "EXC": "S4",
     "EXE": "S4",
     "EXPD": "S4",
@@ -331,7 +370,7 @@
     "GL": "S4",
     "GLD": "S4",
     "GLW": "S4",
-    "GLXY": "S1_VERTICAL",
+    "GLXY": "S4",
     "GM": "S4",
     "GNRC": "S4",
     "GOOG": "S4",
@@ -351,7 +390,7 @@
     "HLT": "S4",
     "HON": "S4",
     "HONA": "S4",
-    "HOOD": "S1_VERTICAL",
+    "HOOD": "S4",
     "HPE": "S4",
     "HPQ": "S4",
     "HRL": "S4",
@@ -433,13 +472,13 @@
     "MKC": "S4",
     "MLM": "S4",
     "MMM": "S4",
-    "MNST": "S4",
+    "MNST": "S2_CONFIRMED_BREAK",
     "MO": "S4",
     "MOS": "S4",
     "MPC": "S4",
     "MPWR": "S4",
     "MRK": "S3D_DRIFT",
-    "MRNA": "S1_VERTICAL",
+    "MRNA": "S3D_DRIFT",
     "MRSH": "S4",
     "MRVL": "S4",
     "MS": "S4",
@@ -520,7 +559,7 @@
     "ROK": "S4",
     "ROL": "S4",
     "ROP": "S4",
-    "ROST": "S3B_FLUSH_RECLAIM",
+    "ROST": "S4",
     "RSG": "S4",
     "RTX": "S4",
     "RVTY": "S4",
@@ -530,7 +569,7 @@
     "SHW": "S4",
     "SJM": "S4",
     "SLB": "S4",
-    "SMCI": "S3D_DRIFT",
+    "SMCI": "S4",
     "SNA": "S4",
     "SNDK": "S4",
     "SNPS": "S4",
