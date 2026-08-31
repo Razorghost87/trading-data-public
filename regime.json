@@ -1,126 +1,137 @@
 {
   "generated": {
-    "iso": "2026-08-28T06:55:34.518Z",
-    "sgt": "2026-08-28 14:55 SGT"
+    "iso": "2026-08-31T01:22:20.660Z",
+    "sgt": "2026-08-31 09:22 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": -1.0709594536005163,
-      "perf_1m_avg": 4.418617140764227,
+      "perf_w_avg": -4.757733032659239,
+      "perf_1m_avg": 3.4865831679916526,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": 1.8060089327549727,
-      "perf_1m_avg": -0.041287764853495904,
+      "perf_w_avg": -1.297926091811349,
+      "perf_1m_avg": -1.7206097117159806,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": -1.8673158985598401,
-      "perf_1m_avg": 18.94891060705441,
+      "perf_w_avg": -5.6017126557390995,
+      "perf_1m_avg": 22.85989394587067,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": -6.665407418214561,
-      "perf_1m_avg": 1.1660440616516576,
+      "perf_w_avg": -4.3760558795878275,
+      "perf_1m_avg": 0.5475918606567938,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": 7.902179448073812,
-      "perf_1m_avg": 11.156795776318882,
+      "perf_w_avg": -5.808129810240374,
+      "perf_1m_avg": 2.886360802385991,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": -1.0752744117641915,
-      "perf_1m_avg": 24.1910696037657,
+      "perf_w_avg": 0.0940374877064376,
+      "perf_1m_avg": 21.12130225069052,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": -1.1844130495129153,
-      "perf_1m_avg": 12.1308455897204,
+      "perf_w_avg": 1.1464517522893403,
+      "perf_1m_avg": 13.0044235656681,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": 4.214230112345234,
-      "perf_1m_avg": 32.14130038421502,
+      "perf_w_avg": -3.7071301247125152,
+      "perf_1m_avg": 27.71317891462126,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": 1.3819156054419415,
-      "perf_1m_avg": 19.333805257517096,
+      "perf_w_avg": -1.8071853147570336,
+      "perf_1m_avg": 22.50116304119677,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
-    "crypto": 1,
-    "gold": 2,
+    "energy": 1,
+    "space": 2,
     "semis": 3,
     "korea": 4,
-    "ai_infra": 5,
-    "space": 6,
-    "energy": 7,
+    "gold": 5,
+    "defense": 6,
+    "ai_infra": 7,
     "memory": 8,
-    "defense": 9
+    "crypto": 9
   },
   "rank_20d": {
     "gold": 1,
-    "space": 2,
+    "memory": 2,
     "korea": 3,
-    "memory": 4,
+    "space": 4,
     "energy": 5,
-    "crypto": 6,
-    "ai_infra": 7,
+    "ai_infra": 6,
+    "crypto": 7,
     "defense": 8,
     "semis": 9
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 0.27
+      "rank_5d_delta": -2,
+      "perf_w_delta": -3.69
     },
     "semis": {
       "rank_5d_delta": 0,
-      "perf_w_delta": -0.17
+      "perf_w_delta": -3.1
     },
     "memory": {
       "rank_5d_delta": 0,
-      "perf_w_delta": 0.95
+      "perf_w_delta": -3.73
     },
     "defense": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 0.34
+      "rank_5d_delta": 3,
+      "perf_w_delta": 2.29
     },
     "crypto": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -1.54
+      "rank_5d_delta": -8,
+      "perf_w_delta": -13.71
     },
     "space": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 0.37
+      "rank_5d_delta": 4,
+      "perf_w_delta": 1.17
     },
     "energy": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 0.24
+      "rank_5d_delta": 6,
+      "perf_w_delta": 2.33
     },
     "gold": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -0.06
+      "rank_5d_delta": -3,
+      "perf_w_delta": -7.92
     },
     "korea": {
       "rank_5d_delta": 0,
-      "perf_w_delta": 0.42
+      "perf_w_delta": -3.19
     }
   },
-  "rotation_alerts": [],
+  "rotation_alerts": [
+    {
+      "basket": "energy",
+      "rank_5d": 1,
+      "note": "entered 5d top-3"
+    },
+    {
+      "basket": "space",
+      "rank_5d": 2,
+      "note": "entered 5d top-3"
+    }
+  ],
   "rate_overlay": "NEUTRAL",
   "rate_notches": {
     "ai_infra": 0,
