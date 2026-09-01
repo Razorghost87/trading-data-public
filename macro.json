@@ -1,57 +1,57 @@
 {
   "generated": {
-    "iso": "2026-08-31T01:21:57.446Z",
-    "sgt": "2026-08-31 09:21 SGT"
+    "iso": "2026-09-01T01:48:43.413Z",
+    "sgt": "2026-09-01 09:48 SGT"
   },
   "posture": "RISK_ON",
   "rate_overlay": "NEUTRAL",
   "y30_alert": false,
   "inputs": {
     "credit": {
-      "hy_oas_pct": 2.63,
-      "hy_oas_2wk_delta_bps": -8
+      "hy_oas_pct": 2.6,
+      "hy_oas_2wk_delta_bps": -7
     },
     "rates": {
-      "dgs2": 4.2,
-      "dgs10": 4.67,
-      "dgs30": 5.19,
-      "dfii10": 2.34,
-      "curve_slope_10y2y": 0.39,
-      "dgs2_2wk_delta_bps": 5,
-      "dgs10_2wk_delta_bps": 4,
-      "dgs30_2wk_delta_bps": -2,
-      "dfii10_2wk_delta_bps": -5
+      "dgs2": 4.34,
+      "dgs10": 4.73,
+      "dgs30": 5.22,
+      "dfii10": 2.42,
+      "curve_slope_10y2y": 0.41,
+      "dgs2_2wk_delta_bps": 17,
+      "dgs10_2wk_delta_bps": 5,
+      "dgs30_2wk_delta_bps": -3,
+      "dfii10_2wk_delta_bps": 1
     },
     "vol": {
-      "vix": 14.430000305175781,
-      "vix3m": 17.479999542236328,
-      "vix_term_ratio": 0.826
+      "vix": 14.920000076293945,
+      "vix3m": 17.530000686645508,
+      "vix_term_ratio": 0.851
     },
     "fx_energy": {
-      "dxy": 99.63800048828125,
-      "brent": 90.22000122070312
+      "dxy": 99.46399688720703,
+      "brent": 88.94999694824219
     },
     "equity": {
       "spy": {
-        "close": 769.35,
-        "above_20ma": true,
-        "above_50ma": true,
-        "above_200ma": true,
-        "pct_from_ath": -1.1
-      },
-      "qqq": {
-        "close": 716.43,
+        "close": 767.05,
         "above_20ma": false,
         "above_50ma": true,
         "above_200ma": true,
-        "pct_from_ath": -4
+        "pct_from_ath": -1.4
+      },
+      "qqq": {
+        "close": 716.76,
+        "above_20ma": false,
+        "above_50ma": true,
+        "above_200ma": true,
+        "pct_from_ath": -3.9
       }
     },
     "breadth": {
       "universe": 511,
-      "breadth_50ma_pct": 54.6,
-      "breadth_200ma_pct": 69.7,
-      "net_new_20d_highs": -12
+      "breadth_50ma_pct": 53,
+      "breadth_200ma_pct": 68.7,
+      "net_new_20d_highs": -36
     }
   },
   "logic": {
