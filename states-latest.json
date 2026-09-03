@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-02T01:03:27.501Z",
-    "sgt": "2026-09-02 09:03 SGT"
+    "iso": "2026-09-03T01:08:41.819Z",
+    "sgt": "2026-09-03 09:08 SGT"
   },
   "eval_date": "2026-09-01",
   "counts": {
@@ -20,7 +20,7 @@
       "date": "2026-09-01",
       "detail": {
         "move_5d": -15.5,
-        "vol_x_av20": 1.55
+        "vol_x_av20": 1.56
       }
     },
     {
@@ -150,68 +150,7 @@
       }
     }
   ],
-  "state_changes": [
-    {
-      "ticker": "AXON",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "BBY",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "COIN",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "CRWD",
-      "from": "S1_VERTICAL",
-      "to": "S3D_DRIFT"
-    },
-    {
-      "ticker": "EIX",
-      "from": "S1_VERTICAL",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "HWM",
-      "from": "S3C_QUALITY_OVERSOLD",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "PCG",
-      "from": "S1_VERTICAL",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "QCOM",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "SNDK",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "SNPS",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "SRE",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "TSLA",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    }
-  ],
+  "state_changes": [],
   "state_map": {
     "A": "S4",
     "AAPL": "S4",

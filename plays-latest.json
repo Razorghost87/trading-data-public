@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-02T01:03:28.300Z",
-    "sgt": "2026-09-02 09:03 SGT"
+    "iso": "2026-09-03T01:08:42.820Z",
+    "sgt": "2026-09-03 09:08 SGT"
   },
   "eval_date": "2026-09-01",
   "posture": "TRANSITION",
@@ -29,12 +29,12 @@
         "rr_underlying": 0.56
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 4670.7
+        "avg_dollar_vol_musd": 4671.8
       },
       "crowd": {
-        "rank": 37,
-        "velocity": 3.25,
-        "tag": "EARLY"
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
       },
       "engine": {
         "default_tier": "B",
@@ -69,11 +69,11 @@
         "rr_underlying": 4.01
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 366.4
+        "avg_dollar_vol_musd": 366.8
       },
       "crowd": {
-        "rank": 94,
-        "velocity": 0.33,
+        "rank": null,
+        "velocity": null,
         "tag": "ABSENT"
       },
       "engine": {
@@ -108,11 +108,11 @@
         "rr_underlying": 0.19
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 3548.1
+        "avg_dollar_vol_musd": 3563.2
       },
       "crowd": {
-        "rank": 44,
-        "velocity": 1,
+        "rank": 57,
+        "velocity": 0.7,
         "tag": "DIVERGENT"
       },
       "engine": {
@@ -147,7 +147,7 @@
         "rr_underlying": 1.29
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 362.6
+        "avg_dollar_vol_musd": 362.7
       },
       "crowd": {
         "rank": null,
@@ -186,12 +186,12 @@
         "rr_underlying": 2.1
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 2057.6
+        "avg_dollar_vol_musd": 2060.3
       },
       "crowd": {
-        "rank": 51,
-        "velocity": 0.73,
-        "tag": "ABSENT"
+        "rank": 55,
+        "velocity": 0.88,
+        "tag": "DIVERGENT"
       },
       "engine": {
         "default_tier": "B",
@@ -226,7 +226,7 @@
         "rr_underlying": 1.46
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 332.8
+        "avg_dollar_vol_musd": 333.1
       },
       "crowd": {
         "rank": null,
@@ -266,7 +266,7 @@
         "rr_underlying": 4.52
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 651.6
+        "avg_dollar_vol_musd": 651.7
       },
       "crowd": {
         "rank": null,
@@ -305,7 +305,7 @@
         "rr_underlying": 1.42
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1601.4
+        "avg_dollar_vol_musd": 1604.6
       },
       "crowd": {
         "rank": null,
@@ -345,7 +345,7 @@
         "rr_underlying": 3.8
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 718
+        "avg_dollar_vol_musd": 722.3
       },
       "crowd": {
         "rank": null,
