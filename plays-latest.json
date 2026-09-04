@@ -1,92 +1,13 @@
 {
   "generated": {
-    "iso": "2026-09-03T01:08:42.820Z",
-    "sgt": "2026-09-03 09:08 SGT"
+    "iso": "2026-09-04T01:05:17.706Z",
+    "sgt": "2026-09-04 09:05 SGT"
   },
-  "eval_date": "2026-09-01",
+  "eval_date": "2026-09-02",
   "posture": "TRANSITION",
-  "count": 10,
+  "count": 8,
   "ranked_by": "theme_rank_5d asc, then signal strength",
   "cards": [
-    {
-      "ticker": "MRNA",
-      "signal": {
-        "state": "S3D_DRIFT",
-        "evidence": {
-          "event_date": "2026-08-19",
-          "event_low": 114.46,
-          "gap_pct": 84.3,
-          "day": 10
-        }
-      },
-      "theme": null,
-      "catalyst_tag": "phase3_readout: NSCLC/bladder Ph3 - NO firm date (melanoma Ph3 already read out; NSCLC/bladder enrolling, est 2027) - research/verify",
-      "levels": {
-        "direction": "long",
-        "entry_ref": 154.27,
-        "stop": 114.46,
-        "target": 176.66,
-        "rr_underlying": 0.56
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 4671.8
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "EIX",
-      "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
-        "evidence": {
-          "flush_date": "2026-08-31",
-          "flush_low": 53.11,
-          "flush_vol_mult": 8.2,
-          "reclaim_pct": 10.7,
-          "within_sessions": 1
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 58.8,
-        "stop": 53.11,
-        "target": 81.62,
-        "rr_underlying": 4.01
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 366.8
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
     {
       "ticker": "CRM",
       "signal": {
@@ -95,24 +16,24 @@
           "event_date": "2026-08-27",
           "event_low": 230.05,
           "gap_pct": 11.9,
-          "day": 4
+          "day": 5
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 258.11,
+        "entry_ref": 256.93,
         "stop": 230.05,
-        "target": 263.53,
-        "rr_underlying": 0.19
+        "target": 264.55,
+        "rr_underlying": 0.28
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 3563.2
+        "avg_dollar_vol_musd": 3655.4
       },
       "crowd": {
-        "rank": 57,
-        "velocity": 0.7,
+        "rank": 93,
+        "velocity": 0.43,
         "tag": "DIVERGENT"
       },
       "engine": {
@@ -127,27 +48,26 @@
       }
     },
     {
-      "ticker": "EL",
+      "ticker": "AXON",
       "signal": {
-        "state": "S3D_DRIFT",
+        "state": "S2_CONFIRMED_BREAK",
         "evidence": {
-          "event_date": "2026-08-19",
-          "event_low": 93.5,
-          "gap_pct": 11.2,
-          "day": 10
+          "broke_low": 511.18,
+          "close": 506.98,
+          "vertical_at": "2026-09-01"
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
-        "direction": "long",
-        "entry_ref": 100,
-        "stop": 93.5,
-        "target": 108.38,
-        "rr_underlying": 1.29
+        "direction": "short",
+        "entry_ref": 506.98,
+        "stop": 651.61,
+        "target": 485.75,
+        "rr_underlying": 0.15
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 362.7
+        "avg_dollar_vol_musd": 544.3
       },
       "crowd": {
         "rank": null,
@@ -168,184 +88,24 @@
     {
       "ticker": "CRWD",
       "signal": {
-        "state": "S3D_DRIFT",
+        "state": "S2_CONFIRMED_BREAK",
         "evidence": {
-          "event_date": "2026-08-27",
-          "event_low": 206.1,
-          "gap_pct": 10.1,
-          "day": 4
+          "broke_low": 212.65,
+          "close": 203.42,
+          "vertical_at": "2026-08-31"
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
-        "direction": "long",
-        "entry_ref": 215.07,
-        "stop": 206.1,
-        "target": 233.88,
-        "rr_underlying": 2.1
+        "direction": "short",
+        "entry_ref": 203.42,
+        "stop": 233.88,
+        "target": 174.14,
+        "rr_underlying": 0.96
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 2060.3
-      },
-      "crowd": {
-        "rank": 55,
-        "velocity": 0.88,
-        "tag": "DIVERGENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "BBY",
-      "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
-        "evidence": {
-          "flush_date": "2026-08-27",
-          "flush_low": 76.7,
-          "flush_vol_mult": 2.5,
-          "reclaim_pct": 7.7,
-          "within_sessions": 3
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 82.63,
-        "stop": 76.7,
-        "target": 91.27,
-        "rr_underlying": 1.46
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 333.1
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "PCG",
-      "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
-        "evidence": {
-          "flush_date": "2026-08-31",
-          "flush_low": 13.09,
-          "flush_vol_mult": 6.5,
-          "reclaim_pct": 7.4,
-          "within_sessions": 1
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 14.06,
-        "stop": 13.09,
-        "target": 18.44,
-        "rr_underlying": 4.52
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 651.7
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "MRK",
-      "signal": {
-        "state": "S3D_DRIFT",
-        "evidence": {
-          "event_date": "2026-08-19",
-          "event_low": 144.9,
-          "gap_pct": 8.7,
-          "day": 10
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 149.86,
-        "stop": 144.9,
-        "target": 156.92,
-        "rr_underlying": 1.42
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 1604.6
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "HWM",
-      "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
-        "evidence": {
-          "flush_date": "2026-08-31",
-          "flush_low": 240.38,
-          "flush_vol_mult": 3.7,
-          "reclaim_pct": 6,
-          "within_sessions": 1
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 254.89,
-        "stop": 240.38,
-        "target": 310,
-        "rr_underlying": 3.8
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 722.3
+        "avg_dollar_vol_musd": 2109.4
       },
       "crowd": {
         "rank": null,
@@ -371,7 +131,87 @@
           "flush_date": "2026-08-31",
           "flush_low": 79.59,
           "flush_vol_mult": 2.5,
-          "reclaim_pct": 5.9,
+          "reclaim_pct": 5.3,
+          "within_sessions": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 83.79,
+        "stop": 79.59,
+        "target": 96.02,
+        "rr_underlying": 2.91
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 379.7
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "HWM",
+      "signal": {
+        "state": "S3B_FLUSH_RECLAIM",
+        "evidence": {
+          "flush_date": "2026-08-31",
+          "flush_low": 240.38,
+          "flush_vol_mult": 3.7,
+          "reclaim_pct": 5.2,
+          "within_sessions": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 252.96,
+        "stop": 240.38,
+        "target": 310,
+        "rr_underlying": 4.53
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 735.8
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "EIX",
+      "signal": {
+        "state": "S3B_FLUSH_RECLAIM",
+        "evidence": {
+          "flush_date": "2026-09-01",
+          "flush_low": 52.5,
+          "flush_vol_mult": 7.2,
+          "reclaim_pct": 5.1,
           "within_sessions": 1
         }
       },
@@ -379,18 +219,95 @@
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 84.26,
-        "stop": 79.59,
-        "target": 96.02,
-        "rr_underlying": 2.52
+        "entry_ref": 55.19,
+        "stop": 52.5,
+        "target": 81.62,
+        "rr_underlying": 9.83
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 374.4
+        "avg_dollar_vol_musd": 384
       },
       "crowd": {
         "rank": null,
         "velocity": null,
         "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "DE",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-08-20",
+          "event_low": 586.48,
+          "gap_pct": 5.3,
+          "day": 10
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 698.37,
+        "stop": 586.48,
+        "target": 922.15,
+        "rr_underlying": 2
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 826.4
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "PYPL",
+      "signal": {
+        "state": "S3A_BASE_IGNITION",
+        "evidence": {
+          "runup_pct": 39.9,
+          "ign_chg": 4.3,
+          "ign_vol_mult": 1.64
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 54.67,
+        "stop": 50.88,
+        "target": 62.73,
+        "rr_underlying": 2.13
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 700.6
+      },
+      "crowd": {
+        "rank": 64,
+        "velocity": 7,
+        "tag": "EARLY"
       },
       "engine": {
         "default_tier": "B",
