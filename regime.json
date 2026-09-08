@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-07T00:59:58.994Z",
-    "sgt": "2026-09-07 08:59 SGT"
+    "iso": "2026-09-08T01:10:35.026Z",
+    "sgt": "2026-09-08 09:10 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
@@ -42,20 +42,20 @@
       "missing": []
     },
     "energy": {
-      "perf_w_avg": 5.393054585404798,
-      "perf_1m_avg": 17.018684513674593,
+      "perf_w_avg": 4.61470168997091,
+      "perf_1m_avg": 17.568588267690963,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": -4.508610527037352,
-      "perf_1m_avg": 16.826885376269246,
+      "perf_w_avg": -2.7981089135121526,
+      "perf_1m_avg": 14.891907537189093,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": 7.489221221517571,
-      "perf_1m_avg": 17.228401349915067,
+      "perf_w_avg": 7.75151718991545,
+      "perf_1m_avg": 14.8866841114633,
       "found": 2,
       "missing": []
     }
@@ -74,64 +74,53 @@
   "rank_20d": {
     "memory": 1,
     "space": 2,
-    "korea": 3,
-    "energy": 4,
+    "energy": 3,
+    "crypto": 4,
     "gold": 5,
-    "crypto": 6,
+    "korea": 6,
     "semis": 7,
     "ai_infra": 8,
     "defense": 9
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": 2,
-      "perf_w_delta": 3.9
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "semis": {
-      "rank_5d_delta": -2,
-      "perf_w_delta": 0.01
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "memory": {
-      "rank_5d_delta": 3,
-      "perf_w_delta": 14.2
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "defense": {
       "rank_5d_delta": 0,
-      "perf_w_delta": -1.91
+      "perf_w_delta": 0
     },
     "crypto": {
-      "rank_5d_delta": -2,
-      "perf_w_delta": 1
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "space": {
-      "rank_5d_delta": -2,
-      "perf_w_delta": -0.08
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0
     },
     "energy": {
-      "rank_5d_delta": -2,
-      "perf_w_delta": -0.25
+      "rank_5d_delta": 0,
+      "perf_w_delta": -0.78
     },
     "gold": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -1.62
+      "rank_5d_delta": 0,
+      "perf_w_delta": 1.71
     },
     "korea": {
-      "rank_5d_delta": 4,
-      "perf_w_delta": 8.12
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0.26
     }
   },
-  "rotation_alerts": [
-    {
-      "basket": "memory",
-      "rank_5d": 1,
-      "note": "entered 5d top-3"
-    },
-    {
-      "basket": "korea",
-      "rank_5d": 2,
-      "note": "entered 5d top-3"
-    }
-  ],
+  "rotation_alerts": [],
   "rate_overlay": "NEUTRAL",
   "rate_notches": {
     "ai_infra": 0,

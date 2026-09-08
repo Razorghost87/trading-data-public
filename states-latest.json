@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-07T01:01:53.732Z",
-    "sgt": "2026-09-07 09:01 SGT"
+    "iso": "2026-09-08T01:12:29.636Z",
+    "sgt": "2026-09-08 09:12 SGT"
   },
   "eval_date": "2026-09-04",
   "counts": {
@@ -220,133 +220,7 @@
       }
     }
   ],
-  "state_changes": [
-    {
-      "ticker": "ADSK",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "AMD",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "APTV",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "AXON",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "CRM",
-      "from": "S3D_DRIFT",
-      "to": "S2_CONFIRMED_BREAK"
-    },
-    {
-      "ticker": "CRWD",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "DE",
-      "from": "S3D_DRIFT",
-      "to": "S4"
-    },
-    {
-      "ticker": "DELL",
-      "from": "S4",
-      "to": "S3D_DRIFT"
-    },
-    {
-      "ticker": "ETN",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "EWY",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "FICO",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "HPE",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "HWM",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "INTC",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "KLAC",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "LITE",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "LRCX",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "LULU",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "MRVL",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "NTAP",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "PCG",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "PYPL",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "SNDK",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "SRE",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "TER",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    }
-  ],
+  "state_changes": [],
   "state_map": {
     "A": "S4",
     "AAPL": "S4",

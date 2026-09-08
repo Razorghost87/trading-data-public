@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-07T01:01:54.397Z",
-    "sgt": "2026-09-07 09:01 SGT"
+    "iso": "2026-09-08T01:12:30.501Z",
+    "sgt": "2026-09-08 09:12 SGT"
   },
   "eval_date": "2026-09-04",
   "posture": "TRANSITION",
@@ -21,7 +21,7 @@
       "theme": {
         "name": "korea",
         "rank_5d": 2,
-        "rank_20d": 3,
+        "rank_20d": 6,
         "notch": 0
       },
       "catalyst_tag": null,
@@ -119,7 +119,7 @@
         "avg_dollar_vol_musd": 1157.9
       },
       "crowd": {
-        "rank": null,
+        "rank": 65,
         "velocity": null,
         "tag": "ABSENT"
       },
@@ -278,9 +278,9 @@
         "avg_dollar_vol_musd": 3959.2
       },
       "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
+        "rank": 48,
+        "velocity": 3,
+        "tag": "EARLY"
       },
       "engine": {
         "default_tier": "B",
