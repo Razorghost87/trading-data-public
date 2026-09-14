@@ -1,61 +1,61 @@
 {
   "generated": {
-    "iso": "2026-09-11T01:03:18.249Z",
-    "sgt": "2026-09-11 09:03 SGT"
+    "iso": "2026-09-14T01:01:33.962Z",
+    "sgt": "2026-09-14 09:01 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": 0.7076867045805783,
-      "perf_1m_avg": -7.728640138388461,
+      "perf_w_avg": 1.1959028326137107,
+      "perf_1m_avg": -9.149087540574296,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": 0.10326777568901582,
-      "perf_1m_avg": -6.82006006624822,
+      "perf_w_avg": 0.5479517287509876,
+      "perf_1m_avg": -5.631674454278359,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": 9.606016094483303,
-      "perf_1m_avg": 27.215097692224713,
+      "perf_w_avg": 6.285480738116486,
+      "perf_1m_avg": 17.735902689719037,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": -2.22814467159483,
-      "perf_1m_avg": -15.305656160134596,
+      "perf_w_avg": -1.5102728276931483,
+      "perf_1m_avg": -15.990436006676491,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": 1.681895053002109,
-      "perf_1m_avg": 6.623254851917392,
+      "perf_w_avg": -2.360906055741526,
+      "perf_1m_avg": 9.487376902807975,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": 1.0741172905849703,
-      "perf_1m_avg": -1.5187761949637077,
+      "perf_w_avg": 0.37314599038874763,
+      "perf_1m_avg": -0.562577024589678,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": 2.5038358801966942,
-      "perf_1m_avg": 17.8373589437698,
+      "perf_w_avg": 3.404029539423771,
+      "perf_1m_avg": 15.810108102109917,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": -3.272582282957867,
-      "perf_1m_avg": 3.755879436843153,
+      "perf_w_avg": -1.0599479622144203,
+      "perf_1m_avg": 2.8227604566510176,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": 9.804718162510065,
-      "perf_1m_avg": 22.309554844347147,
+      "perf_w_avg": 9.75967522594309,
+      "perf_1m_avg": 17.022460214923523,
       "found": 2,
       "missing": []
     }
@@ -64,12 +64,12 @@
     "korea": 1,
     "memory": 2,
     "energy": 3,
-    "crypto": 4,
-    "space": 5,
-    "ai_infra": 6,
-    "semis": 7,
+    "ai_infra": 4,
+    "semis": 5,
+    "space": 6,
+    "gold": 7,
     "defense": 8,
-    "gold": 9
+    "crypto": 9
   },
   "rank_20d": {
     "memory": 1,
@@ -84,49 +84,43 @@
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -3.13
+      "rank_5d_delta": 2,
+      "perf_w_delta": 0.49
     },
     "semis": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -0.63
+      "rank_5d_delta": 2,
+      "perf_w_delta": 0.44
     },
     "memory": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -7.04
+      "rank_5d_delta": 0,
+      "perf_w_delta": -3.32
     },
     "defense": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 1.93
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0.72
     },
     "crypto": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -9.85
+      "rank_5d_delta": -5,
+      "perf_w_delta": -4.04
     },
     "space": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -1.67
+      "rank_5d_delta": -1,
+      "perf_w_delta": -0.7
     },
     "energy": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -2.4
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0.9
     },
     "gold": {
-      "rank_5d_delta": -2,
-      "perf_w_delta": -5.1
+      "rank_5d_delta": 2,
+      "perf_w_delta": 2.21
     },
     "korea": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -6.31
+      "rank_5d_delta": 0,
+      "perf_w_delta": -0.05
     }
   },
-  "rotation_alerts": [
-    {
-      "basket": "energy",
-      "rank_5d": 3,
-      "note": "entered 5d top-3"
-    }
-  ],
+  "rotation_alerts": [],
   "rate_overlay": "LONG_DURATION_PENALTY",
   "rate_notches": {
     "ai_infra": -1,
