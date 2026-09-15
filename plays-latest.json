@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-14T01:03:29.139Z",
-    "sgt": "2026-09-14 09:03 SGT"
+    "iso": "2026-09-15T01:27:37.062Z",
+    "sgt": "2026-09-15 09:27 SGT"
   },
   "eval_date": "2026-09-11",
   "posture": "HOSTILE",
@@ -31,9 +31,9 @@
         "avg_dollar_vol_musd": 383.4
       },
       "crowd": {
-        "rank": 67,
-        "velocity": 2,
-        "tag": "EARLY"
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
       },
       "engine": {
         "default_tier": "B",
@@ -107,11 +107,11 @@
         "rr_underlying": 2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 4319.6
+        "avg_dollar_vol_musd": 4322.1
       },
       "crowd": {
-        "rank": 41,
-        "velocity": 4,
+        "rank": 51,
+        "velocity": 2,
         "tag": "EARLY"
       },
       "engine": {

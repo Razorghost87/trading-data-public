@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-14T01:03:28.468Z",
-    "sgt": "2026-09-14 09:03 SGT"
+    "iso": "2026-09-15T01:27:36.386Z",
+    "sgt": "2026-09-15 09:27 SGT"
   },
   "eval_date": "2026-09-11",
   "counts": {
@@ -90,7 +90,7 @@
       "detail": {
         "runup_pct": 68.9,
         "ign_chg": 7.3,
-        "ign_vol_mult": 1.73
+        "ign_vol_mult": 1.74
       }
     },
     {
@@ -117,108 +117,7 @@
       }
     }
   ],
-  "state_changes": [
-    {
-      "ticker": "ANET",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "AVGO",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "CASY",
-      "from": "S1_VERTICAL",
-      "to": "S2_CONFIRMED_BREAK"
-    },
-    {
-      "ticker": "CIEN",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "COHR",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "COO",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "CRM",
-      "from": "S3D_DRIFT",
-      "to": "S4"
-    },
-    {
-      "ticker": "FDXF",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "FICO",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "GRMN",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "HPE",
-      "from": "S1_VERTICAL",
-      "to": "S4"
-    },
-    {
-      "ticker": "LULU",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "MRVL",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "NTAP",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "ON",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "PCG",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "PTC",
-      "from": "S1_VERTICAL",
-      "to": "S4"
-    },
-    {
-      "ticker": "PWR",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "SMCI",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "SPG",
-      "from": "S3C_QUALITY_OVERSOLD",
-      "to": "S4"
-    }
-  ],
+  "state_changes": [],
   "state_map": {
     "A": "S4",
     "AAPL": "S4",

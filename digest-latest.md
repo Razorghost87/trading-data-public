@@ -1,6 +1,6 @@
-# Trading Digest — 2026-09-14
+# Trading Digest — 2026-09-15
 
-_Generated 2026-09-14 09:03 SGT (2026-09-14T01:03:29.178Z)_
+_Generated 2026-09-15 09:27 SGT (2026-09-15T01:27:37.107Z)_
 
 ## 📋 PLAYS — decision-support cards (3)
 
@@ -15,48 +15,41 @@ _Ranked by theme 5d-rank then signal strength · posture HOSTILE · judgment fie
 
 | Reading | Value |
 |---|---|
-| HY OAS | 2.7% (2wk Δ 7bps) |
-| Curve 10y–2y | 0.33 |
-| 10y / 2y | 4.95% (Δ29) / 4.56% (Δ37) |
-| 30y yield | 5.37% (Δ19) — 🔴 ≥5.33 |
-| VIX / term ratio | 15.84000015258789 (VIX3M 20.5, 0.771) |
-| Breadth >50/200MA | 37.8% / 56.6% (net new-highs -158) |
+| HY OAS | 2.65% (2wk Δ 5bps) |
+| Curve 10y–2y | 0.32 |
+| 10y / 2y | 4.96% (Δ29) / 4.63% (Δ43) |
+| 30y yield | 5.35% (Δ16) — 🔴 ≥5.33 |
+| VIX / term ratio | 17.100000381469727 (VIX3M 19.3, 0.887) |
+| Breadth >50/200MA | 39.5% / 56% (net new-highs -64) |
 | SPY / QQQ vs ATH | -1.7% / -4.2% |
 ## REGIME — basket rotation
 
 | Basket | 5d | 20d | Perf.W | Perf.1M | Δ5d |
 |---|--:|--:|--:|--:|--:|
-| korea | 1 | 2 | +9.8% | +17.0% | – |
-| memory | 2 | 1 | +6.3% | +17.7% | – |
-| energy | 3 | 3 | +3.4% | +15.8% | – |
-| ai_infra | 4 | 8 | +1.2% | -9.1% | ▲2 |
-| semis | 5 | 7 | +0.5% | -5.6% | ▲2 |
-| space | 6 | 6 | +0.4% | -0.6% | ▼1 |
-| gold | 7 | 5 | -1.1% | +2.8% | ▲2 |
-| defense | 8 | 9 | -1.5% | -16.0% | – |
-| crypto | 9 | 4 | -2.4% | +9.5% | ▼5 |
+| energy | 1 | 2 | +2.5% | +9.3% | ▲2 |
+| korea | 2 | 4 | +1.9% | +0.2% | ▼1 |
+| space | 3 | 5 | +1.0% | +0.2% | ▲3 |
+| defense | 4 | 9 | -0.0% | -16.4% | ▲4 |
+| memory | 5 | 6 | -0.1% | -2.6% | ▼3 |
+| crypto | 6 | 1 | -0.6% | +17.6% | ▲3 |
+| gold | 7 | 3 | -2.5% | +2.8% | – |
+| semis | 8 | 7 | -4.0% | -8.3% | ▼3 |
+| ai_infra | 9 | 8 | -5.2% | -13.1% | ▼5 |
 
-**Rotation alerts:** none
+**Rotation alerts:** `space` → 5d top-3
 **Rate overlay (LONG_DURATION_PENALTY):** penalized `ai_infra`, `semis`, `memory`, `crypto`, `space`, `gold`
 
 ## EVENTS — next 14 days
 
-- **T-2** · 2026-09-16 · fomc — FOMC decision (Sep 15-16 meeting), approx - verify
-- **T-2** · 2026-09-16 · framework — 90-day review
-- **T-8** · 2026-09-22 · `MU` earnings — Q4 FY26, est EPS ~$31
+- **T-1** · 2026-09-16 · fomc — FOMC decision (Sep 15-16 meeting), approx - verify
+- **T-1** · 2026-09-16 · framework — 90-day review
+- **T-7** · 2026-09-22 · `MU` earnings — Q4 FY26, est EPS ~$31
 
 ## 🎯 STATE SIGNALS — S2/S3 transitions today
 
-- **S2 break** `CASY` — closed below prior low 627.59 (vertical 2026-09-09)  _(S1→S2)_
-- **S3A ignition** `ANET` — runup +33.3%, ignite +5.6% on 1.65× base vol  _(S4→S3A)_
-- **S3A ignition** `FDXF` — runup +27.4%, ignite +3.5% on 1.46× base vol  _(S4→S3A)_
-- **S3A ignition** `GRMN` — runup +32.3%, ignite +3.8% on 1.53× base vol  _(S4→S3A)_
-- **S3A ignition** `ON` — runup +31.6%, ignite +8.5% on 1.74× base vol  _(S4→S3A)_
-- **S3A ignition** `PWR` — runup +28.7%, ignite +5.1% on 1.77× base vol  _(S4→S3A)_
-- **S3A ignition** `SMCI` — runup +68.9%, ignite +7.3% on 1.73× base vol  _(S4→S3A)_
-- **S3B reclaim** `COO` — flush 2026-09-10 @51.01 (8.6× vol), reclaim +5.7% in 1d  _(S4→S3B)_
+_No new S2/S3 transitions today._
 
-**Still active (unchanged):** `DELL`(S3D)
+**Still active (unchanged):** `CASY`(S2), `ANET`(S3A), `FDXF`(S3A), `GRMN`(S3A), `ON`(S3A), `PWR`(S3A), `SMCI`(S3A), `COO`(S3B), `DELL`(S3D)
 
 **Active verticals (S1):** `COHR`
 
@@ -68,63 +61,63 @@ _Universe: S1 1 · S2 1 · S3A 6 · S3B 1 · S3C 0 · S3D 1_
 
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
-| 1 | ACVA | +44.2% | 24.40 | Technology Services |
-| 2 | FEIM | +42.4% | 7.14 | Electronic Technology |
-| 3 | ATEC | +19.7% | 3.74 | Health Technology |
-| 4 | ODD | +14.2% | 1.79 | Technology Services |
-| 5 | HPE | +12.4% | 1.22 | Electronic Technology |
-| 6 | HPE/PC | +12.1% | 0.33 | Electronic Technology |
-| 7 | DELL | +12.0% | 1.20 | Electronic Technology |
-| 8 | VICR | +11.2% | 1.19 | Electronic Technology |
-| 9 | BGSI | +10.9% | 2.76 | Consumer Services |
-| 10 | BW | +10.7% | 1.29 | Electronic Technology |
+| 1 | ELMT | +32.8% | 57.40 | Producer Manufacturing |
+| 2 | RPD | +24.1% | 2.21 | Technology Services |
+| 3 | EVCM | +19.8% | 2.50 | Technology Services |
+| 4 | ZS | +16.5% | 1.99 | Technology Services |
+| 5 | TENB | +16.5% | 1.70 | Technology Services |
+| 6 | NTSK | +15.6% | 2.13 | Technology Services |
+| 7 | RBRK | +15.6% | 1.43 | Technology Services |
+| 8 | SAIL | +15.3% | 2.35 | Technology Services |
+| 9 | QLYS | +15.1% | 1.54 | Technology Services |
+| 10 | S | +14.5% | 1.85 | Technology Services |
 
 **Top losers**
 
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
-| 1 | SMR | -15.7% | 3.18 | Producer Manufacturing |
-| 2 | SLS | -14.4% | 2.16 | Health Technology |
-| 3 | OKLO | -9.2% | 2.53 | Producer Manufacturing |
-| 4 | ASM | -8.8% | 1.40 | Non-Energy Minerals |
-| 5 | LAR | -8.7% | 1.34 | Non-Energy Minerals |
-| 6 | OMDA | -8.6% | 1.35 | Technology Services |
-| 7 | LEU | -8.2% | 1.63 | Non-Energy Minerals |
-| 8 | ALMS | -7.3% | 0.53 | Health Technology |
-| 9 | QLYS | -7.0% | 1.70 | Technology Services |
-| 10 | KAI | -7.0% | 1.97 | Producer Manufacturing |
+| 1 | HQ | -32.1% | 8.94 | Technology Services |
+| 2 | SWMR | -18.8% | 3.47 | Technology Services |
+| 3 | NFE | -15.8% | 9.94 | Utilities |
+| 4 | INIO | -14.3% | 1.38 | Producer Manufacturing |
+| 5 | BAND | -13.9% | 1.52 | Technology Services |
+| 6 | GLW | -13.7% | 2.11 | Electronic Technology |
+| 7 | TER | -13.3% | 2.18 | Electronic Technology |
+| 8 | MXL | -13.1% | 1.33 | Electronic Technology |
+| 9 | MTSI | -12.8% | 1.89 | Electronic Technology |
+| 10 | COHR | -12.7% | 1.78 | Electronic Technology |
 
 **Unusual volume (|chg|>2%)**
 
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
-| 1 | ACVA | +44.2% | 24.40 | Technology Services |
-| 2 | FEIM | +42.4% | 7.14 | Electronic Technology |
-| 3 | KIM/PN | -3.2% | 6.05 | Finance |
-| 4 | SPSC | +7.1% | 3.98 | Technology Services |
-| 5 | GOODN | -2.1% | 3.95 | Finance |
-| 6 | ATEC | +19.7% | 3.74 | Health Technology |
-| 7 | CADL | -6.9% | 3.65 | Health Technology |
-| 8 | RCUS | -6.0% | 3.35 | Health Technology |
-| 9 | TEN | +7.1% | 3.35 | Transportation |
-| 10 | FLOC | +2.1% | 3.23 | Industrial Services |
+| 1 | ELMT | +32.8% | 57.40 | Producer Manufacturing |
+| 2 | BWIN | +7.9% | 22.82 | Finance |
+| 3 | GOOGM | +2.3% | 15.27 | Technology Services |
+| 4 | GOOGN | +2.1% | 11.30 | Technology Services |
+| 5 | NFE | -15.8% | 9.94 | Utilities |
+| 6 | HQ | -32.1% | 8.94 | Technology Services |
+| 7 | RUM | +11.6% | 7.54 | Technology Services |
+| 8 | KIM/PN | -3.2% | 6.05 | Finance |
+| 9 | ISOU | -4.7% | 5.20 | Non-Energy Minerals |
+| 10 | DFTX | +3.5% | 4.53 | Health Technology |
 
 ## 👥 CROWD — WSB mentions (top 10 by velocity)
 
 | Ticker | Rank | Mentions | Velocity | Sentiment | State | Tag |
 |---|--:|--:|--:|---|---|---|
-| `MRVL` | 25 | 6 | 6× | — | S4 | EARLY |
-| `OPEN` | 28 | 6 | 6× | Bullish | — | — |
-| `DELL` | 41 | 4 | 4× | Bearish | S3D | EARLY |
-| `TX` | 42 | 4 | 4× | — | — | — |
-| `API` | 47 | 4 | 4× | — | — | — |
-| `BYD` | 26 | 6 | 3× | — | — | — |
-| `IBKR` | 49 | 3 | 3× | — | S4 | EARLY |
-| `GL` | 61 | 2 | 2× | Bullish | S4 | EARLY |
-| `SMCI` | 65 | 2 | 2× | — | S3A | EARLY |
-| `CASY` | 67 | 2 | 2× | — | S2 | DIVERGENT |
+| `AVGO` | 8 | 47 | 47× | Bullish | S4 | EARLY |
+| `CRWD` | 9 | 43 | 43× | Bullish | S4 | EARLY |
+| `AMZN` | 21 | 23 | 23× | Bullish | S4 | EARLY |
+| `AEO` | 25 | 19 | 19× | — | — | — |
+| `NOK` | 26 | 18 | 18× | — | — | — |
+| `LYFT` | 29 | 16 | 16× | — | — | — |
+| `NFLX` | 31 | 14 | 14× | Bearish | S4 | EARLY |
+| `GOOG` | 14 | 37 | 12.33× | Bullish | S4 | EARLY |
+| `IQ` | 3 | 86 | 12.29× | Bearish | — | — |
+| `SOXX` | 41 | 11 | 11× | Bearish | — | — |
 
-_Velocity basis: prior file wsb-20260911.json._
+_Velocity basis: prior file wsb-20260914.json._
 
 ## FUNNEL CANDIDATES — P5 / P14 (mechanical only; feed the state layer)
 
@@ -142,11 +135,11 @@ _Velocity basis: prior file wsb-20260911.json._
 
 ### Data freshness
 
-- regime: 2026-09-14 09:01 SGT
-- states: 2026-09-14 09:03 SGT
-- movers: 2026-09-14 09:01 SGT
-- candidates: 2026-09-14 09:03 SGT
-- ohlcv: 2026-09-14 09:03 SGT (515 upd / 0 fail)
+- regime: 2026-09-15 09:25 SGT
+- states: 2026-09-15 09:27 SGT
+- movers: 2026-09-15 09:25 SGT
+- candidates: 2026-09-15 09:27 SGT
+- ohlcv: 2026-09-15 09:27 SGT (515 upd / 0 fail)
 
 **Skipped/degraded:** none
 
