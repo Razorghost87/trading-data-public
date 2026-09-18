@@ -1,123 +1,123 @@
 {
   "generated": {
-    "iso": "2026-09-17T01:22:56.044Z",
-    "sgt": "2026-09-17 09:22 SGT"
+    "iso": "2026-09-18T01:16:47.048Z",
+    "sgt": "2026-09-18 09:16 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": -6.741994847038487,
-      "perf_1m_avg": -13.755431797427576,
+      "perf_w_avg": -2.2627183602436074,
+      "perf_1m_avg": -10.819262935960827,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": -4.703495846238495,
-      "perf_1m_avg": -9.95553303806972,
+      "perf_w_avg": -0.2118473872208559,
+      "perf_1m_avg": -4.454150009999083,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": -9.155598829479631,
-      "perf_1m_avg": -5.539090775617609,
+      "perf_w_avg": -3.9304362255266834,
+      "perf_1m_avg": 3.8257982560159784,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": 0.09175111965763454,
-      "perf_1m_avg": -15.421968937439287,
+      "perf_w_avg": 1.6888445259576006,
+      "perf_1m_avg": -14.000403399581769,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": -12.792376505808411,
-      "perf_1m_avg": 7.222109027665414,
+      "perf_w_avg": -1.056857303561639,
+      "perf_1m_avg": 12.178317339591763,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": -3.27536923351529,
-      "perf_1m_avg": -1.1660112399562976,
+      "perf_w_avg": 6.819184737528139,
+      "perf_1m_avg": 6.324573299397807,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": 1.7052519685114227,
-      "perf_1m_avg": 11.862059173371003,
+      "perf_w_avg": 2.1668949724627464,
+      "perf_1m_avg": 11.922646901957293,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": -4.120360453722447,
-      "perf_1m_avg": 0.6966090433794867,
+      "perf_w_avg": 1.0771229276410421,
+      "perf_1m_avg": 3.4719529979435624,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": -7.479391467108632,
-      "perf_1m_avg": -1.5608216510674962,
+      "perf_w_avg": -2.704510503632818,
+      "perf_1m_avg": 8.432438306107482,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
-    "energy": 1,
-    "defense": 2,
-    "space": 3,
+    "space": 1,
+    "energy": 2,
+    "defense": 3,
     "gold": 4,
     "semis": 5,
-    "ai_infra": 6,
-    "korea": 7,
-    "memory": 8,
-    "crypto": 9
+    "crypto": 6,
+    "ai_infra": 7,
+    "korea": 8,
+    "memory": 9
   },
   "rank_20d": {
-    "energy": 1,
-    "crypto": 2,
-    "gold": 3,
+    "crypto": 1,
+    "energy": 2,
+    "korea": 3,
     "space": 4,
-    "korea": 5,
-    "memory": 6,
+    "memory": 5,
+    "gold": 6,
     "semis": 7,
     "ai_infra": 8,
     "defense": 9
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 1.5
+      "rank_5d_delta": -1,
+      "perf_w_delta": 4.48
     },
     "semis": {
       "rank_5d_delta": 0,
-      "perf_w_delta": 0.31
+      "perf_w_delta": 4.49
     },
     "memory": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 0.61
+      "rank_5d_delta": -1,
+      "perf_w_delta": 5.23
     },
     "defense": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -0.5
+      "rank_5d_delta": -1,
+      "perf_w_delta": 1.6
     },
     "crypto": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -2.98
+      "rank_5d_delta": 3,
+      "perf_w_delta": 11.74
     },
     "space": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -1.25
+      "rank_5d_delta": 2,
+      "perf_w_delta": 10.09
     },
     "energy": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -1.64
+      "rank_5d_delta": -1,
+      "perf_w_delta": 0.46
     },
     "gold": {
       "rank_5d_delta": 0,
-      "perf_w_delta": -1.06
+      "perf_w_delta": 5.2
     },
     "korea": {
       "rank_5d_delta": -1,
-      "perf_w_delta": -0.95
+      "perf_w_delta": 4.77
     }
   },
   "rotation_alerts": [],

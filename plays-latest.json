@@ -1,13 +1,58 @@
 {
   "generated": {
-    "iso": "2026-09-17T01:24:51.933Z",
-    "sgt": "2026-09-17 09:24 SGT"
+    "iso": "2026-09-18T01:18:42.654Z",
+    "sgt": "2026-09-18 09:18 SGT"
   },
   "eval_date": "2026-09-16",
   "posture": "HOSTILE",
-  "count": 5,
+  "count": 6,
   "ranked_by": "theme_rank_5d asc, then signal strength",
   "cards": [
+    {
+      "ticker": "VRT",
+      "signal": {
+        "state": "S3B_FLUSH_RECLAIM",
+        "evidence": {
+          "flush_date": "2026-09-14",
+          "flush_low": 226.94,
+          "flush_vol_mult": 2,
+          "reclaim_pct": 5.5,
+          "within_sessions": 2
+        }
+      },
+      "theme": {
+        "name": "ai_infra",
+        "rank_5d": 7,
+        "rank_20d": 8,
+        "notch": -1
+      },
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 239.41,
+        "stop": 226.94,
+        "target": 313.61,
+        "rr_underlying": 5.95
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 1352.5
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
     {
       "ticker": "AXON",
       "signal": {
@@ -56,25 +101,25 @@
           "event_date": "2026-09-02",
           "event_low": 432.27,
           "gap_pct": 8.7,
-          "day": 9
+          "day": 10
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 543.51,
+        "entry_ref": 563.29,
         "stop": 432.27,
-        "target": 568.67,
-        "rr_underlying": 0.23
+        "target": 576.75,
+        "rr_underlying": 0.1
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 4609.8
+        "avg_dollar_vol_musd": 4849.4
       },
       "crowd": {
-        "rank": 37,
-        "velocity": 0.73,
-        "tag": "ABSENT"
+        "rank": 14,
+        "velocity": 2.45,
+        "tag": "EARLY"
       },
       "engine": {
         "default_tier": "B",
@@ -95,25 +140,25 @@
           "event_date": "2026-09-14",
           "event_low": 216.05,
           "gap_pct": 5.9,
-          "day": 2
+          "day": 3
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 242.49,
+        "entry_ref": 241.36,
         "stop": 216.05,
-        "target": 295.37,
-        "rr_underlying": 2
+        "target": 245.19,
+        "rr_underlying": 0.15
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 2546.5
+        "avg_dollar_vol_musd": 2615.1
       },
       "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
+        "rank": 41,
+        "velocity": 5,
+        "tag": "EARLY"
       },
       "engine": {
         "default_tier": "B",
@@ -136,7 +181,7 @@
           "close": 57.9,
           "lower_bb": 59.2,
           "ma200": 55.19,
-          "vol_ratio_50d": 1.57,
+          "vol_ratio_50d": 1.58,
           "pct_from_52w_high": 11.2
         }
       },
@@ -150,7 +195,7 @@
         "rr_underlying": 10.18
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 2122.9
+        "avg_dollar_vol_musd": 2123.1
       },
       "crowd": {
         "rank": null,
@@ -211,5 +256,5 @@
       }
     }
   ],
-  "filtered_out": 3
+  "filtered_out": 6
 }

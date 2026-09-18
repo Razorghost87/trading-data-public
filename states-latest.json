@@ -1,28 +1,19 @@
 {
   "generated": {
-    "iso": "2026-09-17T01:24:50.965Z",
-    "sgt": "2026-09-17 09:24 SGT"
+    "iso": "2026-09-18T01:18:42.097Z",
+    "sgt": "2026-09-18 09:18 SGT"
   },
   "eval_date": "2026-09-16",
   "counts": {
-    "S1_VERTICAL": 1,
+    "S1_VERTICAL": 0,
     "S2_CONFIRMED_BREAK": 0,
-    "S3A_BASE_IGNITION": 3,
-    "S3B_FLUSH_RECLAIM": 1,
+    "S3A_BASE_IGNITION": 6,
+    "S3B_FLUSH_RECLAIM": 2,
     "S3C_QUALITY_OVERSOLD": 2,
     "S3D_DRIFT": 2,
-    "S4": 506
+    "S4": 503
   },
   "signals": [
-    {
-      "ticker": "GLXY",
-      "state": "S1_VERTICAL",
-      "date": "2026-09-15",
-      "detail": {
-        "move_5d": -17.6,
-        "vol_x_av20": 1.24
-      }
-    },
     {
       "ticker": "COHR",
       "state": "S3A_BASE_IGNITION",
@@ -30,7 +21,7 @@
       "detail": {
         "runup_pct": 70.7,
         "ign_chg": 6.9,
-        "ign_vol_mult": 1.73
+        "ign_vol_mult": 1.74
       }
     },
     {
@@ -40,7 +31,17 @@
       "detail": {
         "runup_pct": 29.8,
         "ign_chg": 4,
-        "ign_vol_mult": 1.4
+        "ign_vol_mult": 1.41
+      }
+    },
+    {
+      "ticker": "LITE",
+      "state": "S3A_BASE_IGNITION",
+      "date": "2026-09-16",
+      "detail": {
+        "runup_pct": 64.2,
+        "ign_chg": 9.6,
+        "ign_vol_mult": 2.24
       }
     },
     {
@@ -50,7 +51,27 @@
       "detail": {
         "runup_pct": 53.6,
         "ign_chg": 3.6,
-        "ign_vol_mult": 1.28
+        "ign_vol_mult": 1.29
+      }
+    },
+    {
+      "ticker": "RIOT",
+      "state": "S3A_BASE_IGNITION",
+      "date": "2026-09-16",
+      "detail": {
+        "runup_pct": 34.1,
+        "ign_chg": 3.3,
+        "ign_vol_mult": 1.58
+      }
+    },
+    {
+      "ticker": "SPCX",
+      "state": "S3A_BASE_IGNITION",
+      "date": "2026-09-16",
+      "detail": {
+        "runup_pct": 41.7,
+        "ign_chg": 5.2,
+        "ign_vol_mult": 1.6
       }
     },
     {
@@ -66,6 +87,18 @@
       }
     },
     {
+      "ticker": "VRT",
+      "state": "S3B_FLUSH_RECLAIM",
+      "date": "2026-09-16",
+      "detail": {
+        "flush_date": "2026-09-14",
+        "flush_low": 226.94,
+        "flush_vol_mult": 2,
+        "reclaim_pct": 5.5,
+        "within_sessions": 2
+      }
+    },
+    {
       "ticker": "BAC",
       "state": "S3C_QUALITY_OVERSOLD",
       "date": "2026-09-16",
@@ -75,7 +108,7 @@
         "close": 57.9,
         "lower_bb": 59.2,
         "ma200": 55.19,
-        "vol_ratio_50d": 1.57,
+        "vol_ratio_50d": 1.58,
         "pct_from_52w_high": 11.2
       }
     },
@@ -96,186 +129,51 @@
     {
       "ticker": "CRWD",
       "state": "S3D_DRIFT",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "detail": {
         "event_date": "2026-09-14",
         "event_low": 216.05,
         "gap_pct": 5.9,
-        "day": 2
+        "day": 3
       }
     },
     {
       "ticker": "DELL",
       "state": "S3D_DRIFT",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "detail": {
         "event_date": "2026-09-02",
         "event_low": 432.27,
         "gap_pct": 8.7,
-        "day": 9
+        "day": 10
       }
     }
   ],
   "state_changes": [
     {
-      "ticker": "ACN",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "ADBE",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "ADSK",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "APP",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "AXON",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "BAC",
-      "from": "S4",
-      "to": "S3C_QUALITY_OVERSOLD"
-    },
-    {
-      "ticker": "BR",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "CDNS",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "COHR",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "COIN",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "COO",
-      "from": "S3B_FLUSH_RECLAIM",
-      "to": "S4"
-    },
-    {
-      "ticker": "CRM",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "CRWD",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S3D_DRIFT"
-    },
-    {
-      "ticker": "CTSH",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "DDOG",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "FOXA",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "GEN",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
       "ticker": "GLXY",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "HONA",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "INTC",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "INTU",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "MRVL",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "MTB",
-      "from": "S4",
-      "to": "S3C_QUALITY_OVERSOLD"
-    },
-    {
-      "ticker": "NOW",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "PANW",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "PLTR",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "SKHY",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "SPCE",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "TTD",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "TYL",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "VRT",
       "from": "S1_VERTICAL",
       "to": "S4"
     },
     {
-      "ticker": "WDAY",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
+      "ticker": "LITE",
+      "from": "S4",
+      "to": "S3A_BASE_IGNITION"
+    },
+    {
+      "ticker": "RIOT",
+      "from": "S4",
+      "to": "S3A_BASE_IGNITION"
+    },
+    {
+      "ticker": "SPCX",
+      "from": "S4",
+      "to": "S3A_BASE_IGNITION"
+    },
+    {
+      "ticker": "VRT",
+      "from": "S4",
+      "to": "S3B_FLUSH_RECLAIM"
     }
   ],
   "state_map": {
@@ -493,7 +391,7 @@
     "GL": "S4",
     "GLD": "S4",
     "GLW": "S4",
-    "GLXY": "S1_VERTICAL",
+    "GLXY": "S4",
     "GM": "S4",
     "GNRC": "S4",
     "GOOG": "S4",
@@ -568,7 +466,7 @@
     "LHX": "S4",
     "LII": "S4",
     "LIN": "S4",
-    "LITE": "S4",
+    "LITE": "S3A_BASE_IGNITION",
     "LLY": "S4",
     "LMT": "S4",
     "LNT": "S4",
@@ -675,7 +573,7 @@
     "REG": "S4",
     "REGN": "S4",
     "RF": "S4",
-    "RIOT": "S4",
+    "RIOT": "S3A_BASE_IGNITION",
     "RJF": "S4",
     "RL": "S4",
     "RMD": "S4",
@@ -700,7 +598,7 @@
     "SO": "S4",
     "SOLV": "S4",
     "SPCE": "S4",
-    "SPCX": "S4",
+    "SPCX": "S3A_BASE_IGNITION",
     "SPG": "S4",
     "SPGI": "S4",
     "SRE": "S4",
@@ -762,7 +660,7 @@
     "VMC": "S4",
     "VRSK": "S4",
     "VRSN": "S4",
-    "VRT": "S4",
+    "VRT": "S3B_FLUSH_RECLAIM",
     "VRTX": "S4",
     "VST": "S4",
     "VTR": "S4",
