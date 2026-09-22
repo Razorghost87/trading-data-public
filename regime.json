@@ -1,129 +1,129 @@
 {
   "generated": {
-    "iso": "2026-09-21T01:03:27.051Z",
-    "sgt": "2026-09-21 09:03 SGT"
+    "iso": "2026-09-22T01:36:04.398Z",
+    "sgt": "2026-09-22 09:36 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": -0.1648391505891855,
-      "perf_1m_avg": -6.429504793280837,
+      "perf_w_avg": 7.111410413791401,
+      "perf_1m_avg": -2.4855331518268606,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": -0.6014657634092602,
-      "perf_1m_avg": -2.8083926584019747,
+      "perf_w_avg": 3.990057754387172,
+      "perf_1m_avg": 1.1248048686524093,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": 1.3424067702352342,
-      "perf_1m_avg": 9.191089647150955,
+      "perf_w_avg": 13.09885567272894,
+      "perf_1m_avg": 9.541836017544934,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": 0.7633250711480101,
-      "perf_1m_avg": -14.956716567195647,
+      "perf_w_avg": 2.764084233454484,
+      "perf_1m_avg": -9.156413218267758,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": 7.420425889123787,
-      "perf_1m_avg": 26.16428083787721,
+      "perf_w_avg": 14.162195130115885,
+      "perf_1m_avg": 10.256988428095683,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": 2.935534917197674,
-      "perf_1m_avg": 0.9435914657003572,
+      "perf_w_avg": 8.802156332332597,
+      "perf_1m_avg": 9.914662571014452,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": 4.397151833400574,
-      "perf_1m_avg": 11.713907208398515,
+      "perf_w_avg": -1.8194646560486472,
+      "perf_1m_avg": 8.11795084111572,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": -0.14335984133609525,
-      "perf_1m_avg": -0.21619298679330623,
+      "perf_w_avg": 1.856462252795584,
+      "perf_1m_avg": -6.984020637761793,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": -3.6387787633504347,
-      "perf_1m_avg": 8.56006877136503,
+      "perf_w_avg": 6.967587034813926,
+      "perf_1m_avg": 9.00537563470854,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
     "crypto": 1,
-    "energy": 2,
+    "memory": 2,
     "space": 3,
-    "memory": 4,
-    "defense": 5,
-    "gold": 6,
-    "ai_infra": 7,
-    "semis": 8,
-    "korea": 9
+    "ai_infra": 4,
+    "korea": 5,
+    "semis": 6,
+    "defense": 7,
+    "gold": 8,
+    "energy": 9
   },
   "rank_20d": {
     "crypto": 1,
-    "energy": 2,
+    "space": 2,
     "memory": 3,
     "korea": 4,
-    "space": 5,
-    "gold": 6,
-    "semis": 7,
-    "ai_infra": 8,
+    "energy": 5,
+    "semis": 6,
+    "ai_infra": 7,
+    "gold": 8,
     "defense": 9
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 2.1
+      "rank_5d_delta": 3,
+      "perf_w_delta": 7.28
     },
     "semis": {
-      "rank_5d_delta": -3,
-      "perf_w_delta": -0.39
+      "rank_5d_delta": 2,
+      "perf_w_delta": 4.59
     },
     "memory": {
-      "rank_5d_delta": 5,
-      "perf_w_delta": 5.27
+      "rank_5d_delta": 2,
+      "perf_w_delta": 11.76
     },
     "defense": {
       "rank_5d_delta": -2,
-      "perf_w_delta": -0.93
+      "perf_w_delta": 2
     },
     "crypto": {
-      "rank_5d_delta": 5,
-      "perf_w_delta": 8.48
+      "rank_5d_delta": 0,
+      "perf_w_delta": 6.74
     },
     "space": {
-      "rank_5d_delta": -2,
-      "perf_w_delta": -3.88
+      "rank_5d_delta": 0,
+      "perf_w_delta": 5.87
     },
     "energy": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 2.23
+      "rank_5d_delta": -7,
+      "perf_w_delta": -6.22
     },
     "gold": {
       "rank_5d_delta": -2,
-      "perf_w_delta": -1.22
+      "perf_w_delta": 2
     },
     "korea": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -0.93
+      "rank_5d_delta": 4,
+      "perf_w_delta": 10.61
     }
   },
   "rotation_alerts": [
     {
-      "basket": "crypto",
-      "rank_5d": 1,
+      "basket": "memory",
+      "rank_5d": 2,
       "note": "entered 5d top-3"
     }
   ],
