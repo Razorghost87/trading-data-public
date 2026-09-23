@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-09-22T01:37:59.101Z",
-    "sgt": "2026-09-22 09:37 SGT"
+    "iso": "2026-09-23T01:31:09.955Z",
+    "sgt": "2026-09-23 09:31 SGT"
   },
   "eval_date": "2026-09-21",
   "counts": {
@@ -20,7 +20,7 @@
       "date": "2026-09-21",
       "detail": {
         "move_5d": 24.7,
-        "vol_x_av20": 2.32
+        "vol_x_av20": 2.33
       }
     },
     {
@@ -29,7 +29,7 @@
       "date": "2026-09-21",
       "detail": {
         "move_5d": 25.3,
-        "vol_x_av20": 1.94
+        "vol_x_av20": 1.96
       }
     },
     {
@@ -49,7 +49,7 @@
       "detail": {
         "runup_pct": 32.3,
         "ign_chg": 4.3,
-        "ign_vol_mult": 2.07
+        "ign_vol_mult": 2.08
       }
     },
     {
@@ -128,68 +128,7 @@
       }
     }
   ],
-  "state_changes": [
-    {
-      "ticker": "AMD",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "BAC",
-      "from": "S3C_QUALITY_OVERSOLD",
-      "to": "S4"
-    },
-    {
-      "ticker": "CASY",
-      "from": "S4",
-      "to": "S2_CONFIRMED_BREAK"
-    },
-    {
-      "ticker": "COHR",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "CSX",
-      "from": "S4",
-      "to": "S3C_QUALITY_OVERSOLD"
-    },
-    {
-      "ticker": "EWY",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "INTC",
-      "from": "S4",
-      "to": "S1_VERTICAL"
-    },
-    {
-      "ticker": "PWR",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "RVTY",
-      "from": "S1_VERTICAL",
-      "to": "S4"
-    },
-    {
-      "ticker": "SNDK",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "TPL",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "WBD",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    }
-  ],
+  "state_changes": [],
   "state_map": {
     "A": "S4",
     "AAPL": "S4",
