@@ -1,35 +1,44 @@
 {
   "generated": {
-    "iso": "2026-09-23T01:31:09.955Z",
-    "sgt": "2026-09-23 09:31 SGT"
+    "iso": "2026-09-24T01:23:56.991Z",
+    "sgt": "2026-09-24 09:23 SGT"
   },
   "eval_date": "2026-09-21",
   "counts": {
-    "S1_VERTICAL": 2,
+    "S1_VERTICAL": 3,
     "S2_CONFIRMED_BREAK": 1,
-    "S3A_BASE_IGNITION": 1,
+    "S3A_BASE_IGNITION": 0,
     "S3B_FLUSH_RECLAIM": 3,
-    "S3C_QUALITY_OVERSOLD": 2,
+    "S3C_QUALITY_OVERSOLD": 3,
     "S3D_DRIFT": 1,
-    "S4": 505
+    "S4": 504
   },
   "signals": [
     {
-      "ticker": "AMD",
+      "ticker": "MRNA",
       "state": "S1_VERTICAL",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "detail": {
-        "move_5d": 24.7,
-        "vol_x_av20": 2.33
+        "move_5d": 27,
+        "vol_x_av20": 1.29
       }
     },
     {
-      "ticker": "INTC",
+      "ticker": "MU",
       "state": "S1_VERTICAL",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "detail": {
-        "move_5d": 25.3,
-        "vol_x_av20": 1.96
+        "move_5d": 18.2,
+        "vol_x_av20": 1.16
+      }
+    },
+    {
+      "ticker": "SNDK",
+      "state": "S1_VERTICAL",
+      "date": "2026-09-22",
+      "detail": {
+        "move_5d": 23.3,
+        "vol_x_av20": 1.19
       }
     },
     {
@@ -40,16 +49,6 @@
         "broke_low": 596.83,
         "close": 585.34,
         "vertical_at": "2026-09-15"
-      }
-    },
-    {
-      "ticker": "EWY",
-      "state": "S3A_BASE_IGNITION",
-      "date": "2026-09-21",
-      "detail": {
-        "runup_pct": 32.3,
-        "ign_chg": 4.3,
-        "ign_vol_mult": 2.08
       }
     },
     {
@@ -86,6 +85,20 @@
         "flush_vol_mult": 2.1,
         "reclaim_pct": 11,
         "within_sessions": 1
+      }
+    },
+    {
+      "ticker": "BAC",
+      "state": "S3C_QUALITY_OVERSOLD",
+      "date": "2026-09-22",
+      "detail": {
+        "rsi": 25.4,
+        "note": "strict P14 (retagged S3C)",
+        "close": 56.2,
+        "lower_bb": 56.6,
+        "ma200": 55.27,
+        "vol_ratio_50d": 1.37,
+        "pct_from_52w_high": 13.8
       }
     },
     {
@@ -128,7 +141,43 @@
       }
     }
   ],
-  "state_changes": [],
+  "state_changes": [
+    {
+      "ticker": "AMD",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "BAC",
+      "from": "S4",
+      "to": "S3C_QUALITY_OVERSOLD"
+    },
+    {
+      "ticker": "EWY",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "INTC",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "MRNA",
+      "from": "S4",
+      "to": "S1_VERTICAL"
+    },
+    {
+      "ticker": "MU",
+      "from": "S4",
+      "to": "S1_VERTICAL"
+    },
+    {
+      "ticker": "SNDK",
+      "from": "S4",
+      "to": "S1_VERTICAL"
+    }
+  ],
   "state_map": {
     "A": "S4",
     "AAPL": "S4",
@@ -157,7 +206,7 @@
     "ALLE": "S4",
     "AMAT": "S4",
     "AMCR": "S4",
-    "AMD": "S1_VERTICAL",
+    "AMD": "S4",
     "AME": "S4",
     "AMGN": "S4",
     "AMP": "S4",
@@ -184,7 +233,7 @@
     "AXP": "S4",
     "AZO": "S4",
     "BA": "S4",
-    "BAC": "S4",
+    "BAC": "S3C_QUALITY_OVERSOLD",
     "BALL": "S4",
     "BAX": "S4",
     "BBY": "S4",
@@ -305,7 +354,7 @@
     "ETR": "S4",
     "EVRG": "S4",
     "EW": "S4",
-    "EWY": "S3A_BASE_IGNITION",
+    "EWY": "S4",
     "EXC": "S4",
     "EXE": "S4",
     "EXPD": "S4",
@@ -381,7 +430,7 @@
     "IEX": "S4",
     "IFF": "S4",
     "INCY": "S4",
-    "INTC": "S1_VERTICAL",
+    "INTC": "S4",
     "INTU": "S4",
     "INVH": "S4",
     "IP": "S4",
@@ -452,7 +501,7 @@
     "MPC": "S4",
     "MPWR": "S4",
     "MRK": "S4",
-    "MRNA": "S4",
+    "MRNA": "S1_VERTICAL",
     "MRSH": "S4",
     "MRVL": "S4",
     "MS": "S4",
@@ -461,7 +510,7 @@
     "MSI": "S4",
     "MTB": "S4",
     "MTD": "S4",
-    "MU": "S4",
+    "MU": "S1_VERTICAL",
     "NCLH": "S4",
     "NDAQ": "S4",
     "NDSN": "S4",
@@ -546,7 +595,7 @@
     "SLB": "S4",
     "SMCI": "S4",
     "SNA": "S4",
-    "SNDK": "S4",
+    "SNDK": "S1_VERTICAL",
     "SNPS": "S4",
     "SO": "S4",
     "SOLV": "S4",
