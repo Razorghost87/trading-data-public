@@ -1,132 +1,126 @@
 {
   "generated": {
-    "iso": "2026-10-06T02:56:44.687Z",
-    "sgt": "2026-10-06 10:56 SGT"
+    "iso": "2026-10-07T02:21:23.000Z",
+    "sgt": "2026-10-07 10:21 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": 3.1248552469736466,
-      "perf_1m_avg": 5.465385129940716,
+      "perf_w_avg": 3.721067500006834,
+      "perf_1m_avg": 7.246862893198707,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": 5.606136606846943,
-      "perf_1m_avg": 7.924087310580123,
+      "perf_w_avg": 6.05359714946121,
+      "perf_1m_avg": 8.83943787998247,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": 0.6583085687379767,
-      "perf_1m_avg": 11.82000097554033,
+      "perf_w_avg": -3.019152931570422,
+      "perf_1m_avg": 7.746978981091034,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": -5.138078545983824,
-      "perf_1m_avg": -8.59351826067523,
+      "perf_w_avg": -2.327119228323724,
+      "perf_1m_avg": -6.750207852990716,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": -7.8779884422732565,
-      "perf_1m_avg": -5.743608712541804,
+      "perf_w_avg": -9.26968984416093,
+      "perf_1m_avg": -7.463832124806082,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": 6.331984791738427,
-      "perf_1m_avg": 9.266084242729105,
+      "perf_w_avg": 6.425075678049293,
+      "perf_1m_avg": 9.884359305152033,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": 6.103960878556033,
-      "perf_1m_avg": 8.380433853720135,
+      "perf_w_avg": 9.073104317950365,
+      "perf_1m_avg": 8.430805913880855,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": -0.05763159710390016,
-      "perf_1m_avg": -7.656397417287408,
+      "perf_w_avg": 0.4801387521568188,
+      "perf_1m_avg": -6.6510019453338876,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": 4.333616229023769,
-      "perf_1m_avg": 12.018591047757702,
+      "perf_w_avg": -0.7289972598372922,
+      "perf_1m_avg": 6.838949286340988,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
-    "space": 1,
-    "energy": 2,
+    "energy": 1,
+    "space": 2,
     "semis": 3,
-    "korea": 4,
+    "ai_infra": 4,
+    "gold": 5,
+    "korea": 6,
+    "defense": 7,
+    "memory": 8,
+    "crypto": 9
+  },
+  "rank_20d": {
+    "space": 1,
+    "semis": 2,
+    "energy": 3,
+    "memory": 4,
     "ai_infra": 5,
-    "memory": 6,
+    "korea": 6,
     "gold": 7,
     "defense": 8,
     "crypto": 9
   },
-  "rank_20d": {
-    "korea": 1,
-    "memory": 2,
-    "space": 3,
-    "energy": 4,
-    "semis": 5,
-    "ai_infra": 6,
-    "crypto": 7,
-    "gold": 8,
-    "defense": 9
-  },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 0.38
+      "rank_5d_delta": 1,
+      "perf_w_delta": 0.6
     },
     "semis": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -0.16
+      "rank_5d_delta": 0,
+      "perf_w_delta": 0.45
     },
     "memory": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 1.62
+      "rank_5d_delta": -2,
+      "perf_w_delta": -3.68
     },
     "defense": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 0.86
+      "rank_5d_delta": 1,
+      "perf_w_delta": 2.81
     },
     "crypto": {
       "rank_5d_delta": 0,
-      "perf_w_delta": 3.34
+      "perf_w_delta": -1.39
     },
     "space": {
-      "rank_5d_delta": 4,
-      "perf_w_delta": 5.72
+      "rank_5d_delta": -1,
+      "perf_w_delta": 0.09
     },
     "energy": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -0.11
+      "rank_5d_delta": 1,
+      "perf_w_delta": 2.97
     },
     "gold": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 4.14
+      "rank_5d_delta": 2,
+      "perf_w_delta": 0.54
     },
     "korea": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 1.26
+      "rank_5d_delta": -2,
+      "perf_w_delta": -5.06
     }
   },
-  "rotation_alerts": [
-    {
-      "basket": "space",
-      "rank_5d": 1,
-      "note": "entered 5d top-3"
-    }
-  ],
+  "rotation_alerts": [],
   "rate_overlay": "LONG_DURATION_PENALTY",
   "rate_notches": {
     "ai_infra": -1,
