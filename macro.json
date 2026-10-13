@@ -1,7 +1,7 @@
 {
   "generated": {
-    "iso": "2026-10-12T02:20:58.296Z",
-    "sgt": "2026-10-12 10:20 SGT"
+    "iso": "2026-10-13T03:31:18.631Z",
+    "sgt": "2026-10-13 11:31 SGT"
   },
   "posture": "HOSTILE",
   "rate_overlay": "NEUTRAL",
@@ -23,35 +23,35 @@
       "dfii10_2wk_delta_bps": 2
     },
     "vol": {
-      "vix": 14.84000015258789,
-      "vix3m": 17.770000457763672,
-      "vix_term_ratio": 0.835
+      "vix": 15.210000038146973,
+      "vix3m": 17.93000030517578,
+      "vix_term_ratio": 0.848
     },
     "fx_energy": {
-      "dxy": 102.12799835205078,
-      "brent": 103.08000183105469
+      "dxy": 102.41300201416016,
+      "brent": 105.29000091552734
     },
     "equity": {
       "spy": {
-        "close": 778.57,
+        "close": 778.1,
         "above_20ma": true,
         "above_50ma": true,
         "above_200ma": true,
         "pct_from_ath": -0.1
       },
       "qqq": {
-        "close": 751.27,
+        "close": 746.04,
         "above_20ma": true,
         "above_50ma": true,
         "above_200ma": true,
-        "pct_from_ath": -1.1
+        "pct_from_ath": -1.8
       }
     },
     "breadth": {
       "universe": 511,
-      "breadth_50ma_pct": 31.1,
-      "breadth_200ma_pct": 45.6,
-      "net_new_20d_highs": -42
+      "breadth_50ma_pct": 34.1,
+      "breadth_200ma_pct": 46.6,
+      "net_new_20d_highs": 32
     }
   },
   "logic": {

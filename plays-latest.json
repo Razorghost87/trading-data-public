@@ -1,37 +1,77 @@
 {
   "generated": {
-    "iso": "2026-10-12T02:23:17.249Z",
-    "sgt": "2026-10-12 10:23 SGT"
+    "iso": "2026-10-13T03:33:38.115Z",
+    "sgt": "2026-10-13 11:33 SGT"
   },
-  "eval_date": "2026-10-09",
+  "eval_date": "2026-10-12",
   "posture": "HOSTILE",
-  "count": 5,
+  "count": 8,
   "ranked_by": "theme_rank_5d asc, then signal strength",
   "cards": [
     {
-      "ticker": "CTVA",
+      "ticker": "HSIC",
+      "signal": {
+        "state": "S3B_FLUSH_RECLAIM",
+        "evidence": {
+          "flush_date": "2026-10-08",
+          "flush_low": 79.37,
+          "flush_vol_mult": 2.3,
+          "reclaim_pct": 6.1,
+          "within_sessions": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 84.23,
+        "stop": 79.37,
+        "target": 91.69,
+        "rr_underlying": 1.53
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 115.3
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "STX",
       "signal": {
         "state": "S2_CONFIRMED_BREAK",
         "evidence": {
-          "broke_low": 13.61,
-          "close": 13.24,
-          "vertical_at": "2026-10-01"
+          "broke_low": 766.09,
+          "close": 753.25,
+          "vertical_at": "2026-10-08"
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "short",
-        "entry_ref": 13.24,
-        "stop": 78.98,
-        "target": 11.48,
-        "rr_underlying": 0.03
+        "entry_ref": 753.25,
+        "stop": 946.36,
+        "target": 367.03,
+        "rr_underlying": 2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 558.9
+        "avg_dollar_vol_musd": 3978.3
       },
       "crowd": {
-        "rank": null,
+        "rank": 91,
         "velocity": null,
         "tag": "ABSENT"
       },
@@ -55,7 +95,7 @@
           "flush_low": 8.65,
           "flush_vol_mult": 2.3,
           "reclaim_pct": 5.9,
-          "within_sessions": 2
+          "within_sessions": 3
         }
       },
       "theme": null,
@@ -68,7 +108,7 @@
         "rr_underlying": 4.57
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 327.8
+        "avg_dollar_vol_musd": 332.3
       },
       "crowd": {
         "rank": null,
@@ -87,28 +127,28 @@
       }
     },
     {
-      "ticker": "HSIC",
+      "ticker": "SBUX",
       "signal": {
         "state": "S3B_FLUSH_RECLAIM",
         "evidence": {
           "flush_date": "2026-10-08",
-          "flush_low": 79.37,
-          "flush_vol_mult": 2.3,
-          "reclaim_pct": 5.8,
-          "within_sessions": 1
+          "flush_low": 87.35,
+          "flush_vol_mult": 4.2,
+          "reclaim_pct": 5.7,
+          "within_sessions": 2
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 84.01,
-        "stop": 79.37,
-        "target": 91.69,
-        "rr_underlying": 1.66
+        "entry_ref": 92.29,
+        "stop": 87.35,
+        "target": 109.23,
+        "rr_underlying": 3.43
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 114.9
+        "avg_dollar_vol_musd": 869.3
       },
       "crowd": {
         "rank": null,
@@ -134,20 +174,59 @@
           "event_date": "2026-09-29",
           "event_low": 24,
           "gap_pct": 10.2,
-          "day": 9
+          "day": 10
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 26.35,
+        "entry_ref": 26.48,
         "stop": 24,
         "target": 28.79,
-        "rr_underlying": 1.04
+        "rr_underlying": 0.93
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 644.2
+        "avg_dollar_vol_musd": 641.1
+      },
+      "crowd": {
+        "rank": 88,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "CCI",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-10-09",
+          "event_low": 73.75,
+          "gap_pct": 7.9,
+          "day": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 81.01,
+        "stop": 73.75,
+        "target": 95.53,
+        "rr_underlying": 2
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 329.2
       },
       "crowd": {
         "rank": null,
@@ -173,20 +252,59 @@
           "event_date": "2026-10-01",
           "event_low": 462,
           "gap_pct": 7.6,
-          "day": 7
+          "day": 8
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 509.99,
+        "entry_ref": 502.51,
         "stop": 462,
-        "target": 605.97,
+        "target": 512.49,
+        "rr_underlying": 0.25
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 1133.6
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 4
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "AMT",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-10-09",
+          "event_low": 175.02,
+          "gap_pct": 6.1,
+          "day": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 182.56,
+        "stop": 175.02,
+        "target": 197.64,
         "rr_underlying": 2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1128.5
+        "avg_dollar_vol_musd": 554.5
       },
       "crowd": {
         "rank": null,
