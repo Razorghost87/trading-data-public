@@ -1,11 +1,11 @@
 {
   "generated": {
-    "iso": "2026-10-13T03:33:38.115Z",
-    "sgt": "2026-10-13 11:33 SGT"
+    "iso": "2026-10-14T01:54:59.220Z",
+    "sgt": "2026-10-14 09:54 SGT"
   },
-  "eval_date": "2026-10-12",
+  "eval_date": "2026-10-13",
   "posture": "HOSTILE",
-  "count": 8,
+  "count": 7,
   "ranked_by": "theme_rank_5d asc, then signal strength",
   "cards": [
     {
@@ -16,21 +16,21 @@
           "flush_date": "2026-10-08",
           "flush_low": 79.37,
           "flush_vol_mult": 2.3,
-          "reclaim_pct": 6.1,
-          "within_sessions": 2
+          "reclaim_pct": 7.1,
+          "within_sessions": 3
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 84.23,
+        "entry_ref": 85.03,
         "stop": 79.37,
         "target": 91.69,
-        "rr_underlying": 1.53
+        "rr_underlying": 1.18
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 115.3
+        "avg_dollar_vol_musd": 111.5
       },
       "crowd": {
         "rank": null,
@@ -49,29 +49,31 @@
       }
     },
     {
-      "ticker": "STX",
+      "ticker": "VZ",
       "signal": {
-        "state": "S2_CONFIRMED_BREAK",
+        "state": "S3B_FLUSH_RECLAIM",
         "evidence": {
-          "broke_low": 766.09,
-          "close": 753.25,
-          "vertical_at": "2026-10-08"
+          "flush_date": "2026-10-09",
+          "flush_low": 40.81,
+          "flush_vol_mult": 4.7,
+          "reclaim_pct": 6.7,
+          "within_sessions": 2
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
-        "direction": "short",
-        "entry_ref": 753.25,
-        "stop": 946.36,
-        "target": 367.03,
-        "rr_underlying": 2
+        "direction": "long",
+        "entry_ref": 43.53,
+        "stop": 40.81,
+        "target": 51.67,
+        "rr_underlying": 2.99
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 3978.3
+        "avg_dollar_vol_musd": 1235.7
       },
       "crowd": {
-        "rank": 91,
+        "rank": null,
         "velocity": null,
         "tag": "ABSENT"
       },
@@ -108,7 +110,7 @@
         "rr_underlying": 4.57
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 332.3
+        "avg_dollar_vol_musd": 332.2
       },
       "crowd": {
         "rank": null,
@@ -134,63 +136,24 @@
           "flush_date": "2026-10-08",
           "flush_low": 87.35,
           "flush_vol_mult": 4.2,
-          "reclaim_pct": 5.7,
-          "within_sessions": 2
+          "reclaim_pct": 5.3,
+          "within_sessions": 3
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 92.29,
+        "entry_ref": 92,
         "stop": 87.35,
         "target": 109.23,
-        "rr_underlying": 3.43
+        "rr_underlying": 3.71
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 869.3
+        "avg_dollar_vol_musd": 881.3
       },
       "crowd": {
         "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 4
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "CCL",
-      "signal": {
-        "state": "S3D_DRIFT",
-        "evidence": {
-          "event_date": "2026-09-29",
-          "event_low": 24,
-          "gap_pct": 10.2,
-          "day": 10
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 26.48,
-        "stop": 24,
-        "target": 28.79,
-        "rr_underlying": 0.93
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 641.1
-      },
-      "crowd": {
-        "rank": 88,
         "velocity": null,
         "tag": "ABSENT"
       },
@@ -213,20 +176,20 @@
           "event_date": "2026-10-09",
           "event_low": 73.75,
           "gap_pct": 7.9,
-          "day": 2
+          "day": 3
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 81.01,
+        "entry_ref": 79.56,
         "stop": 73.75,
-        "target": 95.53,
-        "rr_underlying": 2
+        "target": 82.28,
+        "rr_underlying": 0.47
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 329.2
+        "avg_dollar_vol_musd": 325.5
       },
       "crowd": {
         "rank": null,
@@ -252,20 +215,20 @@
           "event_date": "2026-10-01",
           "event_low": 462,
           "gap_pct": 7.6,
-          "day": 8
+          "day": 9
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 502.51,
+        "entry_ref": 494.51,
         "stop": 462,
         "target": 512.49,
-        "rr_underlying": 0.25
+        "rr_underlying": 0.55
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1133.6
+        "avg_dollar_vol_musd": 1141.9
       },
       "crowd": {
         "rank": null,
@@ -291,20 +254,20 @@
           "event_date": "2026-10-09",
           "event_low": 175.02,
           "gap_pct": 6.1,
-          "day": 2
+          "day": 3
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 182.56,
+        "entry_ref": 179.43,
         "stop": 175.02,
-        "target": 197.64,
-        "rr_underlying": 2
+        "target": 184.75,
+        "rr_underlying": 1.21
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 554.5
+        "avg_dollar_vol_musd": 561.7
       },
       "crowd": {
         "rank": null,
@@ -323,5 +286,5 @@
       }
     }
   ],
-  "filtered_out": 1
+  "filtered_out": 2
 }
