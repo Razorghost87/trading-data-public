@@ -1,62 +1,70 @@
-# Trading Digest — 2026-10-14
+# Trading Digest — 2026-10-15
 
-_Generated 2026-10-14 09:54 SGT (2026-10-14T01:54:59.265Z)_
+_Generated 2026-10-15 09:28 SGT (2026-10-15T01:28:45.683Z)_
 
-## 📋 PLAYS — decision-support cards (7)
+## 📋 PLAYS — decision-support cards (10)
 
 | Ticker | Signal | Theme | Entry / Stop / Tgt | RR | Size% | Catalyst |
 |---|---|---|---|--:|--:|---|
-| `HSIC` | S3B ↑ | — | 85.03 / 79.37 / 91.69 | 1.18 | 4 | — |
-| `VZ` | S3B ↑ | — | 43.53 / 40.81 / 51.67 | 2.99 | 4 | — |
-| `PSKY` | S3B ↑ | — | 9.16 / 8.65 / 11.49 | 4.57 | 4 | — |
-| `SBUX` | S3B ↑ | — | 92 / 87.35 / 109.23 | 3.71 | 4 | — |
-| `CCI` | S3D ↑ | — | 79.56 / 73.75 / 82.28 | 0.47 | 4 | — |
-| `SNPS` | S3D ↑ | — | 494.51 / 462 / 512.49 | 0.55 | 4 | — |
-| `AMT` | S3D ↑ | — | 179.43 / 175.02 / 184.75 | 1.21 | 4 | — |
+| `VZ` | S3B ↑ | — | 44.42 / 40.81 / 51.67 | 2.01 | 4 | — |
+| `TMUS` | S3B ↑ | — | 157.79 / 147.9 / 189.87 | 3.24 | 4 | — |
+| `CCL` | S2 ↓ | — | 25.97 / 26.86 / 21.45 | 5.08 | 4 | — |
+| `FICO` | S2 ↓ | — | 719.63 / 764 / 586.05 | 3.01 | 4 | — |
+| `PTC` | S2 ↓ | — | 193.64 / 196.05 / 126.79 | 27.74 | 4 | — |
+| `RCL` | S2 ↓ | — | 274.31 / 289.17 / 222.22 | 3.51 | 4 | — |
+| `STT` | S3C ↑ | — | 166.89 / 156.5 / 195.93 | 2.79 | 4 | — |
+| `CCI` | S3D ↑ | — | 79.38 / 73.75 / 82.28 | 0.52 | 4 | — |
+| `SNPS` | S3D ↑ | — | 479.93 / 462 / 512.49 | 1.82 | 4 | — |
+| `AMT` | S3D ↑ | — | 179.4 / 175.02 / 184.75 | 1.22 | 4 | — |
 
 _Ranked by theme 5d-rank then signal strength · posture HOSTILE · judgment fields left for the EA._
 ## MACRO — 🔴 HOSTILE  ·  rate overlay: NEUTRAL  ·  🔴 30y ≥ 5.33 ALERT
 
 | Reading | Value |
 |---|---|
-| HY OAS | 3.11% (2wk Δ 9bps) |
-| Curve 10y–2y | 0.42 |
-| 10y / 2y | 5.24% (Δ7) / 4.8% (Δ-1) |
-| 30y yield | 5.6% (Δ11) — 🔴 ≥5.33 |
-| VIX / term ratio | 15.270000457763672 (VIX3M 18.0, 0.85) |
-| Breadth >50/200MA | 35.8% / 48.1% (net new-highs 59) |
-| SPY / QQQ vs ATH | -0.1% / -2.1% |
+| HY OAS | 3.16% (2wk Δ 8bps) |
+| Curve 10y–2y | 0.37 |
+| 10y / 2y | 5.21% (Δ-3) / 4.79% (Δ-13) |
+| 30y yield | 5.56% (Δ0) — 🔴 ≥5.33 |
+| VIX / term ratio | 16.8700008392334 (VIX3M 18.8, 0.898) |
+| Breadth >50/200MA | 36.8% / 48.3% (net new-highs 61) |
+| SPY / QQQ vs ATH | -1.2% / -4.0% |
 ## REGIME — basket rotation
 
 | Basket | 5d | 20d | Perf.W | Perf.1M | Δ5d |
 |---|--:|--:|--:|--:|--:|
-| energy | 1 | 1 | +9.2% | +14.0% | – |
-| gold | 2 | 5 | +0.6% | -6.0% | – |
-| defense | 3 | 6 | -1.4% | -9.1% | – |
-| ai_infra | 4 | 2 | -2.7% | +3.6% | – |
-| semis | 5 | 3 | -7.0% | +2.2% | ▲1 |
-| crypto | 6 | 8 | -10.7% | -12.7% | ▲1 |
-| space | 7 | 4 | -11.8% | -3.2% | ▼2 |
-| memory | 8 | 7 | -13.8% | -12.0% | – |
-| korea | 9 | 9 | -15.3% | -15.4% | – |
+| energy | 1 | 1 | +8.5% | +13.3% | – |
+| gold | 2 | 5 | -0.8% | -6.3% | – |
+| defense | 3 | 6 | -1.1% | -6.8% | – |
+| ai_infra | 4 | 2 | -5.7% | +4.7% | – |
+| semis | 5 | 3 | -8.6% | +1.2% | – |
+| space | 6 | 4 | -12.5% | -4.2% | ▲1 |
+| crypto | 7 | 9 | -12.6% | -17.6% | ▼1 |
+| memory | 8 | 7 | -13.6% | -7.5% | – |
+| korea | 9 | 8 | -14.8% | -13.1% | – |
 
 **Rotation alerts:** none
 
 ## EVENTS — next 14 days
 
-- **T-14** · 2026-10-28 · fomc — FOMC decision, approx - verify
+- **T-13** · 2026-10-28 · fomc — FOMC decision, approx - verify
 
 ## 🎯 STATE SIGNALS — S2/S3 transitions today
 
-- **S3A ignition** `CHTR` — runup +55.1%, ignite +4.4% on 1.81× base vol  _(S4→S3A)_
-- **S3A ignition** `VLO` — runup +34.1%, ignite +4.7% on 1.46× base vol  _(S4→S3A)_
-- **S3B reclaim** `VZ` — flush 2026-10-09 @40.81 (4.7× vol), reclaim +6.7% in 2d  _(S4→S3B)_
+- **S2 break** `CCL` — closed below prior low 26.44 (vertical 2026-10-02)  _(S4→S2)_
+- **S2 break** `FICO` — closed below prior low 719.67 (vertical 2026-10-07)  _(S4→S2)_
+- **S2 break** `PTC` — closed below prior low 193.8 (vertical 2026-10-07)  _(S4→S2)_
+- **S2 break** `RCL` — closed below prior low 278.22 (vertical 2026-09-30)  _(S4→S2)_
+- **S3A ignition** `HRL` — runup +27.2%, ignite +3.1% on 1.33× base vol  _(S4→S3A)_
+- **S3B reclaim** `TMUS` — flush 2026-10-09 @147.9 (4.1× vol), reclaim +6.7% in 3d  _(S4→S3B)_
+- **S3C oversold** `BEN` — RSI 27.37, 15.8% off 52w high  _(S4→S3C)_
+- **S3C oversold** `STT` — RSI 22.88, 14.8% off 52w high  _(S4→S3C)_
 
-**Still active (unchanged):** `HSIC`(S3B), `PSKY`(S3B), `SBUX`(S3B), `AMT`(S3D), `CCI`(S3D), `SNPS`(S3D)
+**Still active (unchanged):** `VZ`(S3B), `AMT`(S3D), `CCI`(S3D), `SNPS`(S3D)
 
-**Active verticals (S1):** none
+**Active verticals (S1):** `CIEN`
 
-_Universe: S1 0 · S2 0 · S3A 2 · S3B 4 · S3C 0 · S3D 3_
+_Universe: S1 1 · S2 4 · S3A 1 · S3B 2 · S3C 2 · S3D 3_
 
 ## MOVERS
 
@@ -64,81 +72,81 @@ _Universe: S1 0 · S2 0 · S3A 2 · S3B 4 · S3C 0 · S3D 3_
 
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
-| 1 | BMBL | +56.6% | 19.55 | Technology Services |
-| 2 | RGC | +14.9% | 3.20 | Health Technology |
-| 3 | EFXT | +14.4% | 1.99 | Producer Manufacturing |
-| 4 | AGBK | +8.4% | 2.35 | Finance |
-| 5 | PARR | +8.1% | 1.38 | Energy Minerals |
+| 1 | BSP | +41.2% | 6.09 | Technology Services |
+| 2 | LQDA | +26.6% | 2.25 | Health Technology |
+| 3 | KRSA | +8.4% | 2.30 | Health Technology |
+| 4 | ALMR | +7.9% | 0.54 | Health Technology |
+| 5 | TRAX | +7.7% | 0.67 | Health Technology |
 | 6 | WLYB | +7.7% | 0.08 | Consumer Services |
-| 7 | PBF | +7.2% | 1.15 | Energy Minerals |
-| 8 | CVI | +7.1% | 0.97 | Energy Minerals |
-| 9 | ABTC | +7.0% | 1.71 | Technology Services |
-| 10 | DCBO | +7.0% | 2.68 | Technology Services |
+| 7 | NRIX | +7.0% | 1.97 | Health Technology |
+| 8 | SKIN | +6.9% | 3.01 | Health Technology |
+| 9 | HALO | +6.6% | 1.71 | Health Technology |
+| 10 | USB/PP | +6.0% | 0.86 | Finance |
 
 **Top losers**
 
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
-| 1 | OMDA | -16.3% | 2.52 | Technology Services |
-| 2 | SNDX | -15.7% | 4.00 | Health Technology |
-| 3 | FUN | -14.4% | 4.25 | Consumer Services |
-| 4 | SLDB | -13.3% | 2.43 | Health Technology |
-| 5 | CIFR | -12.8% | 4.13 | Technology Services |
-| 6 | PS | -12.1% | 1.48 | Finance |
-| 7 | GENB | -11.5% | 0.94 | Health Technology |
-| 8 | CDNL | -11.0% | 2.25 | Industrial Services |
-| 9 | DSGN | -10.4% | 1.41 | Health Technology |
-| 10 | STTK | -9.9% | 0.94 | Health Technology |
+| 1 | BLZE | -22.3% | 2.76 | Electronic Technology |
+| 2 | SKYD | -22.2% | 2.63 | Consumer Services |
+| 3 | ITG | -20.3% | 1.08 | Industrial Services |
+| 4 | DFH | -19.5% | 5.20 | Consumer Durables |
+| 5 | PWP | -19.1% | 3.12 | Finance |
+| 6 | BRUN | -15.9% | 2.12 | Technology Services |
+| 7 | CRWV | -15.5% | 4.41 | Technology Services |
+| 8 | UNIT | -15.2% | 2.63 | Communications |
+| 9 | DOCN | -14.8% | 2.55 | Technology Services |
+| 10 | EROC | -14.1% | 2.28 | Producer Manufacturing |
 
 **Unusual volume (|chg|>2%)**
 
 | # | Ticker | Chg | Rel-vol | Sector |
 |--:|---|--:|--:|---|
-| 1 | BMBL | +56.6% | 19.55 | Technology Services |
-| 2 | MDA | +4.1% | 12.86 | Electronic Technology |
-| 3 | FUN | -14.4% | 4.25 | Consumer Services |
-| 4 | CIFR | -12.8% | 4.13 | Technology Services |
-| 5 | SNDX | -15.7% | 4.00 | Health Technology |
-| 6 | S | -6.4% | 3.35 | Technology Services |
-| 7 | RGC | +14.9% | 3.20 | Health Technology |
-| 8 | ESLT | +2.1% | 3.03 | Electronic Technology |
-| 9 | ACIC | +4.9% | 3.00 | Finance |
-| 10 | FBK | -4.2% | 2.91 | Finance |
+| 1 | VSTM | +3.5% | 11.60 | Health Technology |
+| 2 | AGM/PD | -3.4% | 7.73 | Finance |
+| 3 | BSP | +41.2% | 6.09 | Technology Services |
+| 4 | CIM/PD | -5.5% | 5.69 | Finance |
+| 5 | DFH | -19.5% | 5.20 | Consumer Durables |
+| 6 | HOVNP | -5.7% | 4.79 | Consumer Durables |
+| 7 | VLGEA | +2.1% | 4.64 | Retail Trade |
+| 8 | CRWV | -15.5% | 4.41 | Technology Services |
+| 9 | CAMT | -4.9% | 4.11 | Electronic Technology |
+| 10 | MMED | -8.6% | 4.05 | Health Technology |
 
 ## 👥 CROWD — WSB mentions (top 10 by velocity)
 
 | Ticker | Rank | Mentions | Velocity | Sentiment | State | Tag |
 |---|--:|--:|--:|---|---|---|
-| `ARR` | 29 | 14 | 14× | Bullish | — | — |
-| `AMC` | 31 | 11 | 11× | — | — | — |
-| `IP` | 35 | 9 | 9× | Bearish | S4 | EARLY |
-| `VC` | 37 | 9 | 9× | — | — | — |
-| `ORCL` | 41 | 7 | 7× | — | S4 | EARLY |
-| `CIFR` | 47 | 7 | 7× | — | — | — |
-| `HTZ` | 52 | 6 | 6× | — | — | — |
-| `JPM` | 9 | 35 | 5.83× | Bullish | S4 | EARLY |
-| `AGI` | 15 | 23 | 5.75× | Bullish | — | — |
-| `AMAT` | 59 | 4 | 4× | — | S4 | EARLY |
+| `TLT` | 13 | 47 | 47× | — | — | — |
+| `CRWV` | 3 | 151 | 25.17× | Bullish | — | — |
+| `VOO` | 30 | 21 | 21× | Bullish | — | — |
+| `CLF` | 35 | 18 | 18× | Bullish | — | — |
+| `TSM` | 19 | 34 | 17× | Bearish | S4 | EARLY |
+| `WMT` | 36 | 17 | 17× | — | S4 | EARLY |
+| `UUUU` | 49 | 12 | 12× | — | — | — |
+| `MRVL` | 53 | 11 | 11× | — | S4 | EARLY |
+| `IONQ` | 55 | 11 | 11× | — | — | — |
+| `LINK` | 57 | 10 | 10× | Bearish | — | — |
 
-_Velocity basis: prior file wsb-20261013.json._
+_Velocity basis: prior file wsb-20261014.json._
 
 ## FUNNEL CANDIDATES — P5 / P14 (mechanical only; feed the state layer)
 
-- **P5** `CIEN` — spike 41.7%, pullback 11%, RSI 53.16, vol 0.91
-- **P5** `HOOD` — spike 44.1%, pullback 11.4%, RSI 48.1, vol 0.69
+- **P5** `CRM` — spike 68.5%, pullback 10.8%, RSI 53.58, vol 0.6
+- **P5** `HOOD` — spike 44.1%, pullback 11.4%, RSI 48.1, vol 0.7
 - **P5** `LITE` — spike 88.2%, pullback 12.8%, RSI 50.2, vol 0.82
-- **P5** `QCOM` — spike 36.8%, pullback 12.4%, RSI 46.34, vol 0.93
-- **P5** `SMCI` — spike 76.2%, pullback 13.1%, RSI 45.49, vol 0.71
+- **P14** `BEN` — RSI 27.37, 15.8% off 52w high (→ S3C)
+- **P14** `STT` — RSI 22.88, 14.8% off 52w high (→ S3C)
 
 ---
 
 ### Data freshness
 
-- regime: 2026-10-14 09:53 SGT
-- states: 2026-10-14 09:54 SGT
-- movers: 2026-10-14 09:52 SGT
-- candidates: 2026-10-14 09:54 SGT
-- ohlcv: 2026-10-14 09:54 SGT (515 upd / 0 fail)
+- regime: 2026-10-15 09:26 SGT
+- states: 2026-10-15 09:28 SGT
+- movers: 2026-10-15 09:26 SGT
+- candidates: 2026-10-15 09:28 SGT
+- ohlcv: 2026-10-15 09:28 SGT (515 upd / 0 fail)
 
 **Skipped/degraded:** none
 
