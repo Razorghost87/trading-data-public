@@ -1,68 +1,68 @@
 {
   "generated": {
-    "iso": "2026-10-16T01:18:46.653Z",
-    "sgt": "2026-10-16 09:18 SGT"
+    "iso": "2026-10-19T01:12:37.573Z",
+    "sgt": "2026-10-19 09:12 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": -5.84533785782369,
-      "perf_1m_avg": 1.3500360818252692,
+      "perf_w_avg": -8.329183726308969,
+      "perf_1m_avg": -0.40135228773187076,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": -6.354530883333981,
-      "perf_1m_avg": 0.8208235564648645,
+      "perf_w_avg": -8.467597269169534,
+      "perf_1m_avg": -1.5676236838537672,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": -15.73231550108384,
-      "perf_1m_avg": -10.098929920227574,
+      "perf_w_avg": -19.36292489523891,
+      "perf_1m_avg": -15.468086450913257,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": 2.6907731615803754,
-      "perf_1m_avg": -7.268287796477305,
+      "perf_w_avg": 3.7933476680586824,
+      "perf_1m_avg": -4.513558707969206,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": -7.357356663278711,
-      "perf_1m_avg": -15.29174731462634,
+      "perf_w_avg": -14.277556023300471,
+      "perf_1m_avg": -19.793191686447056,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": -12.045467750017952,
-      "perf_1m_avg": -6.941055609821815,
+      "perf_w_avg": -14.792184981643066,
+      "perf_1m_avg": -9.237671318318647,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": 4.192900150148367,
-      "perf_1m_avg": 12.766774780585576,
+      "perf_w_avg": 3.2329386227132964,
+      "perf_1m_avg": 12.040428769173019,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": 2.532671356848026,
-      "perf_1m_avg": -3.9926143846736526,
+      "perf_w_avg": 0.3428301485548884,
+      "perf_1m_avg": -4.96916039588146,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": -15.033886382357046,
-      "perf_1m_avg": -15.565718780628245,
+      "perf_w_avg": -18.294306908597765,
+      "perf_1m_avg": -20.282626010333573,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
-    "energy": 1,
-    "defense": 2,
+    "defense": 1,
+    "energy": 2,
     "gold": 3,
     "ai_infra": 4,
     "semis": 5,
@@ -75,9 +75,9 @@
     "energy": 1,
     "ai_infra": 2,
     "semis": 3,
-    "gold": 4,
-    "space": 5,
-    "defense": 6,
+    "defense": 4,
+    "gold": 5,
+    "space": 6,
     "memory": 7,
     "crypto": 8,
     "korea": 9
@@ -85,52 +85,52 @@
   "deltas": {
     "ai_infra": {
       "rank_5d_delta": 0,
-      "perf_w_delta": -0.19
+      "perf_w_delta": -2.48
     },
     "semis": {
       "rank_5d_delta": 0,
-      "perf_w_delta": 2.3
+      "perf_w_delta": -2.11
     },
     "memory": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -2.15
+      "rank_5d_delta": 0,
+      "perf_w_delta": -3.63
     },
     "defense": {
       "rank_5d_delta": 1,
-      "perf_w_delta": 3.82
+      "perf_w_delta": 1.1
     },
     "crypto": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 5.21
+      "rank_5d_delta": 0,
+      "perf_w_delta": -6.92
     },
     "space": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 0.48
+      "rank_5d_delta": 0,
+      "perf_w_delta": -2.75
     },
     "energy": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -4.33
+      "rank_5d_delta": -1,
+      "perf_w_delta": -0.96
     },
     "gold": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": 3.34
+      "rank_5d_delta": 0,
+      "perf_w_delta": -2.19
     },
     "korea": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -0.24
+      "rank_5d_delta": 0,
+      "perf_w_delta": -3.26
     }
   },
   "rotation_alerts": [],
-  "rate_overlay": "NEUTRAL",
+  "rate_overlay": "BENEFIT",
   "rate_notches": {
-    "ai_infra": 0,
-    "semis": 0,
-    "memory": 0,
+    "ai_infra": 1,
+    "semis": 1,
+    "memory": 1,
     "defense": 0,
-    "crypto": 0,
-    "space": 0,
+    "crypto": 1,
+    "space": 1,
     "energy": 0,
-    "gold": 0,
+    "gold": 1,
     "korea": 0
   },
   "status": "OK"
