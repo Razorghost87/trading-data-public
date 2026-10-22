@@ -1,74 +1,39 @@
 {
   "generated": {
-    "iso": "2026-10-21T01:34:46.080Z",
-    "sgt": "2026-10-21 09:34 SGT"
+    "iso": "2026-10-22T01:30:56.683Z",
+    "sgt": "2026-10-22 09:30 SGT"
   },
-  "eval_date": "2026-10-20",
+  "eval_date": "2026-10-21",
   "posture": "TRANSITION",
-  "count": 10,
+  "count": 4,
   "ranked_by": "theme_rank_5d asc, then signal strength",
   "cards": [
     {
-      "ticker": "IT",
+      "ticker": "VRT",
       "signal": {
         "state": "S3A_BASE_IGNITION",
         "evidence": {
-          "runup_pct": 29.4,
-          "ign_chg": 5.7,
-          "ign_vol_mult": 2.91
+          "runup_pct": 42.9,
+          "ign_chg": 4.2,
+          "ign_vol_mult": 1.31
         }
       },
-      "theme": null,
+      "theme": {
+        "name": "ai_infra",
+        "rank_5d": 8,
+        "rank_20d": 4,
+        "notch": 0
+      },
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 219.64,
-        "stop": 190.92,
-        "target": 277.07,
-        "rr_underlying": 2
+        "entry_ref": 212.15,
+        "stop": 193.94,
+        "target": 295.34,
+        "rr_underlying": 4.57
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 172.2
-      },
-      "crowd": {
-        "rank": 27,
-        "velocity": 1.55,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "BNY",
-      "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
-        "evidence": {
-          "flush_date": "2026-10-15",
-          "flush_low": 135.13,
-          "flush_vol_mult": 2.1,
-          "reclaim_pct": 6.7,
-          "within_sessions": 3
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 144.25,
-        "stop": 135.13,
-        "target": 165.84,
-        "rr_underlying": 2.37
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 591.3
+        "avg_dollar_vol_musd": 1194.7
       },
       "crowd": {
         "rank": null,
@@ -89,125 +54,10 @@
     {
       "ticker": "CCI",
       "signal": {
-        "state": "S3D_DRIFT",
-        "evidence": {
-          "event_date": "2026-10-09",
-          "event_low": 73.75,
-          "gap_pct": 7.9,
-          "day": 8
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 81.14,
-        "stop": 73.75,
-        "target": 83.26,
-        "rr_underlying": 0.29
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 351.7
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "LITE",
-      "signal": {
         "state": "S2_CONFIRMED_BREAK",
         "evidence": {
-          "broke_low": 833.5,
-          "close": 822.51,
-          "vertical_at": "2026-10-15"
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "short",
-        "entry_ref": 822.51,
-        "stop": 1143,
-        "target": 784.47,
-        "rr_underlying": 0.12
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 4625.4
-      },
-      "crowd": {
-        "rank": 80,
-        "velocity": 0.8,
-        "tag": "DIVERGENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "PANW",
-      "signal": {
-        "state": "S2_CONFIRMED_BREAK",
-        "evidence": {
-          "broke_low": 345.08,
-          "close": 340.28,
-          "vertical_at": "2026-10-16"
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "short",
-        "entry_ref": 340.28,
-        "stop": 432.33,
-        "target": 321.39,
-        "rr_underlying": 0.21
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 1992.3
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "SBAC",
-      "signal": {
-        "state": "S2_CONFIRMED_BREAK",
-        "evidence": {
-          "broke_low": 181.63,
-          "close": 180.97,
+          "broke_low": 80.76,
+          "close": 78.65,
           "vertical_at": "2026-10-09"
         }
       },
@@ -215,53 +65,13 @@
       "catalyst_tag": null,
       "levels": {
         "direction": "short",
-        "entry_ref": 180.97,
-        "stop": 188.19,
-        "target": 156.6,
-        "rr_underlying": 3.38
+        "entry_ref": 78.65,
+        "stop": 83.26,
+        "target": 65.32,
+        "rr_underlying": 2.89
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 172.8
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "PNC",
-      "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
-        "evidence": {
-          "flush_date": "2026-10-15",
-          "flush_low": 208.49,
-          "flush_vol_mult": 2.7,
-          "reclaim_pct": 6,
-          "within_sessions": 3
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 220.99,
-        "stop": 208.49,
-        "target": 247.08,
-        "rr_underlying": 2.09
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 476.6
+        "avg_dollar_vol_musd": 368.2
       },
       "crowd": {
         "rank": null,
@@ -287,20 +97,20 @@
           "event_date": "2026-10-09",
           "event_low": 175.02,
           "gap_pct": 6.1,
-          "day": 8
+          "day": 9
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 183.56,
+        "entry_ref": 177.64,
         "stop": 175.02,
         "target": 186,
-        "rr_underlying": 0.29
+        "rr_underlying": 3.19
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 552.6
+        "avg_dollar_vol_musd": 549.8
       },
       "crowd": {
         "rank": null,
@@ -319,69 +129,31 @@
       }
     },
     {
-      "ticker": "BX",
+      "ticker": "GNRC",
       "signal": {
         "state": "S3A_BASE_IGNITION",
         "evidence": {
-          "runup_pct": 35.2,
-          "ign_chg": 3,
-          "ign_vol_mult": 1.55
+          "runup_pct": 28.5,
+          "ign_chg": 4.4,
+          "ign_vol_mult": 1.26
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 110.34,
-        "stop": 103.33,
-        "target": 145.77,
-        "rr_underlying": 5.06
+        "entry_ref": 203.14,
+        "stop": 182.36,
+        "target": 231.89,
+        "rr_underlying": 1.38
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 628.3
+        "avg_dollar_vol_musd": 216
       },
       "crowd": {
         "rank": null,
         "velocity": null,
         "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 2
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "ADBE",
-      "signal": {
-        "state": "S3A_BASE_IGNITION",
-        "evidence": {
-          "runup_pct": 26.7,
-          "ign_chg": 3.9,
-          "ign_vol_mult": 1.51
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 256.73,
-        "stop": 230.49,
-        "target": 294.53,
-        "rr_underlying": 1.44
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 1011.5
-      },
-      "crowd": {
-        "rank": 89,
-        "velocity": 3,
-        "tag": "EARLY"
       },
       "engine": {
         "default_tier": "B",
