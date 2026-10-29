@@ -1,235 +1,95 @@
 {
   "generated": {
-    "iso": "2026-10-28T02:13:20.367Z",
-    "sgt": "2026-10-28 10:13 SGT"
+    "iso": "2026-10-29T02:26:06.203Z",
+    "sgt": "2026-10-29 10:26 SGT"
   },
-  "eval_date": "2026-10-27",
+  "eval_date": "2026-10-28",
   "counts": {
-    "S1_VERTICAL": 1,
-    "S2_CONFIRMED_BREAK": 2,
-    "S3A_BASE_IGNITION": 7,
-    "S3B_FLUSH_RECLAIM": 10,
+    "S1_VERTICAL": 3,
+    "S2_CONFIRMED_BREAK": 0,
+    "S3A_BASE_IGNITION": 4,
+    "S3B_FLUSH_RECLAIM": 1,
     "S3C_QUALITY_OVERSOLD": 0,
     "S3D_DRIFT": 0,
-    "S4": 495
+    "S4": 507
   },
   "signals": [
     {
-      "ticker": "PNR",
+      "ticker": "CSGP",
       "state": "S1_VERTICAL",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "detail": {
-        "move_5d": 17.8,
-        "vol_x_av20": 2.91
+        "move_5d": -16.3,
+        "vol_x_av20": 3.32
+      }
+    },
+    {
+      "ticker": "FFIV",
+      "state": "S1_VERTICAL",
+      "date": "2026-10-28",
+      "detail": {
+        "move_5d": -20.3,
+        "vol_x_av20": 6.08
+      }
+    },
+    {
+      "ticker": "XYL",
+      "state": "S1_VERTICAL",
+      "date": "2026-10-28",
+      "detail": {
+        "move_5d": -17,
+        "vol_x_av20": 4.35
       }
     },
     {
       "ticker": "ACN",
-      "state": "S2_CONFIRMED_BREAK",
-      "date": "2026-10-27",
-      "detail": {
-        "broke_low": 243.57,
-        "close": 235.16,
-        "vertical_at": "2026-10-22"
-      }
-    },
-    {
-      "ticker": "ROP",
-      "state": "S2_CONFIRMED_BREAK",
-      "date": "2026-10-27",
-      "detail": {
-        "broke_low": 436.45,
-        "close": 434.48,
-        "vertical_at": "2026-10-26"
-      }
-    },
-    {
-      "ticker": "ANET",
       "state": "S3A_BASE_IGNITION",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "detail": {
-        "runup_pct": 26.7,
-        "ign_chg": 5.5,
-        "ign_vol_mult": 1.33
+        "runup_pct": 48.3,
+        "ign_chg": 3.5,
+        "ign_vol_mult": 1.37
       }
     },
     {
-      "ticker": "DELL",
+      "ticker": "CIEN",
       "state": "S3A_BASE_IGNITION",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "detail": {
-        "runup_pct": 38.4,
-        "ign_chg": 7.5,
-        "ign_vol_mult": 1.48
+        "runup_pct": 41.7,
+        "ign_chg": 3.4,
+        "ign_vol_mult": 1.41
       }
     },
     {
       "ticker": "EWY",
       "state": "S3A_BASE_IGNITION",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "detail": {
         "runup_pct": 29.2,
-        "ign_chg": 3.1,
-        "ign_vol_mult": 1.43
+        "ign_chg": 5.4,
+        "ign_vol_mult": 2.22
       }
     },
     {
       "ticker": "ORCL",
       "state": "S3A_BASE_IGNITION",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "detail": {
         "runup_pct": 29.5,
-        "ign_chg": 3.5,
-        "ign_vol_mult": 1.35
-      }
-    },
-    {
-      "ticker": "SMCI",
-      "state": "S3A_BASE_IGNITION",
-      "date": "2026-10-27",
-      "detail": {
-        "runup_pct": 42.1,
-        "ign_chg": 7.3,
-        "ign_vol_mult": 1.35
-      }
-    },
-    {
-      "ticker": "SPCE",
-      "state": "S3A_BASE_IGNITION",
-      "date": "2026-10-27",
-      "detail": {
-        "runup_pct": 41.9,
-        "ign_chg": 5.1,
-        "ign_vol_mult": 2.85
-      }
-    },
-    {
-      "ticker": "VRT",
-      "state": "S3A_BASE_IGNITION",
-      "date": "2026-10-27",
-      "detail": {
-        "runup_pct": 49.7,
-        "ign_chg": 4.4,
-        "ign_vol_mult": 1.52
+        "ign_chg": 10.7,
+        "ign_vol_mult": 4.24
       }
     },
     {
       "ticker": "FIX",
       "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "detail": {
         "flush_date": "2026-10-23",
         "flush_low": 1111.11,
         "flush_vol_mult": 3.7,
-        "reclaim_pct": 16,
-        "within_sessions": 2
-      }
-    },
-    {
-      "ticker": "FLEX",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 76.21,
-        "flush_vol_mult": 3.1,
-        "reclaim_pct": 9.4,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "GEV",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 813.26,
-        "flush_vol_mult": 2.7,
-        "reclaim_pct": 10.1,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "LRCX",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 227.68,
-        "flush_vol_mult": 2.6,
-        "reclaim_pct": 5.8,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "MPWR",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 1147.17,
-        "flush_vol_mult": 2.2,
-        "reclaim_pct": 5.6,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "MRNA",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 180.8,
-        "flush_vol_mult": 2.1,
-        "reclaim_pct": 15,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "PWR",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 543.06,
-        "flush_vol_mult": 2,
-        "reclaim_pct": 6.6,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "SNA",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 328.86,
-        "flush_vol_mult": 3.8,
-        "reclaim_pct": 8.7,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "TER",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 306.84,
-        "flush_vol_mult": 2.3,
-        "reclaim_pct": 5.5,
-        "within_sessions": 3
-      }
-    },
-    {
-      "ticker": "TSCO",
-      "state": "S3B_FLUSH_RECLAIM",
-      "date": "2026-10-27",
-      "detail": {
-        "flush_date": "2026-10-22",
-        "flush_low": 29.9,
-        "flush_vol_mult": 3,
-        "reclaim_pct": 7.8,
+        "reclaim_pct": 21.1,
         "within_sessions": 3
       }
     }
@@ -237,113 +97,108 @@
   "state_changes": [
     {
       "ticker": "ACN",
-      "from": "S4",
-      "to": "S2_CONFIRMED_BREAK"
-    },
-    {
-      "ticker": "AKAM",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
+      "from": "S2_CONFIRMED_BREAK",
+      "to": "S3A_BASE_IGNITION"
     },
     {
       "ticker": "ANET",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
     },
     {
       "ticker": "CIEN",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "CRL",
-      "from": "S1_VERTICAL",
-      "to": "S4"
-    },
-    {
-      "ticker": "DELL",
       "from": "S4",
       "to": "S3A_BASE_IGNITION"
     },
     {
-      "ticker": "EFX",
-      "from": "S2_CONFIRMED_BREAK",
-      "to": "S4"
-    },
-    {
-      "ticker": "EWY",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "FLEX",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "HAS",
-      "from": "S1_VERTICAL",
-      "to": "S4"
-    },
-    {
-      "ticker": "INTC",
-      "from": "S3A_BASE_IGNITION",
-      "to": "S4"
-    },
-    {
-      "ticker": "LMT",
-      "from": "S1_VERTICAL",
-      "to": "S4"
-    },
-    {
-      "ticker": "LRCX",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "MPWR",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
-    },
-    {
-      "ticker": "ORCL",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
-    },
-    {
-      "ticker": "PNR",
+      "ticker": "CSGP",
       "from": "S4",
       "to": "S1_VERTICAL"
     },
     {
-      "ticker": "PWR",
+      "ticker": "DELL",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "FFIV",
       "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
+      "to": "S1_VERTICAL"
+    },
+    {
+      "ticker": "FLEX",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "GEV",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "LRCX",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "MPWR",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "MRNA",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "PNR",
+      "from": "S1_VERTICAL",
+      "to": "S4"
+    },
+    {
+      "ticker": "PWR",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
     },
     {
       "ticker": "ROP",
-      "from": "S1_VERTICAL",
-      "to": "S2_CONFIRMED_BREAK"
+      "from": "S2_CONFIRMED_BREAK",
+      "to": "S4"
     },
     {
       "ticker": "SMCI",
-      "from": "S4",
-      "to": "S3A_BASE_IGNITION"
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
     },
     {
-      "ticker": "SNPS",
+      "ticker": "SNA",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "SPCE",
       "from": "S3A_BASE_IGNITION",
       "to": "S4"
     },
     {
       "ticker": "TER",
-      "from": "S4",
-      "to": "S3B_FLUSH_RECLAIM"
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
+    },
+    {
+      "ticker": "TSCO",
+      "from": "S3B_FLUSH_RECLAIM",
+      "to": "S4"
     },
     {
       "ticker": "VRT",
+      "from": "S3A_BASE_IGNITION",
+      "to": "S4"
+    },
+    {
+      "ticker": "XYL",
       "from": "S4",
-      "to": "S3A_BASE_IGNITION"
+      "to": "S1_VERTICAL"
     }
   ],
   "state_map": {
@@ -353,7 +208,7 @@
     "ABNB": "S4",
     "ABT": "S4",
     "ACGL": "S4",
-    "ACN": "S2_CONFIRMED_BREAK",
+    "ACN": "S3A_BASE_IGNITION",
     "ADBE": "S4",
     "ADI": "S4",
     "ADM": "S4",
@@ -380,7 +235,7 @@
     "AMP": "S4",
     "AMT": "S4",
     "AMZN": "S4",
-    "ANET": "S3A_BASE_IGNITION",
+    "ANET": "S4",
     "AON": "S4",
     "AOS": "S4",
     "APA": "S4",
@@ -441,7 +296,7 @@
     "CHRW": "S4",
     "CHTR": "S4",
     "CI": "S4",
-    "CIEN": "S4",
+    "CIEN": "S3A_BASE_IGNITION",
     "CINF": "S4",
     "CL": "S4",
     "CLX": "S4",
@@ -467,7 +322,7 @@
     "CRM": "S4",
     "CRWD": "S4",
     "CSCO": "S4",
-    "CSGP": "S4",
+    "CSGP": "S1_VERTICAL",
     "CSX": "S4",
     "CTAS": "S4",
     "CTSH": "S4",
@@ -482,7 +337,7 @@
     "DDOG": "S4",
     "DE": "S4",
     "DECK": "S4",
-    "DELL": "S3A_BASE_IGNITION",
+    "DELL": "S4",
     "DG": "S4",
     "DGX": "S4",
     "DHI": "S4",
@@ -537,13 +392,13 @@
     "FDXF": "S4",
     "FE": "S4",
     "FERG": "S4",
-    "FFIV": "S4",
+    "FFIV": "S1_VERTICAL",
     "FICO": "S4",
     "FIS": "S4",
     "FISV": "S4",
     "FITB": "S4",
     "FIX": "S3B_FLUSH_RECLAIM",
-    "FLEX": "S3B_FLUSH_RECLAIM",
+    "FLEX": "S4",
     "FOX": "S4",
     "FOXA": "S4",
     "FRT": "S4",
@@ -555,7 +410,7 @@
     "GE": "S4",
     "GEHC": "S4",
     "GEN": "S4",
-    "GEV": "S3B_FLUSH_RECLAIM",
+    "GEV": "S4",
     "GILD": "S4",
     "GIS": "S4",
     "GL": "S4",
@@ -641,7 +496,7 @@
     "LMT": "S4",
     "LNT": "S4",
     "LOW": "S4",
-    "LRCX": "S3B_FLUSH_RECLAIM",
+    "LRCX": "S4",
     "LULU": "S4",
     "LUV": "S4",
     "LVS": "S4",
@@ -667,9 +522,9 @@
     "MO": "S4",
     "MOS": "S4",
     "MPC": "S4",
-    "MPWR": "S3B_FLUSH_RECLAIM",
+    "MPWR": "S4",
     "MRK": "S4",
-    "MRNA": "S3B_FLUSH_RECLAIM",
+    "MRNA": "S4",
     "MRSH": "S4",
     "MRVL": "S4",
     "MS": "S4",
@@ -725,7 +580,7 @@
     "PLTR": "S4",
     "PM": "S4",
     "PNC": "S4",
-    "PNR": "S1_VERTICAL",
+    "PNR": "S4",
     "PNW": "S4",
     "PODD": "S4",
     "PPG": "S4",
@@ -735,7 +590,7 @@
     "PSKY": "S4",
     "PSX": "S4",
     "PTC": "S4",
-    "PWR": "S3B_FLUSH_RECLAIM",
+    "PWR": "S4",
     "PYPL": "S4",
     "Q": "S4",
     "QCOM": "S4",
@@ -749,7 +604,7 @@
     "RMD": "S4",
     "ROK": "S4",
     "ROL": "S4",
-    "ROP": "S2_CONFIRMED_BREAK",
+    "ROP": "S4",
     "ROST": "S4",
     "RSG": "S4",
     "RTX": "S4",
@@ -761,13 +616,13 @@
     "SJM": "S4",
     "SKHY": "S4",
     "SLB": "S4",
-    "SMCI": "S3A_BASE_IGNITION",
-    "SNA": "S3B_FLUSH_RECLAIM",
+    "SMCI": "S4",
+    "SNA": "S4",
     "SNDK": "S4",
     "SNPS": "S4",
     "SO": "S4",
     "SOLV": "S4",
-    "SPCE": "S3A_BASE_IGNITION",
+    "SPCE": "S4",
     "SPCX": "S4",
     "SPG": "S4",
     "SPGI": "S4",
@@ -789,7 +644,7 @@
     "TDY": "S4",
     "TECH": "S4",
     "TEL": "S4",
-    "TER": "S3B_FLUSH_RECLAIM",
+    "TER": "S4",
     "TFC": "S4",
     "TGT": "S4",
     "TJX": "S4",
@@ -802,7 +657,7 @@
     "TRMB": "S4",
     "TROW": "S4",
     "TRV": "S4",
-    "TSCO": "S3B_FLUSH_RECLAIM",
+    "TSCO": "S4",
     "TSLA": "S4",
     "TSM": "S4",
     "TSN": "S4",
@@ -830,7 +685,7 @@
     "VMC": "S4",
     "VRSK": "S4",
     "VRSN": "S4",
-    "VRT": "S3A_BASE_IGNITION",
+    "VRT": "S4",
     "VRTX": "S4",
     "VST": "S4",
     "VTR": "S4",
@@ -856,7 +711,7 @@
     "XEL": "S4",
     "XLE": "S4",
     "XOM": "S4",
-    "XYL": "S4",
+    "XYL": "S1_VERTICAL",
     "XYZ": "S4",
     "YUM": "S4",
     "ZBH": "S4",
