@@ -1,21 +1,21 @@
 {
   "generated": {
-    "iso": "2026-10-30T02:36:36.684Z",
-    "sgt": "2026-10-30 10:36 SGT"
+    "iso": "2026-11-02T02:30:01.477Z",
+    "sgt": "2026-11-02 10:30 SGT"
   },
-  "eval_date": "2026-10-29",
-  "posture": "RISK_ON",
+  "eval_date": "2026-10-30",
+  "posture": "TRANSITION",
   "count": 10,
   "ranked_by": "theme_rank_5d asc, then signal strength",
   "cards": [
     {
-      "ticker": "KTOS",
+      "ticker": "LMT",
       "signal": {
-        "state": "S3A_BASE_IGNITION",
+        "state": "S2_CONFIRMED_BREAK",
         "evidence": {
-          "runup_pct": 27,
-          "ign_chg": 5.9,
-          "ign_vol_mult": 2.21
+          "broke_low": 638.41,
+          "close": 636.95,
+          "vertical_at": "2026-10-26"
         }
       },
       "theme": {
@@ -26,24 +26,24 @@
       },
       "catalyst_tag": null,
       "levels": {
-        "direction": "long",
-        "entry_ref": 43.59,
-        "stop": 35.64,
-        "target": 50.05,
-        "rr_underlying": 0.81
+        "direction": "short",
+        "entry_ref": 636.95,
+        "stop": 657,
+        "target": 497,
+        "rr_underlying": 6.98
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 186
+        "avg_dollar_vol_musd": 880
       },
       "crowd": {
-        "rank": null,
-        "velocity": null,
+        "rank": 76,
+        "velocity": 0.33,
         "tag": "ABSENT"
       },
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,
@@ -52,32 +52,26 @@
       }
     },
     {
-      "ticker": "SKHY",
+      "ticker": "CBOE",
       "signal": {
-        "state": "S3D_DRIFT",
+        "state": "S3A_BASE_IGNITION",
         "evidence": {
-          "event_date": "2026-10-28",
-          "event_low": 156.5,
-          "gap_pct": 8.5,
-          "day": 2
+          "runup_pct": 34.4,
+          "ign_chg": 6.8,
+          "ign_vol_mult": 3.27
         }
       },
-      "theme": {
-        "name": "memory",
-        "rank_5d": 3,
-        "rank_20d": 8,
-        "notch": 1
-      },
+      "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 162.09,
-        "stop": 156.5,
-        "target": 199.87,
-        "rr_underlying": 6.76
+        "entry_ref": 335.53,
+        "stop": 303.53,
+        "target": 342.86,
+        "rr_underlying": 0.23
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 3403.9
+        "avg_dollar_vol_musd": 400.4
       },
       "crowd": {
         "rank": null,
@@ -87,7 +81,7 @@
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,
@@ -96,32 +90,28 @@
       }
     },
     {
-      "ticker": "VRT",
+      "ticker": "CSGP",
       "signal": {
-        "state": "S3D_DRIFT",
+        "state": "S3B_FLUSH_RECLAIM",
         "evidence": {
-          "event_date": "2026-10-28",
-          "event_low": 228.81,
-          "gap_pct": 16.5,
-          "day": 2
+          "flush_date": "2026-10-28",
+          "flush_low": 26.86,
+          "flush_vol_mult": 2.9,
+          "reclaim_pct": 12.3,
+          "within_sessions": 2
         }
       },
-      "theme": {
-        "name": "ai_infra",
-        "rank_5d": 4,
-        "rank_20d": 4,
-        "notch": 1
-      },
+      "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 245.92,
-        "stop": 228.81,
-        "target": 295.34,
-        "rr_underlying": 2.89
+        "entry_ref": 30.17,
+        "stop": 26.86,
+        "target": 35.63,
+        "rr_underlying": 1.65
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 1559.3
+        "avg_dollar_vol_musd": 198.8
       },
       "crowd": {
         "rank": null,
@@ -131,7 +121,47 @@
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "MGM",
+      "signal": {
+        "state": "S3B_FLUSH_RECLAIM",
+        "evidence": {
+          "flush_date": "2026-10-29",
+          "flush_low": 26.71,
+          "flush_vol_mult": 2.7,
+          "reclaim_pct": 12.2,
+          "within_sessions": 1
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 29.96,
+        "stop": 26.71,
+        "target": 41.66,
+        "rr_underlying": 3.6
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 160.5
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,
@@ -171,47 +201,7 @@
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "DASH",
-      "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
-        "evidence": {
-          "flush_date": "2026-10-26",
-          "flush_low": 163.68,
-          "flush_vol_mult": 2.1,
-          "reclaim_pct": 9.4,
-          "within_sessions": 3
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "long",
-        "entry_ref": 179,
-        "stop": 163.68,
-        "target": 232,
-        "rr_underlying": 3.46
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 695.7
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,
@@ -227,21 +217,21 @@
           "flush_date": "2026-10-28",
           "flush_low": 39.09,
           "flush_vol_mult": 2.7,
-          "reclaim_pct": 8.8,
-          "within_sessions": 1
+          "reclaim_pct": 10.2,
+          "within_sessions": 2
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 42.53,
+        "entry_ref": 43.09,
         "stop": 39.09,
         "target": 47.29,
-        "rr_underlying": 1.38
+        "rr_underlying": 1.05
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 193.1
+        "avg_dollar_vol_musd": 194.1
       },
       "crowd": {
         "rank": null,
@@ -251,7 +241,7 @@
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,
@@ -260,28 +250,26 @@
       }
     },
     {
-      "ticker": "BSX",
+      "ticker": "ACN",
       "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
+        "state": "S3A_BASE_IGNITION",
         "evidence": {
-          "flush_date": "2026-10-28",
-          "flush_low": 39.57,
-          "flush_vol_mult": 3.7,
-          "reclaim_pct": 7.9,
-          "within_sessions": 1
+          "runup_pct": 48.3,
+          "ign_chg": 4.5,
+          "ign_vol_mult": 2.51
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 42.69,
-        "stop": 39.57,
-        "target": 49.66,
-        "rr_underlying": 2.23
+        "entry_ref": 258.24,
+        "stop": 227.92,
+        "target": 318.88,
+        "rr_underlying": 2
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 796
+        "avg_dollar_vol_musd": 1558.7
       },
       "crowd": {
         "rank": null,
@@ -291,7 +279,46 @@
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
+      },
+      "judgment": {
+        "catalyst_quality": null,
+        "sentiment": null,
+        "notes": null
+      }
+    },
+    {
+      "ticker": "CVNA",
+      "signal": {
+        "state": "S3D_DRIFT",
+        "evidence": {
+          "event_date": "2026-10-29",
+          "event_low": 63.81,
+          "gap_pct": 10.6,
+          "day": 2
+        }
+      },
+      "theme": null,
+      "catalyst_tag": null,
+      "levels": {
+        "direction": "long",
+        "entry_ref": 68.29,
+        "stop": 63.81,
+        "target": 76.44,
+        "rr_underlying": 1.82
+      },
+      "liquidity": {
+        "avg_dollar_vol_musd": 593.1
+      },
+      "crowd": {
+        "rank": null,
+        "velocity": null,
+        "tag": "ABSENT"
+      },
+      "engine": {
+        "default_tier": "B",
+        "size_pct": 4,
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,
@@ -307,21 +334,21 @@
           "flush_date": "2026-10-28",
           "flush_low": 217.72,
           "flush_vol_mult": 2.2,
-          "reclaim_pct": 7.1,
-          "within_sessions": 1
+          "reclaim_pct": 7.8,
+          "within_sessions": 2
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 233.17,
+        "entry_ref": 234.6,
         "stop": 217.72,
         "target": 242.57,
-        "rr_underlying": 0.61
+        "rr_underlying": 0.47
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 647.1
+        "avg_dollar_vol_musd": 658.9
       },
       "crowd": {
         "rank": null,
@@ -331,7 +358,7 @@
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,
@@ -340,28 +367,26 @@
       }
     },
     {
-      "ticker": "LII",
+      "ticker": "CMCSA",
       "signal": {
-        "state": "S3B_FLUSH_RECLAIM",
+        "state": "S3A_BASE_IGNITION",
         "evidence": {
-          "flush_date": "2026-10-28",
-          "flush_low": 325.7,
-          "flush_vol_mult": 4.6,
-          "reclaim_pct": 6.9,
-          "within_sessions": 1
+          "runup_pct": 29,
+          "ign_chg": 4.3,
+          "ign_vol_mult": 2.23
         }
       },
       "theme": null,
       "catalyst_tag": null,
       "levels": {
         "direction": "long",
-        "entry_ref": 348.12,
-        "stop": 325.7,
-        "target": 396.21,
-        "rr_underlying": 2.14
+        "entry_ref": 23.22,
+        "stop": 21.03,
+        "target": 27.13,
+        "rr_underlying": 1.79
       },
       "liquidity": {
-        "avg_dollar_vol_musd": 241.6
+        "avg_dollar_vol_musd": 716.9
       },
       "crowd": {
         "rank": null,
@@ -371,45 +396,7 @@
       "engine": {
         "default_tier": "B",
         "size_pct": 4,
-        "posture_adjusted_pct": 4
-      },
-      "judgment": {
-        "catalyst_quality": null,
-        "sentiment": null,
-        "notes": null
-      }
-    },
-    {
-      "ticker": "CRWD",
-      "signal": {
-        "state": "S2_CONFIRMED_BREAK",
-        "evidence": {
-          "broke_low": 263.73,
-          "close": 261.15,
-          "vertical_at": "2026-10-16"
-        }
-      },
-      "theme": null,
-      "catalyst_tag": null,
-      "levels": {
-        "direction": "short",
-        "entry_ref": 261.15,
-        "stop": 272.29,
-        "target": 200.6,
-        "rr_underlying": 5.44
-      },
-      "liquidity": {
-        "avg_dollar_vol_musd": 2198.3
-      },
-      "crowd": {
-        "rank": null,
-        "velocity": null,
-        "tag": "ABSENT"
-      },
-      "engine": {
-        "default_tier": "B",
-        "size_pct": 4,
-        "posture_adjusted_pct": 4
+        "posture_adjusted_pct": 2
       },
       "judgment": {
         "catalyst_quality": null,

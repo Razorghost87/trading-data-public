@@ -1,75 +1,75 @@
 {
   "generated": {
-    "iso": "2026-10-30T02:34:41.551Z",
-    "sgt": "2026-10-30 10:34 SGT"
+    "iso": "2026-11-02T02:28:05.981Z",
+    "sgt": "2026-11-02 10:28 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": 6.814200928156441,
-      "perf_1m_avg": -3.8142264163810258,
+      "perf_w_avg": 7.798095810980567,
+      "perf_1m_avg": -8.017430659073787,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": 3.8205955840822527,
-      "perf_1m_avg": -1.1710287327392854,
+      "perf_w_avg": 1.125729936700052,
+      "perf_1m_avg": -5.398347665845643,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": 8.494756150067602,
-      "perf_1m_avg": -16.46580716966622,
+      "perf_w_avg": 0.7775601480740063,
+      "perf_1m_avg": -23.718069896923254,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": 9.400651870884744,
-      "perf_1m_avg": 11.471763955481762,
+      "perf_w_avg": 6.732850930382802,
+      "perf_1m_avg": 11.677119054082732,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": 2.743482316929818,
-      "perf_1m_avg": -26.9355833495417,
+      "perf_w_avg": -3.0340196446032497,
+      "perf_1m_avg": -33.41734319821253,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": 3.766884205882367,
-      "perf_1m_avg": -8.426013390275731,
+      "perf_w_avg": -0.7149496383424592,
+      "perf_1m_avg": -12.811529336953068,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": -7.037381160774558,
-      "perf_1m_avg": 8.762950194746578,
+      "perf_w_avg": -2.6713818191622942,
+      "perf_1m_avg": 8.879000199987331,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": -2.054483065468113,
-      "perf_1m_avg": -4.051954910546496,
+      "perf_w_avg": -4.3129890775314195,
+      "perf_1m_avg": -9.667138752579124,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": 12.391423058492599,
-      "perf_1m_avg": -12.84345366836154,
+      "perf_w_avg": 5.397252042758226,
+      "perf_1m_avg": -18.65940293194633,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
-    "korea": 1,
+    "ai_infra": 1,
     "defense": 2,
-    "memory": 3,
-    "ai_infra": 4,
-    "semis": 5,
+    "korea": 3,
+    "semis": 4,
+    "memory": 5,
     "space": 6,
-    "crypto": 7,
-    "gold": 8,
-    "energy": 9
+    "energy": 7,
+    "crypto": 8,
+    "gold": 9
   },
   "rank_20d": {
     "defense": 1,
@@ -84,43 +84,49 @@
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 5.02
+      "rank_5d_delta": 3,
+      "perf_w_delta": 0.98
     },
     "semis": {
       "rank_5d_delta": 1,
-      "perf_w_delta": 2.19
+      "perf_w_delta": -2.69
     },
     "memory": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 2.16
+      "rank_5d_delta": -2,
+      "perf_w_delta": -7.72
     },
     "defense": {
       "rank_5d_delta": 0,
-      "perf_w_delta": 2.05
+      "perf_w_delta": -2.67
     },
     "crypto": {
-      "rank_5d_delta": -3,
-      "perf_w_delta": -0.53
+      "rank_5d_delta": -1,
+      "perf_w_delta": -5.78
     },
     "space": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": 3.35
+      "rank_5d_delta": 0,
+      "perf_w_delta": -4.48
     },
     "energy": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -1.57
+      "rank_5d_delta": 2,
+      "perf_w_delta": 4.37
     },
     "gold": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": -0.2
+      "rank_5d_delta": -1,
+      "perf_w_delta": -2.26
     },
     "korea": {
-      "rank_5d_delta": 0,
-      "perf_w_delta": 3.39
+      "rank_5d_delta": -2,
+      "perf_w_delta": -6.99
     }
   },
-  "rotation_alerts": [],
+  "rotation_alerts": [
+    {
+      "basket": "ai_infra",
+      "rank_5d": 1,
+      "note": "entered 5d top-3"
+    }
+  ],
   "rate_overlay": "BENEFIT",
   "rate_notches": {
     "ai_infra": 1,
