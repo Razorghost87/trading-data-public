@@ -1,0 +1,21 @@
+{
+  "events": [
+    {"date": "2026-08-20", "ticker": "SPCX", "type": "lockup_tranche", "note": "~7% tranche unlock"},
+    {"date": "2026-08-28", "ticker": null, "type": "macro", "note": "Jackson Hole symposium - Warsh speech (Aug 27-29 approx) - verify"},
+    {"date": "2026-09-10", "ticker": null, "type": "cpi", "note": "Aug CPI release, approx - verify"},
+    {"date": "2026-09-16", "ticker": null, "type": "fomc", "note": "FOMC decision (Sep 15-16 meeting), approx - verify"},
+    {"date": "2026-09-16", "ticker": null, "type": "framework", "note": "90-day review"},
+    {"date": "2026-09-22", "ticker": "MU", "type": "earnings", "note": "Q4 FY26, est EPS ~$31"},
+    {"date": "2026-10-13", "ticker": null, "type": "cpi", "note": "Sep CPI release, approx - verify"},
+    {"date": "2026-10-28", "ticker": null, "type": "fomc", "note": "FOMC decision, approx - verify"},
+    {"date": "2026-10-30", "ticker": "SPCX", "type": "lockup_block", "note": "~28% Q3 block, approx - verify"},
+    {"date": "2026-11-05", "ticker": "SNDK", "type": "earnings", "note": "Q1 FY27, per MarketBeat - verify"},
+    {"date": "2026-11-12", "ticker": null, "type": "cpi", "note": "Oct CPI release, approx - verify"},
+    {"date": "2026-11-19", "ticker": "NVDA", "type": "earnings", "note": "Q3 FY27 (Aug-26 Q2 already reported); next est ~Nov 19 - verify"},
+    {"date": "2026-12-01", "ticker": "QNT", "type": "lockup_expiry", "note": "180-day approx"},
+    {"date": "2026-12-08", "ticker": "SPCX", "type": "lockup_full", "note": "Full 180-day expiry"},
+    {"date": "2026-12-09", "ticker": null, "type": "fomc", "note": "FOMC decision, approx - verify"},
+    {"date": "2026-12-10", "ticker": null, "type": "cpi", "note": "Nov CPI release, approx - verify"},
+    {"date": "2027-06-30", "ticker": "MRNA", "type": "phase3_readout", "note": "NSCLC/bladder Ph3 - NO firm date (melanoma Ph3 already read out; NSCLC/bladder enrolling, est 2027) - research/verify"}
+  ]
+}

@@ -1,73 +1,73 @@
 {
   "generated": {
-    "iso": "2026-11-05T03:28:43.755Z",
-    "sgt": "2026-11-05 11:28 SGT"
+    "iso": "2026-11-05T17:38:54.766Z",
+    "sgt": "2026-11-06 01:38 SGT"
   },
   "note": "5d≈perf_w, 20d≈perf_1m (TradingView proxy columns)",
   "baskets": {
     "ai_infra": {
-      "perf_w_avg": -7.212212083196135,
-      "perf_1m_avg": -13.68043327490422,
+      "perf_w_avg": -14.295291502380502,
+      "perf_1m_avg": -21.087799169993787,
       "found": 6,
       "missing": []
     },
     "semis": {
-      "perf_w_avg": -4.24087513222103,
-      "perf_1m_avg": -9.722187544741848,
+      "perf_w_avg": -11.232876837811602,
+      "perf_1m_avg": -18.102871538120336,
       "found": 5,
       "missing": []
     },
     "memory": {
-      "perf_w_avg": -16.717285362795668,
-      "perf_1m_avg": -30.544515822827993,
+      "perf_w_avg": -29.530371269936314,
+      "perf_1m_avg": -39.40152978746066,
       "found": 3,
       "missing": []
     },
     "defense": {
-      "perf_w_avg": -6.889132755119145,
-      "perf_1m_avg": 3.0476000070065385,
+      "perf_w_avg": -11.365715016080975,
+      "perf_1m_avg": 1.613567523608704,
       "found": 3,
       "missing": []
     },
     "crypto": {
-      "perf_w_avg": -4.096760904424728,
-      "perf_1m_avg": -27.334357635784034,
+      "perf_w_avg": -14.564960448422747,
+      "perf_1m_avg": -33.06555528513386,
       "found": 3,
       "missing": []
     },
     "space": {
-      "perf_w_avg": -7.05642159697544,
-      "perf_1m_avg": -15.83468706338509,
+      "perf_w_avg": -12.251452516385402,
+      "perf_1m_avg": -26.240098634251417,
       "found": 2,
       "missing": []
     },
     "energy": {
-      "perf_w_avg": -8.058952769660117,
-      "perf_1m_avg": -5.226195271488294,
+      "perf_w_avg": -9.85825089705087,
+      "perf_1m_avg": -7.486222721660826,
       "found": 3,
       "missing": []
     },
     "gold": {
-      "perf_w_avg": 1.2448021363577928,
-      "perf_1m_avg": -1.1924879858456905,
+      "perf_w_avg": 4.091030460678702,
+      "perf_1m_avg": 0.47579861137541246,
       "found": 2,
       "missing": []
     },
     "korea": {
-      "perf_w_avg": -8.064688370727705,
-      "perf_1m_avg": -23.308585234118873,
+      "perf_w_avg": -18.349747500394884,
+      "perf_1m_avg": -30.565373686369043,
       "found": 2,
       "missing": []
     }
   },
   "rank_5d": {
     "gold": 1,
-    "crypto": 2,
+    "energy": 2,
     "semis": 3,
     "defense": 4,
     "space": 5,
     "ai_infra": 6,
-    "energy": 7,
+    "crypto": 7,
     "korea": 8,
     "memory": 9
   },
@@ -84,51 +84,46 @@
   },
   "deltas": {
     "ai_infra": {
-      "rank_5d_delta": -5,
-      "perf_w_delta": -13.4
+      "rank_5d_delta": 0,
+      "perf_w_delta": -7.08
     },
     "semis": {
-      "rank_5d_delta": 2,
-      "perf_w_delta": -2.19
+      "rank_5d_delta": 0,
+      "perf_w_delta": -6.99
     },
     "memory": {
-      "rank_5d_delta": -1,
-      "perf_w_delta": -11.61
+      "rank_5d_delta": 0,
+      "perf_w_delta": -12.81
     },
     "defense": {
       "rank_5d_delta": 0,
-      "perf_w_delta": -7.01
+      "perf_w_delta": -4.48
     },
     "crypto": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -4.54
+      "rank_5d_delta": -5,
+      "perf_w_delta": -10.47
     },
     "space": {
-      "rank_5d_delta": 1,
-      "perf_w_delta": -4.01
+      "rank_5d_delta": 0,
+      "perf_w_delta": -5.2
     },
     "energy": {
-      "rank_5d_delta": 2,
-      "perf_w_delta": -1.41
+      "rank_5d_delta": 5,
+      "perf_w_delta": -1.8
     },
     "gold": {
-      "rank_5d_delta": 6,
-      "perf_w_delta": 4.97
+      "rank_5d_delta": 0,
+      "perf_w_delta": 2.85
     },
     "korea": {
-      "rank_5d_delta": -6,
-      "perf_w_delta": -9.33
+      "rank_5d_delta": 0,
+      "perf_w_delta": -10.29
     }
   },
   "rotation_alerts": [
     {
-      "basket": "gold",
-      "rank_5d": 1,
-      "note": "entered 5d top-3"
-    },
-    {
-      "basket": "semis",
-      "rank_5d": 3,
+      "basket": "energy",
+      "rank_5d": 2,
       "note": "entered 5d top-3"
     }
   ],
