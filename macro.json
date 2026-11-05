@@ -1,57 +1,57 @@
 {
   "generated": {
-    "iso": "2026-11-04T02:59:27.779Z",
-    "sgt": "2026-11-04 10:59 SGT"
+    "iso": "2026-11-05T03:28:20.522Z",
+    "sgt": "2026-11-05 11:28 SGT"
   },
   "posture": "TRANSITION",
   "rate_overlay": "BENEFIT",
   "y30_alert": false,
   "inputs": {
     "credit": {
-      "hy_oas_pct": 3.43,
-      "hy_oas_2wk_delta_bps": 14
+      "hy_oas_pct": 3.4,
+      "hy_oas_2wk_delta_bps": 7
     },
     "rates": {
-      "dgs2": 4.59,
-      "dgs10": 4.91,
-      "dgs30": 5.28,
-      "dfii10": 2.62,
-      "curve_slope_10y2y": 0.34,
+      "dgs2": 4.61,
+      "dgs10": 4.95,
+      "dgs30": 5.32,
+      "dfii10": 2.65,
+      "curve_slope_10y2y": 0.32,
       "dgs2_2wk_delta_bps": -18,
-      "dgs10_2wk_delta_bps": -24,
-      "dgs30_2wk_delta_bps": -20,
-      "dfii10_2wk_delta_bps": -18
+      "dgs10_2wk_delta_bps": -17,
+      "dgs30_2wk_delta_bps": -10,
+      "dfii10_2wk_delta_bps": -12
     },
     "vol": {
-      "vix": 20.829999923706055,
-      "vix3m": 21.270000457763672,
-      "vix_term_ratio": 0.979
+      "vix": 16.610000610351562,
+      "vix3m": 18.799999237060547,
+      "vix_term_ratio": 0.884
     },
     "fx_energy": {
-      "dxy": 101.30899810791016,
-      "brent": 102.72000122070312
+      "dxy": 101.26499938964844,
+      "brent": 94
     },
     "equity": {
       "spy": {
-        "close": 754.35,
+        "close": 766.81,
         "above_20ma": false,
         "above_50ma": false,
         "above_200ma": true,
-        "pct_from_ath": -3.2
+        "pct_from_ath": -1.6
       },
       "qqq": {
-        "close": 685.28,
+        "close": 691.95,
         "above_20ma": false,
         "above_50ma": false,
         "above_200ma": true,
-        "pct_from_ath": -9.8
+        "pct_from_ath": -8.9
       }
     },
     "breadth": {
       "universe": 511,
-      "breadth_50ma_pct": 66.1,
-      "breadth_200ma_pct": 61.6,
-      "net_new_20d_highs": 141
+      "breadth_50ma_pct": 65,
+      "breadth_200ma_pct": 59.9,
+      "net_new_20d_highs": 40
     }
   },
   "logic": {
