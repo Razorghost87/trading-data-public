@@ -1,10 +1,10 @@
 {
   "generated": {
-    "iso": "2026-11-05T17:40:53.890Z",
-    "sgt": "2026-11-06 01:40 SGT"
+    "iso": "2026-11-06T03:26:37.422Z",
+    "sgt": "2026-11-06 11:26 SGT"
   },
-  "count": 515,
-  "total_bars": 379744,
+  "count": 518,
+  "total_bars": 381994,
   "target_bars": 750,
   "note": "Daily OHLCV cache mirror. Bar shape: {date,open,high,low,close,volume,adjclose}. Fetch ohlcv/<TICKER>.json.",
   "tickers": {
@@ -1580,6 +1580,12 @@
       "first": "2023-11-09",
       "last": "2026-11-05"
     },
+    "IWM": {
+      "file": "ohlcv/IWM.json",
+      "bars": 750,
+      "first": "2023-11-09",
+      "last": "2026-11-05"
+    },
     "J": {
       "file": "ohlcv/J.json",
       "bars": 750,
@@ -2360,6 +2366,12 @@
       "first": "2023-11-09",
       "last": "2026-11-05"
     },
+    "QQQ": {
+      "file": "ohlcv/QQQ.json",
+      "bars": 750,
+      "first": "2023-11-09",
+      "last": "2026-11-05"
+    },
     "RCL": {
       "file": "ohlcv/RCL.json",
       "bars": 750,
@@ -2548,6 +2560,12 @@
     },
     "SPGI": {
       "file": "ohlcv/SPGI.json",
+      "bars": 750,
+      "first": "2023-11-09",
+      "last": "2026-11-05"
+    },
+    "SPY": {
+      "file": "ohlcv/SPY.json",
       "bars": 750,
       "first": "2023-11-09",
       "last": "2026-11-05"
