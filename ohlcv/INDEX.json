@@ -1,288 +1,288 @@
 {
   "generated": {
-    "iso": "2026-11-06T03:26:37.422Z",
-    "sgt": "2026-11-06 11:26 SGT"
+    "iso": "2026-11-09T02:41:19.825Z",
+    "sgt": "2026-11-09 10:41 SGT"
   },
   "count": 518,
-  "total_bars": 381994,
+  "total_bars": 382003,
   "target_bars": 750,
   "note": "Daily OHLCV cache mirror. Bar shape: {date,open,high,low,close,volume,adjclose}. Fetch ohlcv/<TICKER>.json.",
   "tickers": {
     "A": {
       "file": "ohlcv/A.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AAPL": {
       "file": "ohlcv/AAPL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ABBV": {
       "file": "ohlcv/ABBV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ABNB": {
       "file": "ohlcv/ABNB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ABT": {
       "file": "ohlcv/ABT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ACGL": {
       "file": "ohlcv/ACGL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ACN": {
       "file": "ohlcv/ACN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ADBE": {
       "file": "ohlcv/ADBE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ADI": {
       "file": "ohlcv/ADI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ADM": {
       "file": "ohlcv/ADM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ADP": {
       "file": "ohlcv/ADP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ADSK": {
       "file": "ohlcv/ADSK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AEE": {
       "file": "ohlcv/AEE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AEM": {
       "file": "ohlcv/AEM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AEP": {
       "file": "ohlcv/AEP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AES": {
       "file": "ohlcv/AES.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AFL": {
       "file": "ohlcv/AFL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AIG": {
       "file": "ohlcv/AIG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AIZ": {
       "file": "ohlcv/AIZ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AJG": {
       "file": "ohlcv/AJG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AKAM": {
       "file": "ohlcv/AKAM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ALB": {
       "file": "ohlcv/ALB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ALGN": {
       "file": "ohlcv/ALGN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ALL": {
       "file": "ohlcv/ALL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ALLE": {
       "file": "ohlcv/ALLE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AMAT": {
       "file": "ohlcv/AMAT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AMCR": {
       "file": "ohlcv/AMCR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AMD": {
       "file": "ohlcv/AMD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AME": {
       "file": "ohlcv/AME.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AMGN": {
       "file": "ohlcv/AMGN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AMP": {
       "file": "ohlcv/AMP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AMT": {
       "file": "ohlcv/AMT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AMZN": {
       "file": "ohlcv/AMZN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ANET": {
       "file": "ohlcv/ANET.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AON": {
       "file": "ohlcv/AON.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AOS": {
       "file": "ohlcv/AOS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "APA": {
       "file": "ohlcv/APA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "APD": {
       "file": "ohlcv/APD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "APH": {
       "file": "ohlcv/APH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "APO": {
       "file": "ohlcv/APO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "APP": {
       "file": "ohlcv/APP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "APTV": {
       "file": "ohlcv/APTV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ARE": {
       "file": "ohlcv/ARE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ARES": {
       "file": "ohlcv/ARES.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ASML": {
       "file": "ohlcv/ASML.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ATO": {
       "file": "ohlcv/ATO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AVB": {
       "file": "ohlcv/AVB.json",
@@ -293,716 +293,716 @@
     "AVGO": {
       "file": "ohlcv/AVGO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AVY": {
       "file": "ohlcv/AVY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AWK": {
       "file": "ohlcv/AWK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AXON": {
       "file": "ohlcv/AXON.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AXP": {
       "file": "ohlcv/AXP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "AZO": {
       "file": "ohlcv/AZO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BA": {
       "file": "ohlcv/BA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BAC": {
       "file": "ohlcv/BAC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BALL": {
       "file": "ohlcv/BALL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BAX": {
       "file": "ohlcv/BAX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BBY": {
       "file": "ohlcv/BBY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BDX": {
       "file": "ohlcv/BDX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BEN": {
       "file": "ohlcv/BEN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BF-B": {
       "file": "ohlcv/BF-B.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BG": {
       "file": "ohlcv/BG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BIIB": {
       "file": "ohlcv/BIIB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BKNG": {
       "file": "ohlcv/BKNG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BKR": {
       "file": "ohlcv/BKR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BLDR": {
       "file": "ohlcv/BLDR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BLK": {
       "file": "ohlcv/BLK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BMY": {
       "file": "ohlcv/BMY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BNY": {
       "file": "ohlcv/BNY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BR": {
       "file": "ohlcv/BR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BRK-B": {
       "file": "ohlcv/BRK-B.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BRO": {
       "file": "ohlcv/BRO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BSX": {
       "file": "ohlcv/BSX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BX": {
       "file": "ohlcv/BX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "BXP": {
       "file": "ohlcv/BXP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "C": {
       "file": "ohlcv/C.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CAH": {
       "file": "ohlcv/CAH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CARR": {
       "file": "ohlcv/CARR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CASY": {
       "file": "ohlcv/CASY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CAT": {
       "file": "ohlcv/CAT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CB": {
       "file": "ohlcv/CB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CBOE": {
       "file": "ohlcv/CBOE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CBRE": {
       "file": "ohlcv/CBRE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CCI": {
       "file": "ohlcv/CCI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CCL": {
       "file": "ohlcv/CCL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CDNS": {
       "file": "ohlcv/CDNS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CDW": {
       "file": "ohlcv/CDW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CEG": {
       "file": "ohlcv/CEG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CF": {
       "file": "ohlcv/CF.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CFG": {
       "file": "ohlcv/CFG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CHD": {
       "file": "ohlcv/CHD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CHRW": {
       "file": "ohlcv/CHRW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CHTR": {
       "file": "ohlcv/CHTR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CI": {
       "file": "ohlcv/CI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CIEN": {
       "file": "ohlcv/CIEN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CINF": {
       "file": "ohlcv/CINF.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CL": {
       "file": "ohlcv/CL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CLX": {
       "file": "ohlcv/CLX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CMCSA": {
       "file": "ohlcv/CMCSA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CME": {
       "file": "ohlcv/CME.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CMG": {
       "file": "ohlcv/CMG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CMI": {
       "file": "ohlcv/CMI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CMS": {
       "file": "ohlcv/CMS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CNC": {
       "file": "ohlcv/CNC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CNP": {
       "file": "ohlcv/CNP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "COF": {
       "file": "ohlcv/COF.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "COHR": {
       "file": "ohlcv/COHR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "COIN": {
       "file": "ohlcv/COIN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "COO": {
       "file": "ohlcv/COO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "COP": {
       "file": "ohlcv/COP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "COR": {
       "file": "ohlcv/COR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "COST": {
       "file": "ohlcv/COST.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CPAY": {
       "file": "ohlcv/CPAY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CPRT": {
       "file": "ohlcv/CPRT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CPT": {
       "file": "ohlcv/CPT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CRH": {
       "file": "ohlcv/CRH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CRL": {
       "file": "ohlcv/CRL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CRM": {
       "file": "ohlcv/CRM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CRWD": {
       "file": "ohlcv/CRWD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CSCO": {
       "file": "ohlcv/CSCO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CSGP": {
       "file": "ohlcv/CSGP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CSX": {
       "file": "ohlcv/CSX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CTAS": {
       "file": "ohlcv/CTAS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CTSH": {
       "file": "ohlcv/CTSH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CTVA": {
       "file": "ohlcv/CTVA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CVNA": {
       "file": "ohlcv/CVNA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CVS": {
       "file": "ohlcv/CVS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "CVX": {
       "file": "ohlcv/CVX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "D": {
       "file": "ohlcv/D.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DAL": {
       "file": "ohlcv/DAL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DASH": {
       "file": "ohlcv/DASH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DD": {
       "file": "ohlcv/DD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DDOG": {
       "file": "ohlcv/DDOG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DE": {
       "file": "ohlcv/DE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DECK": {
       "file": "ohlcv/DECK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DELL": {
       "file": "ohlcv/DELL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DG": {
       "file": "ohlcv/DG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DGX": {
       "file": "ohlcv/DGX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DHI": {
       "file": "ohlcv/DHI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DHR": {
       "file": "ohlcv/DHR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DIS": {
       "file": "ohlcv/DIS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DLR": {
       "file": "ohlcv/DLR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DLTR": {
       "file": "ohlcv/DLTR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DOC": {
       "file": "ohlcv/DOC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DOV": {
       "file": "ohlcv/DOV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DOW": {
       "file": "ohlcv/DOW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DPZ": {
       "file": "ohlcv/DPZ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DRI": {
       "file": "ohlcv/DRI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DTE": {
       "file": "ohlcv/DTE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DUK": {
       "file": "ohlcv/DUK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DVA": {
       "file": "ohlcv/DVA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DVN": {
       "file": "ohlcv/DVN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "DXCM": {
       "file": "ohlcv/DXCM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EBAY": {
       "file": "ohlcv/EBAY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ECHO": {
       "file": "ohlcv/ECHO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ECL": {
       "file": "ohlcv/ECL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ED": {
       "file": "ohlcv/ED.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EFX": {
       "file": "ohlcv/EFX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EG": {
       "file": "ohlcv/EG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EIX": {
       "file": "ohlcv/EIX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EL": {
       "file": "ohlcv/EL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ELV": {
       "file": "ohlcv/ELV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EME": {
       "file": "ohlcv/EME.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EMR": {
       "file": "ohlcv/EMR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EOG": {
       "file": "ohlcv/EOG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EQIX": {
       "file": "ohlcv/EQIX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EQR": {
       "file": "ohlcv/EQR.json",
@@ -1013,572 +1013,572 @@
     "EQT": {
       "file": "ohlcv/EQT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ERIE": {
       "file": "ohlcv/ERIE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ES": {
       "file": "ohlcv/ES.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ESS": {
       "file": "ohlcv/ESS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ETN": {
       "file": "ohlcv/ETN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ETR": {
       "file": "ohlcv/ETR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EVRG": {
       "file": "ohlcv/EVRG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EW": {
       "file": "ohlcv/EW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EWY": {
       "file": "ohlcv/EWY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EXC": {
       "file": "ohlcv/EXC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EXE": {
       "file": "ohlcv/EXE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EXPD": {
       "file": "ohlcv/EXPD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EXPE": {
       "file": "ohlcv/EXPE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "EXR": {
       "file": "ohlcv/EXR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "F": {
       "file": "ohlcv/F.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FANG": {
       "file": "ohlcv/FANG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FAST": {
       "file": "ohlcv/FAST.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FCX": {
       "file": "ohlcv/FCX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FDS": {
       "file": "ohlcv/FDS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FDX": {
       "file": "ohlcv/FDX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FDXF": {
       "file": "ohlcv/FDXF.json",
-      "bars": 114,
+      "bars": 115,
       "first": "2026-05-27",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "FE": {
       "file": "ohlcv/FE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FERG": {
       "file": "ohlcv/FERG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FFIV": {
       "file": "ohlcv/FFIV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FICO": {
       "file": "ohlcv/FICO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FIS": {
       "file": "ohlcv/FIS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FISV": {
       "file": "ohlcv/FISV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FITB": {
       "file": "ohlcv/FITB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FIX": {
       "file": "ohlcv/FIX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FLEX": {
       "file": "ohlcv/FLEX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FOX": {
       "file": "ohlcv/FOX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FOXA": {
       "file": "ohlcv/FOXA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FRT": {
       "file": "ohlcv/FRT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FSLR": {
       "file": "ohlcv/FSLR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FTNT": {
       "file": "ohlcv/FTNT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "FTV": {
       "file": "ohlcv/FTV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GD": {
       "file": "ohlcv/GD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GDDY": {
       "file": "ohlcv/GDDY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GE": {
       "file": "ohlcv/GE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GEHC": {
       "file": "ohlcv/GEHC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GEN": {
       "file": "ohlcv/GEN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GEV": {
       "file": "ohlcv/GEV.json",
-      "bars": 656,
+      "bars": 657,
       "first": "2024-03-27",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "GILD": {
       "file": "ohlcv/GILD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GIS": {
       "file": "ohlcv/GIS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GL": {
       "file": "ohlcv/GL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GLD": {
       "file": "ohlcv/GLD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GLW": {
       "file": "ohlcv/GLW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GLXY": {
       "file": "ohlcv/GLXY.json",
-      "bars": 371,
+      "bars": 372,
       "first": "2025-05-16",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "GM": {
       "file": "ohlcv/GM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GNRC": {
       "file": "ohlcv/GNRC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GOOG": {
       "file": "ohlcv/GOOG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GOOGL": {
       "file": "ohlcv/GOOGL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GPC": {
       "file": "ohlcv/GPC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GPN": {
       "file": "ohlcv/GPN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GRMN": {
       "file": "ohlcv/GRMN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GS": {
       "file": "ohlcv/GS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "GWW": {
       "file": "ohlcv/GWW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HAL": {
       "file": "ohlcv/HAL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HAS": {
       "file": "ohlcv/HAS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HBAN": {
       "file": "ohlcv/HBAN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HCA": {
       "file": "ohlcv/HCA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HD": {
       "file": "ohlcv/HD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HIG": {
       "file": "ohlcv/HIG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HII": {
       "file": "ohlcv/HII.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HLT": {
       "file": "ohlcv/HLT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HON": {
       "file": "ohlcv/HON.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HONA": {
       "file": "ohlcv/HONA.json",
-      "bars": 101,
+      "bars": 102,
       "first": "2026-06-15",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "HOOD": {
       "file": "ohlcv/HOOD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HPE": {
       "file": "ohlcv/HPE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HPQ": {
       "file": "ohlcv/HPQ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HRL": {
       "file": "ohlcv/HRL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HSIC": {
       "file": "ohlcv/HSIC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HST": {
       "file": "ohlcv/HST.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HSY": {
       "file": "ohlcv/HSY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HUBB": {
       "file": "ohlcv/HUBB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HUM": {
       "file": "ohlcv/HUM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "HWM": {
       "file": "ohlcv/HWM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IBKR": {
       "file": "ohlcv/IBKR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IBM": {
       "file": "ohlcv/IBM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ICE": {
       "file": "ohlcv/ICE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IDXX": {
       "file": "ohlcv/IDXX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IEX": {
       "file": "ohlcv/IEX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IFF": {
       "file": "ohlcv/IFF.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "INCY": {
       "file": "ohlcv/INCY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "INTC": {
       "file": "ohlcv/INTC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "INTU": {
       "file": "ohlcv/INTU.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "INVH": {
       "file": "ohlcv/INVH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IP": {
       "file": "ohlcv/IP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IQV": {
       "file": "ohlcv/IQV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IR": {
       "file": "ohlcv/IR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IRM": {
       "file": "ohlcv/IRM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ISRG": {
       "file": "ohlcv/ISRG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IT": {
       "file": "ohlcv/IT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ITW": {
       "file": "ohlcv/ITW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IVZ": {
       "file": "ohlcv/IVZ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "IWM": {
       "file": "ohlcv/IWM.json",
@@ -1589,116 +1589,116 @@
     "J": {
       "file": "ohlcv/J.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "JBHT": {
       "file": "ohlcv/JBHT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "JBL": {
       "file": "ohlcv/JBL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "JCI": {
       "file": "ohlcv/JCI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "JKHY": {
       "file": "ohlcv/JKHY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "JNJ": {
       "file": "ohlcv/JNJ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "JPM": {
       "file": "ohlcv/JPM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KDP": {
       "file": "ohlcv/KDP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KEY": {
       "file": "ohlcv/KEY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KEYS": {
       "file": "ohlcv/KEYS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KHC": {
       "file": "ohlcv/KHC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KIM": {
       "file": "ohlcv/KIM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KKR": {
       "file": "ohlcv/KKR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KLAC": {
       "file": "ohlcv/KLAC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KMB": {
       "file": "ohlcv/KMB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KMI": {
       "file": "ohlcv/KMI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KO": {
       "file": "ohlcv/KO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KR": {
       "file": "ohlcv/KR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KTOS": {
       "file": "ohlcv/KTOS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "KVUE": {
       "file": "ohlcv/KVUE.json",
@@ -1709,620 +1709,620 @@
     "L": {
       "file": "ohlcv/L.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LDOS": {
       "file": "ohlcv/LDOS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LEN": {
       "file": "ohlcv/LEN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LH": {
       "file": "ohlcv/LH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LHX": {
       "file": "ohlcv/LHX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LII": {
       "file": "ohlcv/LII.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LIN": {
       "file": "ohlcv/LIN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LITE": {
       "file": "ohlcv/LITE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LLY": {
       "file": "ohlcv/LLY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LMT": {
       "file": "ohlcv/LMT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LNT": {
       "file": "ohlcv/LNT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LOW": {
       "file": "ohlcv/LOW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LRCX": {
       "file": "ohlcv/LRCX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LULU": {
       "file": "ohlcv/LULU.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LUV": {
       "file": "ohlcv/LUV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LVS": {
       "file": "ohlcv/LVS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LYB": {
       "file": "ohlcv/LYB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "LYV": {
       "file": "ohlcv/LYV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MA": {
       "file": "ohlcv/MA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MAA": {
       "file": "ohlcv/MAA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MAR": {
       "file": "ohlcv/MAR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MAS": {
       "file": "ohlcv/MAS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MCD": {
       "file": "ohlcv/MCD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MCHP": {
       "file": "ohlcv/MCHP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MCK": {
       "file": "ohlcv/MCK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MCO": {
       "file": "ohlcv/MCO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MDLZ": {
       "file": "ohlcv/MDLZ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MDT": {
       "file": "ohlcv/MDT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MET": {
       "file": "ohlcv/MET.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "META": {
       "file": "ohlcv/META.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MGM": {
       "file": "ohlcv/MGM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MKC": {
       "file": "ohlcv/MKC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MLM": {
       "file": "ohlcv/MLM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MMM": {
       "file": "ohlcv/MMM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MNST": {
       "file": "ohlcv/MNST.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MO": {
       "file": "ohlcv/MO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MOS": {
       "file": "ohlcv/MOS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MPC": {
       "file": "ohlcv/MPC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MPWR": {
       "file": "ohlcv/MPWR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MRK": {
       "file": "ohlcv/MRK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MRNA": {
       "file": "ohlcv/MRNA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MRSH": {
       "file": "ohlcv/MRSH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MRVL": {
       "file": "ohlcv/MRVL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MS": {
       "file": "ohlcv/MS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MSCI": {
       "file": "ohlcv/MSCI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MSFT": {
       "file": "ohlcv/MSFT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MSI": {
       "file": "ohlcv/MSI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MTB": {
       "file": "ohlcv/MTB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MTD": {
       "file": "ohlcv/MTD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "MU": {
       "file": "ohlcv/MU.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NCLH": {
       "file": "ohlcv/NCLH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NDAQ": {
       "file": "ohlcv/NDAQ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NDSN": {
       "file": "ohlcv/NDSN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NEE": {
       "file": "ohlcv/NEE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NEM": {
       "file": "ohlcv/NEM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NFLX": {
       "file": "ohlcv/NFLX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NI": {
       "file": "ohlcv/NI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NKE": {
       "file": "ohlcv/NKE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NOC": {
       "file": "ohlcv/NOC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NOW": {
       "file": "ohlcv/NOW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NRG": {
       "file": "ohlcv/NRG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NSC": {
       "file": "ohlcv/NSC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NTAP": {
       "file": "ohlcv/NTAP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NTRS": {
       "file": "ohlcv/NTRS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NUE": {
       "file": "ohlcv/NUE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NVDA": {
       "file": "ohlcv/NVDA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NVR": {
       "file": "ohlcv/NVR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NWS": {
       "file": "ohlcv/NWS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NWSA": {
       "file": "ohlcv/NWSA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "NXPI": {
       "file": "ohlcv/NXPI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "O": {
       "file": "ohlcv/O.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ODFL": {
       "file": "ohlcv/ODFL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "OKE": {
       "file": "ohlcv/OKE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "OMC": {
       "file": "ohlcv/OMC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ON": {
       "file": "ohlcv/ON.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ORCL": {
       "file": "ohlcv/ORCL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ORLY": {
       "file": "ohlcv/ORLY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "OTIS": {
       "file": "ohlcv/OTIS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "OXY": {
       "file": "ohlcv/OXY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PANW": {
       "file": "ohlcv/PANW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PAYX": {
       "file": "ohlcv/PAYX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PCAR": {
       "file": "ohlcv/PCAR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PCG": {
       "file": "ohlcv/PCG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PEG": {
       "file": "ohlcv/PEG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PEP": {
       "file": "ohlcv/PEP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PFE": {
       "file": "ohlcv/PFE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PFG": {
       "file": "ohlcv/PFG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PG": {
       "file": "ohlcv/PG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PGR": {
       "file": "ohlcv/PGR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PH": {
       "file": "ohlcv/PH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PHM": {
       "file": "ohlcv/PHM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PKG": {
       "file": "ohlcv/PKG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PLD": {
       "file": "ohlcv/PLD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PLTR": {
       "file": "ohlcv/PLTR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PM": {
       "file": "ohlcv/PM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PNC": {
       "file": "ohlcv/PNC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PNR": {
       "file": "ohlcv/PNR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PNW": {
       "file": "ohlcv/PNW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PODD": {
       "file": "ohlcv/PODD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PPG": {
       "file": "ohlcv/PPG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PPL": {
       "file": "ohlcv/PPL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PRU": {
       "file": "ohlcv/PRU.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PSA": {
       "file": "ohlcv/PSA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PSKY": {
       "file": "ohlcv/PSKY.json",
@@ -2333,38 +2333,38 @@
     "PSX": {
       "file": "ohlcv/PSX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PTC": {
       "file": "ohlcv/PTC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PWR": {
       "file": "ohlcv/PWR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "PYPL": {
       "file": "ohlcv/PYPL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "Q": {
       "file": "ohlcv/Q.json",
-      "bars": 259,
+      "bars": 260,
       "first": "2025-10-27",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "QCOM": {
       "file": "ohlcv/QCOM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "QQQ": {
       "file": "ohlcv/QQQ.json",
@@ -2375,194 +2375,194 @@
     "RCL": {
       "file": "ohlcv/RCL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "REG": {
       "file": "ohlcv/REG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "REGN": {
       "file": "ohlcv/REGN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RF": {
       "file": "ohlcv/RF.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RIOT": {
       "file": "ohlcv/RIOT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RJF": {
       "file": "ohlcv/RJF.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RL": {
       "file": "ohlcv/RL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RMD": {
       "file": "ohlcv/RMD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ROK": {
       "file": "ohlcv/ROK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ROL": {
       "file": "ohlcv/ROL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ROP": {
       "file": "ohlcv/ROP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ROST": {
       "file": "ohlcv/ROST.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RSG": {
       "file": "ohlcv/RSG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RTX": {
       "file": "ohlcv/RTX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "RVTY": {
       "file": "ohlcv/RVTY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SBAC": {
       "file": "ohlcv/SBAC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SBUX": {
       "file": "ohlcv/SBUX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SCHW": {
       "file": "ohlcv/SCHW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SHW": {
       "file": "ohlcv/SHW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SJM": {
       "file": "ohlcv/SJM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SKHY": {
       "file": "ohlcv/SKHY.json",
-      "bars": 84,
+      "bars": 85,
       "first": "2026-07-10",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "SLB": {
       "file": "ohlcv/SLB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SMCI": {
       "file": "ohlcv/SMCI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SNA": {
       "file": "ohlcv/SNA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SNDK": {
       "file": "ohlcv/SNDK.json",
-      "bars": 435,
+      "bars": 436,
       "first": "2025-02-13",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "SNPS": {
       "file": "ohlcv/SNPS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SO": {
       "file": "ohlcv/SO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SOLV": {
       "file": "ohlcv/SOLV.json",
-      "bars": 657,
+      "bars": 658,
       "first": "2024-03-26",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "SPCE": {
       "file": "ohlcv/SPCE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SPCX": {
       "file": "ohlcv/SPCX.json",
-      "bars": 102,
+      "bars": 103,
       "first": "2026-06-12",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     "SPG": {
       "file": "ohlcv/SPG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SPGI": {
       "file": "ohlcv/SPGI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SPY": {
       "file": "ohlcv/SPY.json",
@@ -2573,404 +2573,404 @@
     "SRE": {
       "file": "ohlcv/SRE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "STE": {
       "file": "ohlcv/STE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "STLD": {
       "file": "ohlcv/STLD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "STT": {
       "file": "ohlcv/STT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "STX": {
       "file": "ohlcv/STX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "STZ": {
       "file": "ohlcv/STZ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SW": {
       "file": "ohlcv/SW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SWK": {
       "file": "ohlcv/SWK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SWKS": {
       "file": "ohlcv/SWKS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SYF": {
       "file": "ohlcv/SYF.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SYK": {
       "file": "ohlcv/SYK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "SYY": {
       "file": "ohlcv/SYY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "T": {
       "file": "ohlcv/T.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TAP": {
       "file": "ohlcv/TAP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TDG": {
       "file": "ohlcv/TDG.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TDY": {
       "file": "ohlcv/TDY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TECH": {
       "file": "ohlcv/TECH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TEL": {
       "file": "ohlcv/TEL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TER": {
       "file": "ohlcv/TER.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TFC": {
       "file": "ohlcv/TFC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TGT": {
       "file": "ohlcv/TGT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TJX": {
       "file": "ohlcv/TJX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TKO": {
       "file": "ohlcv/TKO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TMO": {
       "file": "ohlcv/TMO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TMUS": {
       "file": "ohlcv/TMUS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TPL": {
       "file": "ohlcv/TPL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TPR": {
       "file": "ohlcv/TPR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TRGP": {
       "file": "ohlcv/TRGP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TRMB": {
       "file": "ohlcv/TRMB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TROW": {
       "file": "ohlcv/TROW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TRV": {
       "file": "ohlcv/TRV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TSCO": {
       "file": "ohlcv/TSCO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TSLA": {
       "file": "ohlcv/TSLA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TSM": {
       "file": "ohlcv/TSM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TSN": {
       "file": "ohlcv/TSN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TT": {
       "file": "ohlcv/TT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TTD": {
       "file": "ohlcv/TTD.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TTWO": {
       "file": "ohlcv/TTWO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TXN": {
       "file": "ohlcv/TXN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TXT": {
       "file": "ohlcv/TXT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "TYL": {
       "file": "ohlcv/TYL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "UAL": {
       "file": "ohlcv/UAL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "UBER": {
       "file": "ohlcv/UBER.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "UDR": {
       "file": "ohlcv/UDR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "UHS": {
       "file": "ohlcv/UHS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ULTA": {
       "file": "ohlcv/ULTA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "UNH": {
       "file": "ohlcv/UNH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "UNP": {
       "file": "ohlcv/UNP.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "UPS": {
       "file": "ohlcv/UPS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "URI": {
       "file": "ohlcv/URI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "USB": {
       "file": "ohlcv/USB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "V": {
       "file": "ohlcv/V.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VEEV": {
       "file": "ohlcv/VEEV.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VICI": {
       "file": "ohlcv/VICI.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VLO": {
       "file": "ohlcv/VLO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VLTO": {
       "file": "ohlcv/VLTO.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VMC": {
       "file": "ohlcv/VMC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VRSK": {
       "file": "ohlcv/VRSK.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VRSN": {
       "file": "ohlcv/VRSN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VRT": {
       "file": "ohlcv/VRT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VRTX": {
       "file": "ohlcv/VRTX.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VST": {
       "file": "ohlcv/VST.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VTR": {
       "file": "ohlcv/VTR.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VTRS": {
       "file": "ohlcv/VTRS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "VZ": {
       "file": "ohlcv/VZ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WAB": {
       "file": "ohlcv/WAB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WAT": {
       "file": "ohlcv/WAT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WBD": {
       "file": "ohlcv/WBD.json",
@@ -2981,140 +2981,140 @@
     "WDAY": {
       "file": "ohlcv/WDAY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WDC": {
       "file": "ohlcv/WDC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WEC": {
       "file": "ohlcv/WEC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WELL": {
       "file": "ohlcv/WELL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WFC": {
       "file": "ohlcv/WFC.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WM": {
       "file": "ohlcv/WM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WMB": {
       "file": "ohlcv/WMB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WMT": {
       "file": "ohlcv/WMT.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WRB": {
       "file": "ohlcv/WRB.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WSM": {
       "file": "ohlcv/WSM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WST": {
       "file": "ohlcv/WST.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WTW": {
       "file": "ohlcv/WTW.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WY": {
       "file": "ohlcv/WY.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "WYNN": {
       "file": "ohlcv/WYNN.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "XEL": {
       "file": "ohlcv/XEL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "XLE": {
       "file": "ohlcv/XLE.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "XOM": {
       "file": "ohlcv/XOM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "XYL": {
       "file": "ohlcv/XYL.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "XYZ": {
       "file": "ohlcv/XYZ.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "YUM": {
       "file": "ohlcv/YUM.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ZBH": {
       "file": "ohlcv/ZBH.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ZBRA": {
       "file": "ohlcv/ZBRA.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     },
     "ZTS": {
       "file": "ohlcv/ZTS.json",
       "bars": 750,
-      "first": "2023-11-09",
-      "last": "2026-11-05"
+      "first": "2023-11-10",
+      "last": "2026-11-06"
     }
   }
 }
